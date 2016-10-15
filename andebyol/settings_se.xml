@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+
+<!-- sprak kan være no, se eller dk -->
+<word>
+	<id>sprak</id>
+	<string>dk</string>
+</word>
+
+<word>
+	<id>brukerdataURL</id>
+  	<string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</string>
+</word>
+
+<word>
+	<id>highscoreURL</id>
+  	<string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=highscore</string>
+</word>
+
+<word>
+	<id>postscoreURL</id>
+  	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=highscore</string>
+</word>
+
+<word>
+	<id>tipsURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendtip</string>
+</word>
+
+<word>
+	<id>purchaseURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=purchase</string>
+</word>
+
+<word>
+	<id>achievementURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=registerAchievement</string>
+</word>
+
+<word>
+	<id>challengeURL</id>
+	<string>http://www.andeby.dk/fb.aspx?type=100</string>
+</word>
+
+<word>
+	<id>sendChallengeURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendChallenge</string>
+</word>
+
+
+<word>
+	<id>bliMedlemURL</id>
+	<string>http://www.andeby.dk/default.aspx?section=newuser</string>
+</word>
+
+<word>
+	<id>facebookURL</id>
+	<string>http://www.facebook.com/andebynews</string>
+</word>
+
+<word>
+	<id>facebookDeleURL</id>
+	<string>http://www.andeby.dk/fb.aspx?type=100</string>
+</word>
+
+<word>
+	<id>vare1Id</id>
+	<string>11</string>
+</word>
+
+<word>
+	<id>vare1Price</id>
+	<string>300</string>
+</word>
+
+<word>
+	<id>vare2Id</id>
+	<string>12</string>
+</word>
+
+<word>
+	<id>vare2Price</id>
+	<string>500</string>
+</word>
+
+<!--- 1 Bronse -->
+<word>
+	<id>utmerkelse1Id</id>
+	<string>4</string>
+</word>
+
+<word>
+	<id>utmerkelse1Price</id>
+	<string>100</string>
+</word>
+
+<!--- 2 Sølv -->
+
+<word>
+	<id>utmerkelse2Id</id>
+	<string>5</string>
+</word>
+
+<word>
+	<id>utmerkelse2Price</id>
+	<string>200</string>
+</word>
+<!--- 3 Gull -->
+<word>
+	<id>utmerkelse3Id</id>
+	<string>6</string>
+</word>
+
+<word>
+	<id>utmerkelse3Price</id>
+	<string>300</string>
+</word>
+
+
+<!--- Startmeny -->
+
+<word>
+	<id>START</id>
+	<string>STARTA</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKTION</string>
+</word>
+
+<word>
+	<id>BLI MEDLEM</id>
+	<string>BLI MEDLEM</string>
+</word>
+
+<word>
+	<id>DAGENS BESTE</id>
+	<string>DAGENS BÄSTA</string>
+</word>
+
+<word>
+	<id>DONALD PÅ FACEBOOK</id>
+	<string>KALLE ANKA PÅ FACEBOOK</string>
+</word>
+
+<word>
+	<id>Lengdehopptrening</id>
+	<string>Längdhoppsträning</string>
+</word>
+
+<word>
+	<id>Hekkeløpstrening</id>
+	<string>Häcklöpningsträning</string>
+</word>
+
+<word>
+	<id>Diskostrening</id>
+	<string>Diskusträning</string>
+</word>
+
+<word>
+	<id>UTFORDRING</id>
+	<string>Du har blivit utmanad på duell mot:</string>
+</word>
+
+<word>
+	<id>HVEM ER BEST</id>
+	<string>Vem är bäst?</string>
+</word>
+
+
+
+<!--- Instruksjon -->
+
+<word>
+	<id>SLIK SPILLER DU</id>
+	<string>SÅ SPELAR DU</string>
+</word>
+
+<word>
+	<id>Instruksjonstekst</id>
+	<string>Kan du hävda dig i Ankeborgs-OS?
+Du tävlar i tre grenar för att få så bra sammanlagt resultat som möjligt.
+Använd MELLANSLAGS- och PILTANGENTERNA, och läs annars instruktionen för varje enskild övning.
+Du kan också träna på enskilda grenar om du vill bli så bra som möjligt.
+Det är också möjligt att utmana kompisar med slutresultatet, via Facebook eller e-post.
+</string>
+</word>
+
+<word>
+	<id>Instruksjon Medlemsinfo</id>
+	<string>Är du medlem på KalleAnka.se? Då kan du använda dina Ankeborgskronor till att köpa extra fördelar. Lycka till!</string>
+</word>
+
+
+
+
+<!--- Kjøpeskjerm -->
+
+<word>
+	<id>VAREINFO</id>
+	<string>Guldskor gör dig snabbare i häcklöpning och längdhopp.
+Pajen har bättre flygegenskaper än en vanlig diskus.
+</string>
+</word>
+
+<word>
+	<id>DEFAULT NAVN</id>
+	<string>KALLE ANKA</string>
+</word>
+
+<word>
+	<id>DITT NAVN</id>
+	<string>DITT NAMN</string>
+</word>
+
+<word>
+	<id>MULIGE KJØP</id>
+	<string>MÖJLIGA KÖP:</string>
+</word>
+
+<word>
+	<id>VARENAVN1</id>
+	<string>GULDSKOR</string>
+</word>
+
+<word>
+	<id>VARENAVN2</id>
+	<string>FARMORS PAJ</string>
+</word>
+
+<word>
+	<id>Andeby-kroner</id>
+	<string>Ankeborgskronor</string>
+</word>
+
+<word>
+	<id>KJØP</id>
+	<string>KÖP</string>
+</word>
+
+<word>
+	<id>OK</id>
+	<string>OK</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKTION</string>
+</word>
+
+<word>
+	<id>Avbryt</id>
+	<string>Avbryt</string>
+</word>
+
+<word>
+	<id>UTMERKELSER</id>
+	<string>Utmärkelser - spela och vinn Ankeborgskronor:</string>
+</word>
+
+<word>
+	<id>UTMERKELSER TATT</id>
+	<string>Utmärkelser - du har vunnit alla!</string>
+</word>
+
+<word>
+	<id>BRONSEKRAV</id>
+	<string>ÖVER
+1500 P</string>
+</word>
+
+<word>
+	<id>BRONSEKRAV POENGVERDI</id>
+	<string>1500</string>
+</word>
+
+<word>
+	<id>BRONSE GRATULASJON</id>
+	<string>Du fick bronsmedalj och 100 Ankeborgskronor!</string>
+</word>
+
+<word>
+	<id>SOLVKRAV</id>
+	<string>ÖVER
+2000 P</string>
+</word>
+
+<word>
+	<id>SOLVKRAV POENGVERDI</id>
+	<string>2000</string>
+</word>
+
+<word>
+	<id>SOLV GRATULASJON</id>
+	<string>Du fick silvermedalj och 200 Ankeborgskronor!</string>
+</word>
+
+<word>
+	<id>GULLKRAV</id>
+	<string>ÖVER
+2500 P</string>
+</word>
+
+<word>
+	<id>GULLKRAV POENGVERDI</id>
+	<string>2500</string>
+</word>
+
+<word>
+	<id>GULL GRATULASJON</id>
+	<string>Du fick guldmedalj och 300 Ankeborgskronor!</string>
+</word>
+
+
+
+<!--- Kjøpesiden -->
+
+<!-- Info på kjøpesiden - Tittel i bold -->
+<word>
+	<id>Valginfo1</id>
+	<string>Extra objekt:</string>
+</word>
+
+<!-- Info på kjøpesiden - Hovedtekst -->
+<word>
+	<id>Valginfo2</id>
+	<string>Aktivitet på KalleAnka.se belönas med Ankeborgskronor. Du måste vara inloggad på KalleAnka.se för att kunna använda dina Ankeborgskronor. Är du inte medlem,</string>
+</word>
+<!-- Info på kjøpesiden - Lenke i blått til slutt -->
+<word>
+	<id>Valginfo3</id>
+	<string>anmäl dig här!</string>
+</word>
+
+<word>
+	<id>Valginfo3URL</id>
+	<string>http://www.kalleanka.se/default.aspx?section=newuser</string>
+</word>
+
+<word>
+	<id>DIN SALDO</id>
+	<string>DITT SALDO</string>
+</word>
+
+<word>
+	<id>AKR</id>
+	<string>AKR</string>
+</word>
+
+<word>
+	<id>Ikke pålogget</id>
+	<string>Du måste vara inloggad på KalleAnka.se för att kunna köpa.</string>
+</word>
+
+<word>
+	<id>Ikke nok</id>
+	<string>Du har inte tillräckligt med Ankeborgskronor för att köpa. Du kan skaffa dig Ankeborgskronor genom att snacka och kvacka loss på KalleAnka.se!</string>
+</word>
+
+<word>
+	<id>Bekreft kjøp</id>
+	<string>Är du säker på att du vill köpa detta? (Köpet sparas och du behöver inte köpa på nytt senare.)</string>
+</word>
+
+	
+	<!--- GAME -->
+<word>
+	<id>INNTA PLASSENE</id>
+	<string>PÅ ERA PLATSER</string>
+</word>
+
+<word>
+	<id>FERDIG</id>
+	<string>FÄRDIGA</string>
+</word>
+
+<word>
+	<id>HEKKELØP</id>
+	<string>HÄCKLÖPNING</string>
+</word>
+
+<word>
+	<id>GREN</id>
+	<string>GREN</string>
+</word>
+
+<word>
+	<id>TRENING</id>
+	<string>TRÄNING</string>
+</word>
+
+<word>
+	<id>Resultat</id>
+	<string>Resultat</string>
+</word>
+
+<word>
+	<id>Din rekord</id>
+	<string>Ditt rekord</string>
+</word>
+
+<word>
+	<id>Poeng</id>
+	<string>Poäng</string>
+</word>
+
+<word>
+	<id>INSTRUKS HEKK</id>
+	<string>SPACE för att springa - PIL UPP for att hoppa</string>
+</word>
+
+<word>
+	<id>SPACE START</id>
+	<string>SPACE för att starta</string>
+</word>
+
+<word>
+	<id>SPACE FORTSETT</id>
+	<string>SPACE för att fortsätta</string>
+</word>
+
+<word>
+	<id>LENGDEHOPP</id>
+	<string>LÄNGDHOPP</string>
+</word>
+
+<word>
+	<id>INSTRUKS LENGDE</id>
+	<string>SPACE för att ta sats - PIL UPP för att hoppa före plankan</string>
+</word>
+
+<word>
+	<id>DISKOSKAST</id>
+	<string>DISKUSKASTNING</string>
+</word>
+
+<word>
+	<id>INSTRUKS DISKOS</id>
+	<string>Håll nere SPACE för att snurra, släpp SPACE för att kasta!
+PILTANGENTER justerar vinkeln.</string>
+</word>
+
+
+
+
+<word>
+	<id>SPACE</id>
+	<string>SPACE för att starta!</string>
+</word>
+
+<word>
+	<id>SPACEHINT</id>
+	<string>SPACE for å tenne neste rakett!</string>
+</word>
+
+<word>
+	<id>REKORD</id>
+	<string>Rekord:</string>
+</word>
+
+<word>
+	<id>NY REKORD</id>
+	<string>Nytt personligt rekord!</string>
+</word>
+
+<word>
+	<id>HØYDE</id>
+	<string>Høyde:</string>
+</word>
+
+
+<!--- GAME OVER -->
+
+<word>
+	<id>SPILL IGJEN</id>
+	<string>SPELA IGEN</string>
+</word>
+
+<word>
+	<id>MENY</id>
+	<string>MENY</string>
+</word>
+
+<word>
+	<id>SPILLET ER OVER</id>
+	<string>SPELET ÄR SLUT</string>
+</word>
+
+<word>
+	<id>Lengdehopp</id>
+	<string>Längdhopp</string>
+</word>
+
+<word>
+	<id>Hekkeløp</id>
+	<string>Häcklöpning</string>
+</word>
+
+<word>
+	<id>Diskos</id>
+	<string>Diskuskastning</string>
+</word>
+
+
+<word>
+	<id>POENG</id>
+	<string>Poäng</string>
+</word>
+
+<word>
+	<id>Du</id>
+	<string>Du</string>
+</word>
+
+<word>
+	<id>GRATULERER</id>
+	<string>Grattis! Du är bäst!</string>
+</word>
+
+<word>
+	<id>KONDOLERER</id>
+	<string>Bättre lycka nästa gång!</string>
+</word>
+
+<word>
+	<id>UAVGJORT</id>
+	<string>Otroligt! Precis likadant!</string>
+</word>
+
+<word>
+	<id>DEL DITT RESULTAT</id>
+	<string>UTMANA KOMPISAR PÅ FACEBOOK</string>
+</word>
+
+<word>
+	<id>TIPS EN VENN</id>
+	<string>UTMANA EN KOMPIS</string>
+</word>
+
+<word>
+	<id>Tips en venn</id>
+	<string>Utmana en kompis:</string>
+</word>
+
+<word>
+	<id>Tips en venn-info</id>
+	<string>Skicka en utmaning via mejl till vänner och bekanta!</string>
+</word>
+
+<word>
+	<id>Ditt navn</id>
+	<string>Ditt namn:</string>
+</word>
+
+<word>
+	<id>Din epost</id>
+	<string>Din e-postadress:</string>
+</word>
+
+<word>
+	<id>Venns epost</id>
+	<string>Din kompis e-postadress:</string>
+</word>
+
+<word>
+	<id>SEND TIPS</id>
+	<string>SKICKA UTMANINGEN</string>
+</word>
+
+<word>
+	<id>TILBAKE</id>
+	<string>TILLBAKA</string>
+</word>
+
+<word>
+	<id>Tips sendt</id>
+	<string>Utmaningen är skickad! Utmana gärna fler!</string>
+</word>
+
+<word>
+	<id>Tips error</id>
+	<string>Du måste fylla i alla fälten!</string>
+</word>
+
+</xml>
