@@ -10,7 +10,7 @@
 <!-- sprak kan være no, se eller dk -->
 <word>
 	<id>sprak</id>
-	<string>dk</string>
+	<string>no</string>
 </word>
 
 <word>
@@ -46,22 +46,22 @@
 
 <word>
 	<id>bliMedlemURL</id>
-	<string>http://www.donald.no/default.aspx?section=newuser</string>
+	<string>http://www.andeby.dk/default.aspx?section=newuser</string>
 </word>
 
 <word>
 	<id>facebookURL</id>
-	<string>http://www.facebook.com/donald.no</string>
+	<string>http://www.facebook.com/AndebyNews</string>
 </word>
 
 <word>
 	<id>facebookDeleURL</id>
-	<string>http://www.donald.no/fb.aspx?type=100</string>
+	<string>http://www.andeby.dk/fb.aspx?type=100</string>
 </word>
 
 <word>
 	<id>vare1Id</id>
-	<string>Server-Id til ekstra rakett 1</string>
+	<string>9</string>
 </word>
 
 <word>
@@ -71,7 +71,7 @@
 
 <word>
 	<id>vare2Id</id>
-	<string>Server-Id til ekstra rakett 2</string>
+	<string>10</string>
 </word>
 
 <word>
@@ -115,11 +115,11 @@
 <!--- Intro -->
 <word>
 	<id>HOPP OVER</id>
-	<string>HOPP OVER</string>
+	<string>HOP OVER</string>
 </word>
 <word>
 	<id>INTRO1</id>
-	<string>Donald og guttene har reist tilbake i tid, til 1500-tallets Kina, for å undersøke historien om Wan Hu, verdens første astronaut.</string>
+	<string>Anders og nevøerne er rejst tilbage i tiden, til 1500-tallets Kina, for at undersøge historien om Wan Hu, verdens første astronaut.</string>
 </word>
 <word>
 	<id>INTRO2</id>
@@ -127,7 +127,7 @@
 </word>
 <word>
 	<id>INTRO3</id>
-	<string>I morgen skal jeg reise til MÅNEN i min egen rakettstol!</string>
+	<string>I morgen skal jeg rejse til MÅNEN i min egen raketstol!</string>
 </word>
 <word>
 	<id>INTRO3B</id>
@@ -135,7 +135,7 @@
 </word>
 <word>
 	<id>INTRO4</id>
-	<string>På grunn av en uheldig forveksling havner Donald i rakettstolen...</string>
+	<string>På grund af en uheldig forveksling havner Anders i raketstolen...</string>
 </word>
 
 
@@ -148,22 +148,22 @@
 
 <word>
 	<id>INSTRUKSJON</id>
-	<string>INSTRUKSJON</string>
+	<string>INSTRUKTION</string>
 </word>
 
 <word>
 	<id>BLI MEDLEM</id>
-	<string>BLI MEDLEM</string>
+	<string>BLIV MEDLEM</string>
 </word>
 
 <word>
 	<id>DAGENS BESTE</id>
-	<string>DAGENS BESTE</string>
+	<string>DAGENS BEDSTE</string>
 </word>
 
 <word>
 	<id>DONALD PÅ FACEBOOK</id>
-	<string>DONALD PÅ FACEBOOK</string>
+	<string>ANDEBY PÅ FACEBOOK</string>
 </word>
 
 
@@ -173,25 +173,25 @@
 
 <word>
 	<id>SLIK SPILLER DU</id>
-	<string>SLIK SPILLER DU</string>
+	<string>SÅDAN SPILLER DU</string>
 </word>
 
 <word>
 	<id>Instruksjonstekst</id>
-	<string>Styr Donald så høyt som mulig i rakettstolen!
-SPACE for å starte.
-PIL HØYRE for å svinge til HØYRE.
-PIL VENSTRE for å svinge til VENSTRE.
-SPACE for å tenne neste rakett.
-Du må tenne neste rakett før den forrige er utbrent!
+	<string>Fyr Anders så højt op som muligt i raketstolen!
+MELLEMRUM for at starte.
+HØJRE PIL for at svinge til HØJRE.
+VENSTRE PIL for at svinge til VENSTRE.
+MELLEMRUM for at tænde næste raket.
+Du skal tænde næste raket før den forrige grænder ud!
 
-Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
+Pas på fugle! Måske kan du få hjælp af en tordensky?
 </string>
 </word>
 
 <word>
 	<id>Instruksjon Medlemsinfo</id>
-	<string>Er du medlem på Donald.no? Da kan du benytte deg av dine Andeby-kroner til å kjøpe deg ekstra raketter. Lykke til!</string>
+	<string>Hvis du er medlem af Andeby.dk kan du bruge dine Andeby-kroner til at købe ekstra raketter. Fyr den af!!</string>
 </word>
 
 
@@ -201,33 +201,33 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>VAREINFO</id>
-	<string>Ekstra raketter gir deg sjansen til å komme enda høyere!
+	<string>Ekstra raketter giver dig mulighed for at komme endnu højere op!
 </string>
 </word>
 
 <word>
 	<id>DEFAULT NAVN</id>
-	<string>DONALD DUCK</string>
+	<string>ANDERS AND</string>
 </word>
 
 <word>
 	<id>DITT NAVN</id>
-	<string>DITT NAVN</string>
+	<string>DIT NAVN</string>
 </word>
 
 <word>
 	<id>MULIGE KJØP</id>
-	<string>MULIGE KJØP:</string>
+	<string>MULIGE KØB:</string>
 </word>
 
 <word>
 	<id>VARENAVN1</id>
-	<string>EKSTRA RAKETTPAR</string>
+	<string>EKSTRA RAKETPAR</string>
 </word>
 
 <word>
 	<id>VARENAVN2</id>
-	<string>EKSTRA RAKETTPAR</string>
+	<string>EKSTRA RAKETPAR</string>
 </word>
 
 <word>
@@ -237,7 +237,7 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>KJØP</id>
-	<string>KJØP</string>
+	<string>KØB</string>
 </word>
 
 <word>
@@ -247,22 +247,22 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>INSTRUKSJON</id>
-	<string>INSTRUKSJON</string>
+	<string>INSTRUKTION</string>
 </word>
 
 <word>
 	<id>Avbryt</id>
-	<string>Avbryt</string>
+	<string>Afbryd</string>
 </word>
 
 <word>
 	<id>UTMERKELSER</id>
-	<string>Utmerkelser - Spill og vinn Andeby-kroner:</string>
+	<string>Præmier - Spil og vind Andeby-kroner:</string>
 </word>
 
 <word>
 	<id>UTMERKELSER TATT</id>
-	<string>Utmerkelser - Du har vunnet alle!</string>
+	<string>Præmier - du har vundet alle!</string>
 </word>
 
 <word>
@@ -278,7 +278,7 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>BRONSE GRATULASJON</id>
-	<string>Du fikk bronsemedalje og 100 Andebykroner!</string>
+	<string>Du fik bronzemedalje og 100 Andebykroner!</string>
 </word>
 
 <word>
@@ -294,7 +294,7 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>SOLV GRATULASJON</id>
-	<string>Du fikk sølvmedalje og 200 Andebykroner!</string>
+	<string>Du fik sølvmedalje og 200 Andebykroner!</string>
 </word>
 
 <word>
@@ -310,7 +310,7 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>GULL GRATULASJON</id>
-	<string>Du fikk gullmedalje og 300 Andebykroner!</string>
+	<string>Du fik guldmedalje og 300 Andebykroner!</string>
 </word>
 
 
@@ -326,17 +326,17 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 <!-- Info på kjøpesiden - Hovedtekst -->
 <word>
 	<id>Valginfo2</id>
-	<string>Aktivitet på Donald.no belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å benytte deg av Andeby-kronene dine. Er du ikke medlem,</string>
+	<string>Aktivitet på Andeby.dk belønnes med Andeby-kroner. Du skal være logget ind på Andeby.dk for at bruge dine Andeby-kroner. Er du ikke medlem,</string>
 </word>
 <!-- Info på kjøpesiden - Lenke i blått til slutt -->
 <word>
 	<id>Valginfo3</id>
-	<string>registrer deg her!</string>
+	<string>registrer dig her!</string>
 </word>
 
 <word>
 	<id>Valginfo3URL</id>
-	<string>http://www.donald.no/default.aspx?section=newuser</string>
+	<string>http://www.andeby.dk/default.aspx?section=newuser</string>
 </word>
 
 <word>
@@ -351,17 +351,17 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>Ikke pålogget</id>
-	<string>Du må være pålogget donald.no for å kunne kjøpe.</string>
+	<string>Du skal være logget ind på Andeby.dk for at kunne købe.</string>
 </word>
 
 <word>
 	<id>Ikke nok</id>
-	<string>Du har ikke nok Andebykroner for å kjøpe. Du kan skaffe deg Andebykroner ved å ...</string>
+	<string>Du har ikke nok Andebykroner. Du kan tjene Andebykroner ved at ...</string>
 </word>
 
 <word>
 	<id>Bekreft kjøp</id>
-	<string>Er du sikker på at du vil kjøpe dette? (Kjøpet blir lagret og du trenger ikke å kjøpe på nytt senere.)</string>
+	<string>Er du sikker på at du vil købe dette? (Købet bliver gemt og du behøver ikke at købe igen senere.)</string>
 </word>
 
 	
@@ -369,12 +369,12 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>SPACE</id>
-	<string>SPACE for å starte!</string>
+	<string>MELLEMRUM for at starte!</string>
 </word>
 
 <word>
 	<id>SPACEHINT</id>
-	<string>SPACE for å tenne neste rakett!</string>
+	<string>MELLEMRUM for at tænde næste raket!</string>
 </word>
 
 <word>
@@ -389,7 +389,7 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>HØYDE</id>
-	<string>Høyde:</string>
+	<string>Højde:</string>
 </word>
 
 
@@ -397,17 +397,17 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>SPILL IGJEN</id>
-	<string>SPILL IGJEN</string>
+	<string>SPIL IGEN</string>
 </word>
 
 <word>
 	<id>MENY</id>
-	<string>MENY</string>
+	<string>MENU</string>
 </word>
 
 <word>
 	<id>SPILLET ER OVER</id>
-	<string>SPILLET ER OVER</string>
+	<string>SPILLET ER SLUT</string>
 </word>
 
 <word>
@@ -417,67 +417,67 @@ Pass deg for fugler! Kanskje kan du få hjelp av en tordensky?
 
 <word>
 	<id>OPP</id>
-	<string>opp</string>
+	<string>op</string>
 </word>
 
 <word>
 	<id>POENG</id>
-	<string>Poeng:</string>
+	<string>Point:</string>
 </word>
 
 <word>
 	<id>DEL DITT RESULTAT</id>
-	<string>DEL DITT RESULTAT PÅ FACEBOOK</string>
+	<string>DEL DIT RESULTAT PÅ FACEBOOK</string>
 </word>
 
 <word>
 	<id>TIPS EN VENN</id>
-	<string>TIPS EN VENN</string>
+	<string>TIP EN VEN</string>
 </word>
 
 <word>
 	<id>Tips en venn</id>
-	<string>Tips en venn:</string>
+	<string>Tips en ven:</string>
 </word>
 
 <word>
 	<id>Tips en venn-info</id>
-	<string>Send et tips på mail til venner og kjente!</string>
+	<string>Send et tip på mail til venner og bekendte!</string>
 </word>
 
 <word>
 	<id>Ditt navn</id>
-	<string>Ditt navn:</string>
+	<string>Dit navn:</string>
 </word>
 
 <word>
 	<id>Din epost</id>
-	<string>Din e-postadresse:</string>
+	<string>Din e-mailadresse:</string>
 </word>
 
 <word>
 	<id>Venns epost</id>
-	<string>Din venns e-postadresse:</string>
+	<string>Din venn e-mailadresse:</string>
 </word>
 
 <word>
 	<id>SEND TIPS</id>
-	<string>SEND TIPS</string>
+	<string>SEND TIP</string>
 </word>
 
 <word>
 	<id>TILBAKE</id>
-	<string>TILBAKE</string>
+	<string>TILBAGE</string>
 </word>
 
 <word>
 	<id>Tips sendt</id>
-	<string>Tips sendt! Tips gjerne flere!</string>
+	<string>Tip sendt! Tip gerne flere!</string>
 </word>
 
 <word>
 	<id>Tips error</id>
-	<string>Alle feltene ovenfor må fylles ut!</string>
+	<string>Alle felterne ovenfor skal udfyldes!</string>
 </word>
 
 </xml>
