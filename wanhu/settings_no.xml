@@ -66,7 +66,7 @@
 
 <word>
 	<id>vare1Price</id>
-	<string>0</string>
+	<string>300</string>
 </word>
 
 <word>
@@ -76,7 +76,7 @@
 
 <word>
 	<id>vare2Price</id>
-	<string>0</string>
+	<string>500</string>
 </word>
 
 <!--- 1 Bronse -->
@@ -87,7 +87,7 @@
 
 <word>
 	<id>utmerkelse1Price</id>
-	<string>10000000000</string>
+	<string>100</string>
 </word>
 
 <!--- 2 Sølv -->
@@ -99,7 +99,7 @@
 
 <word>
 	<id>utmerkelse2Price</id>
-	<string>20000000000</string>
+	<string>200</string>
 </word>
 <!--- 3 Gull -->
 <word>
@@ -109,7 +109,7 @@
 
 <word>
 	<id>utmerkelse3Price</id>
-	<string>30000000000</string>
+	<string>300</string>
 </word>
 
 <!--- Intro -->
