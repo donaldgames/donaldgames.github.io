@@ -15,27 +15,27 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
 <brukerdata>
-  	<url></url>
+   <url>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</url>
 </brukerdata>
 
 <highscore>
-	<url></url>
+   <url>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=highscore</url>
 </highscore>
 
 <score>
-	<url></url>
+   <url>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=highscore</url>
 </score>
 
 <tips>
-	<url></url>
+   <url>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendtip</url>
 </tips>
 
 <kjop>
-	<url></url>
+   <url>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=purchase</url>
 </kjop>
 
 <facebookdeling>
-	<url></url>
+   <url>http://www.andeby.dk/fb.aspx?type=100</url>
 </facebookdeling>
 	
 
