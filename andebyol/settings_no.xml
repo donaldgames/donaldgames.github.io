@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+
+<!-- sprak kan være no, se eller dk -->
+<word>
+	<id>sprak</id>
+	<string>dk</string>
+</word>
+
+<word>
+	<id>brukerdataURL</id>
+  	<string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</string>
+</word>
+
+<word>
+	<id>highscoreURL</id>
+  	<string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=highscore</string>
+</word>
+
+<word>
+	<id>postscoreURL</id>
+  	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=highscore</string>
+</word>
+
+<word>
+	<id>tipsURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendtip</string>
+</word>
+
+<word>
+	<id>purchaseURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=purchase</string>
+</word>
+
+<word>
+	<id>achievementURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=registerAchievement</string>
+</word>
+
+<word>
+	<id>challengeURL</id>
+	<string>http://www.andeby.dk/fb.aspx?type=100</string>
+</word>
+
+<word>
+	<id>sendChallengeURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendChallenge</string>
+</word>
+
+
+<word>
+	<id>bliMedlemURL</id>
+	<string>http://www.andeby.dk/default.aspx?section=newuser</string>
+</word>
+
+<word>
+	<id>facebookURL</id>
+	<string>http://www.facebook.com/andebynews</string>
+</word>
+
+<word>
+	<id>facebookDeleURL</id>
+	<string>http://www.andeby.dk/fb.aspx?type=100</string>
+</word>
+
+<word>
+	<id>vare1Id</id>
+	<string>11</string>
+</word>
+
+<word>
+	<id>vare1Price</id>
+	<string>300</string>
+</word>
+
+<word>
+	<id>vare2Id</id>
+	<string>12</string>
+</word>
+
+<word>
+	<id>vare2Price</id>
+	<string>500</string>
+</word>
+
+<!--- 1 Bronse -->
+<word>
+	<id>utmerkelse1Id</id>
+	<string>4</string>
+</word>
+
+<word>
+	<id>utmerkelse1Price</id>
+	<string>100</string>
+</word>
+
+<!--- 2 Sølv -->
+
+<word>
+	<id>utmerkelse2Id</id>
+	<string>5</string>
+</word>
+
+<word>
+	<id>utmerkelse2Price</id>
+	<string>200</string>
+</word>
+<!--- 3 Gull -->
+<word>
+	<id>utmerkelse3Id</id>
+	<string>6</string>
+</word>
+
+<word>
+	<id>utmerkelse3Price</id>
+	<string>300</string>
+</word>
+
+
+<!--- Startmeny -->
+
+<word>
+	<id>START</id>
+	<string>START</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKSJON</string>
+</word>
+
+<word>
+	<id>BLI MEDLEM</id>
+	<string>BLI MEDLEM</string>
+</word>
+
+<word>
+	<id>DAGENS BESTE</id>
+	<string>DAGENS BESTE</string>
+</word>
+
+<word>
+	<id>DONALD PÅ FACEBOOK</id>
+	<string>DONALD PÅ FACEBOOK</string>
+</word>
+
+<word>
+	<id>Lengdehopptrening</id>
+	<string>Lengdehopptrening</string>
+</word>
+
+<word>
+	<id>Hekkeløpstrening</id>
+	<string>Hekkeløpstrening</string>
+</word>
+
+<word>
+	<id>Diskostrening</id>
+	<string>Diskostrening</string>
+</word>
+
+<word>
+	<id>UTFORDRING</id>
+	<string>Du er utfordret til duell mot:</string>
+</word>
+
+<word>
+	<id>HVEM ER BEST</id>
+	<string>Hvem er best?</string>
+</word>
+
+
+
+<!--- Instruksjon -->
+
+<word>
+	<id>SLIK SPILLER DU</id>
+	<string>SLIK SPILLER DU</string>
+</word>
+
+<word>
+	<id>Instruksjonstekst</id>
+	<string>Kan du hevde deg i Andeby-OL?
+Du konkurrerer i 3 grener for å få et best mulig resultat sammenlagt.
+Bruk SPACE og PILTASTENE, og se ellers instruksjonen før hver enkelt øvelse.
+Du kan også trene på enkeltgrener, om du vil bli best mulig.
+Det er også mulig å utfordre venner med sluttresultatet, via Facebook eller mail.
+</string>
+</word>
+
+<word>
+	<id>Instruksjon Medlemsinfo</id>
+	<string>Er du medlem på Donald.no? Da kan du benytte deg av dine Andeby-kroner til å kjøpe deg ekstra fordeler. Lykke til!</string>
+</word>
+
+
+
+
+<!--- Kjøpeskjerm -->
+
+<word>
+	<id>VAREINFO</id>
+	<string>Gullsko gir større fart i Hekkeløp og Lengdehopp.
+Paien har bedre flyegenskaper enn standard diskos.
+</string>
+</word>
+
+<word>
+	<id>DEFAULT NAVN</id>
+	<string>DONALD DUCK</string>
+</word>
+
+<word>
+	<id>DITT NAVN</id>
+	<string>DITT NAVN</string>
+</word>
+
+<word>
+	<id>MULIGE KJØP</id>
+	<string>MULIGE KJØP:</string>
+</word>
+
+<word>
+	<id>VARENAVN1</id>
+	<string>GULLSKO</string>
+</word>
+
+<word>
+	<id>VARENAVN2</id>
+	<string>BESTEMORS PAI</string>
+</word>
+
+<word>
+	<id>Andeby-kroner</id>
+	<string>Andeby-kroner</string>
+</word>
+
+<word>
+	<id>KJØP</id>
+	<string>KJØP</string>
+</word>
+
+<word>
+	<id>OK</id>
+	<string>OK</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKSJON</string>
+</word>
+
+<word>
+	<id>Avbryt</id>
+	<string>Avbryt</string>
+</word>
+
+<word>
+	<id>UTMERKELSER</id>
+	<string>Utmerkelser - Spill og vinn Andeby-kroner:</string>
+</word>
+
+<word>
+	<id>UTMERKELSER TATT</id>
+	<string>Utmerkelser - Du har vunnet alle!</string>
+</word>
+
+<word>
+	<id>BRONSEKRAV</id>
+	<string>OVER
+1500 P</string>
+</word>
+
+<word>
+	<id>BRONSEKRAV POENGVERDI</id>
+	<string>1500</string>
+</word>
+
+<word>
+	<id>BRONSE GRATULASJON</id>
+	<string>Du fikk bronsemedalje og 100 Andebykroner!</string>
+</word>
+
+<word>
+	<id>SOLVKRAV</id>
+	<string>OVER
+2000 P</string>
+</word>
+
+<word>
+	<id>SOLVKRAV POENGVERDI</id>
+	<string>2000</string>
+</word>
+
+<word>
+	<id>SOLV GRATULASJON</id>
+	<string>Du fikk sølvmedalje og 200 Andebykroner!</string>
+</word>
+
+<word>
+	<id>GULLKRAV</id>
+	<string>OVER
+2500 P</string>
+</word>
+
+<word>
+	<id>GULLKRAV POENGVERDI</id>
+	<string>2500</string>
+</word>
+
+<word>
+	<id>GULL GRATULASJON</id>
+	<string>Du fikk gullmedalje og 300 Andebykroner!</string>
+</word>
+
+
+
+<!--- Kjøpesiden -->
+
+<!-- Info på kjøpesiden - Tittel i bold -->
+<word>
+	<id>Valginfo1</id>
+	<string>Ekstra objekter:</string>
+</word>
+
+<!-- Info på kjøpesiden - Hovedtekst -->
+<word>
+	<id>Valginfo2</id>
+	<string>Aktivitet på Donald.no belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å benytte deg av Andeby-kronene dine. Er du ikke medlem,</string>
+</word>
+<!-- Info på kjøpesiden - Lenke i blått til slutt -->
+<word>
+	<id>Valginfo3</id>
+	<string>registrer deg her!</string>
+</word>
+
+<word>
+	<id>Valginfo3URL</id>
+	<string>http://www.donald.no/default.aspx?section=newuser</string>
+</word>
+
+<word>
+	<id>DIN SALDO</id>
+	<string>DIN SALDO</string>
+</word>
+
+<word>
+	<id>AKR</id>
+	<string>AKR</string>
+</word>
+
+<word>
+	<id>Ikke pålogget</id>
+	<string>Du må være pålogget donald.no for å kunne kjøpe.</string>
+</word>
+
+<word>
+	<id>Ikke nok</id>
+	<string>Du har ikke nok Andebykroner for å kjøpe. Du kan skaffe deg Andebykroner ved å ...</string>
+</word>
+
+<word>
+	<id>Bekreft kjøp</id>
+	<string>Er du sikker på at du vil kjøpe dette? (Kjøpet blir lagret og du trenger ikke å kjøpe på nytt senere.)</string>
+</word>
+
+	
+	<!--- GAME -->
+<word>
+	<id>INNTA PLASSENE</id>
+	<string>INNTA PLASSENE</string>
+</word>
+
+<word>
+	<id>FERDIG</id>
+	<string>FERDIG</string>
+</word>
+
+<word>
+	<id>HEKKELØP</id>
+	<string>HEKKELØP</string>
+</word>
+
+<word>
+	<id>GREN</id>
+	<string>GREN</string>
+</word>
+
+<word>
+	<id>TRENING</id>
+	<string>TRENING</string>
+</word>
+
+<word>
+	<id>Resultat</id>
+	<string>Resultat</string>
+</word>
+
+<word>
+	<id>Din rekord</id>
+	<string>Din rekord</string>
+</word>
+
+<word>
+	<id>Poeng</id>
+	<string>Poeng</string>
+</word>
+
+<word>
+	<id>INSTRUKS HEKK</id>
+	<string>SPACE for å løpe - PIL OPP for å hoppe</string>
+</word>
+
+<word>
+	<id>SPACE START</id>
+	<string>SPACE for å starte</string>
+</word>
+
+<word>
+	<id>SPACE FORTSETT</id>
+	<string>SPACE for å fortsette</string>
+</word>
+
+<word>
+	<id>LENGDEHOPP</id>
+	<string>LENGDEHOPP</string>
+</word>
+
+<word>
+	<id>INSTRUKS LENGDE</id>
+	<string>SPACE for å ta fart - PIL OPP for å hoppe før planken</string>
+</word>
+
+<word>
+	<id>DISKOSKAST</id>
+	<string>DISKOSKAST</string>
+</word>
+
+<word>
+	<id>INSTRUKS DISKOS</id>
+	<string>Hold SPACE for å snurre, slipp SPACE for å kaste!
+PILTASTER justerer vinkelen.</string>
+</word>
+
+
+
+
+<word>
+	<id>SPACE</id>
+	<string>SPACE for å starte!</string>
+</word>
+
+<word>
+	<id>SPACEHINT</id>
+	<string>SPACE for å tenne neste rakett!</string>
+</word>
+
+<word>
+	<id>REKORD</id>
+	<string>Rekord:</string>
+</word>
+
+<word>
+	<id>NY REKORD</id>
+	<string>Ny personlig rekord!</string>
+</word>
+
+<word>
+	<id>HØYDE</id>
+	<string>Høyde:</string>
+</word>
+
+
+<!--- GAME OVER -->
+
+<word>
+	<id>SPILL IGJEN</id>
+	<string>SPILL IGJEN</string>
+</word>
+
+<word>
+	<id>MENY</id>
+	<string>MENY</string>
+</word>
+
+<word>
+	<id>SPILLET ER OVER</id>
+	<string>SPILLET ER OVER</string>
+</word>
+
+<word>
+	<id>Lengdehopp</id>
+	<string>Lengdehopp</string>
+</word>
+
+<word>
+	<id>Hekkeløp</id>
+	<string>Hekkeløp</string>
+</word>
+
+<word>
+	<id>Diskos</id>
+	<string>Diskos</string>
+</word>
+
+
+<word>
+	<id>POENG</id>
+	<string>Poeng</string>
+</word>
+
+<word>
+	<id>Du</id>
+	<string>Du</string>
+</word>
+
+<word>
+	<id>GRATULERER</id>
+	<string>Gratulerer! Du er best!</string>
+</word>
+
+<word>
+	<id>KONDOLERER</id>
+	<string>Bedre lykke neste gang!</string>
+</word>
+
+<word>
+	<id>UAVGJORT</id>
+	<string>Utrolig! Helt likt!</string>
+</word>
+
+<word>
+	<id>DEL DITT RESULTAT</id>
+	<string>DEL DITT RESULTAT PÅ FACEBOOK</string>
+</word>
+
+<word>
+	<id>TIPS EN VENN</id>
+	<string>UTFORDRE EN VENN</string>
+</word>
+
+<word>
+	<id>Tips en venn</id>
+	<string>Utfordre en venn:</string>
+</word>
+
+<word>
+	<id>Tips en venn-info</id>
+	<string>Send en utfordring på mail til venner og kjente!</string>
+</word>
+
+<word>
+	<id>Ditt navn</id>
+	<string>Ditt navn:</string>
+</word>
+
+<word>
+	<id>Din epost</id>
+	<string>Din e-postadresse:</string>
+</word>
+
+<word>
+	<id>Venns epost</id>
+	<string>Din venns e-postadresse:</string>
+</word>
+
+<word>
+	<id>SEND TIPS</id>
+	<string>SEND UTFORDRING</string>
+</word>
+
+<word>
+	<id>TILBAKE</id>
+	<string>TILBAKE</string>
+</word>
+
+<word>
+	<id>Tips sendt</id>
+	<string>Utfordring sendt! Utfordre gjerne flere!</string>
+</word>
+
+<word>
+	<id>Tips error</id>
+	<string>Alle feltene ovenfor må fylles ut!</string>
+</word>
+
+</xml>
