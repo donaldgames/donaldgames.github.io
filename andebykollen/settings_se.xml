@@ -1,0 +1,260 @@
+<!--
+
+***************
+  INSTRUKSJON
+***************
+
+Hver oversettelse av spillet har sin egen settings.xml-fil
+
+Bare tekst som står mellom <tekst> og </tekst> er tillatt å endre!
+Det som står mellom <id> og </id> må ikke endres!
+
+ -->
+<ordliste>
+
+
+<!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
+  <brukerdata>
+    <url>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</url>
+  </brukerdata>
+  
+  <highscore>
+    <url>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=highscore</url>
+  </highscore>
+  
+  <score>
+	<url>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=highscore</url>
+</score>
+
+  <tips>
+	<url>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendtip</url>
+</tips>
+
+<facebookdeling>
+	<url>http://www.andeby.dk/fb.aspx?type=100</url>
+</facebookdeling>
+
+<!-- Språk, forkortelse. Må ikke endres! -->
+<lang>se</lang>
+
+
+<ord>
+<id>START</id>
+<tekst>STARTA</tekst>
+</ord>
+
+<ord>
+<id>INSTRUKSJON</id>
+<tekst>INSTRUKTIONER</tekst>
+</ord>
+
+<ord>
+<id>BLI MEDLEM</id>
+<tekst>BLI MEDLEM</tekst>
+</ord>
+
+<ord>
+<id>BLI MEDLEM URL</id>
+<tekst>http://www.kalleanka.se/default.aspx?section=newuser</tekst>
+</ord>
+
+<ord>
+<id>DAGENS BESTE</id>
+<tekst>DAGENS BÄSTA</tekst>
+</ord>
+
+<ord>
+   <id>DONALD PÅ FACEBOOK</id>
+   <tekst>KALLE PÅ FACEBOOK</tekst>
+</ord>
+  
+  <ord>
+	<id>FACEBOOK URL</id>
+	<tekst>http://www.facebook.com/Ankeborgsposten</tekst>
+</ord>
+
+<ord>
+	<id>DITT NAVN</id>
+	<tekst>DITT NAMN:</tekst>
+</ord>
+
+<ord>
+	<id>DEFAULT NAVN</id>
+	<tekst>KALLE ANKA</tekst>
+</ord>
+
+<ord>
+	<id>VELG SKI</id>
+	<tekst>VÄLJ SKIDOR:</tekst>
+</ord>
+
+<ord>
+	<id>TRESKI</id>
+	<tekst>TRÄSKIDOR</tekst>
+</ord>
+
+<ord>
+	<id>SØLVSKI</id>
+	<tekst>SILVERSKIDOR</tekst>
+</ord>
+
+<ord>
+	<id>GULLSKI</id>
+	<tekst>GULDSKIDOR</tekst>
+</ord>
+
+<!-- Info på skivalgsiden - Tittel i bold -->
+<ord>
+	<id>skiinfo1</id>
+	<tekst>Silver-/Guldskidor:</tekst>
+</ord>
+
+<!-- Info på skivalgsiden - Hovedtekst -->
+<ord>
+	<id>skiinfo2</id>
+	<tekst>Aktivitet på kalleanka.se belönas med Ankeborgskronor. Du måste vara inloggad för att se hur många Ankeborgskronor du har. Du kan använda skidorna när du har tillräckligt med Ankeborgskronor.           Om du inte är medlem,</tekst>
+</ord>
+
+<!-- Info på skivalgsiden - Lenke i blått til slutt -->
+<ord>
+	<id>skiinfo3</id>
+	<tekst>registrera dig här!</tekst>
+</ord>
+
+<!-- Info på skivalgsiden - Lenke til Bli medlem-url i blått til slutt -->
+<ord>
+	<id>skiinfo3url</id>
+	<tekst>http://kalleanka.se/Andeby/Bli-medlem.aspx</tekst>
+</ord>
+
+<!-- Forkortelse for "omgang" på dommerskjermen -->
+<ord>
+	<id>Omgang FORK</id>
+	<tekst>omgång</tekst>
+</ord>
+
+
+<ord>
+	<id>Andeby-kroner</id>
+	<tekst>Ankeborgskronor</tekst>
+</ord>
+
+
+<ord>
+	<id>DINE POENG</id>
+	<tekst>DINA POÄNG:</tekst>
+</ord>
+
+<ord>
+	<id>DEL DITT RESULTAT</id>
+	<tekst>DELA PÅ FACEBOOK</tekst>
+</ord>
+
+<ord>
+	<id>SPILL IGJEN</id>
+	<tekst>SPELA IGEN</tekst>
+</ord>
+
+<ord>
+	<id>MENY</id>
+	<tekst>MENY</tekst>
+</ord>
+
+<ord>
+	<id>TIPS EN VENN</id>
+	<tekst>TIPSA EN VÄN</tekst>
+</ord>
+
+<ord>
+	<id>Motvind</id>
+	<tekst>Motvind</tekst>
+</ord>
+
+<ord>
+	<id>Medvind</id>
+	<tekst>Medvind</tekst>
+</ord>
+
+<ord>
+	<id>SLIK HOPPER DU</id>
+	<tekst>SÅ HOPPAR DU:</tekst>
+</ord>
+
+<ord>
+	<id>Instruksjon</id>
+	<tekst>SPACE för att starta
+SPACE för att ta sats så nära hoppkanten som möjligt
+PIL HÖGER / VÄNSTER för att justera vinkeln i luften
+
+OBS! Håll ett öga på vinden! Den kan påverka hoppets längd.</tekst>
+</ord>
+
+<!-- Info på instruksjonsiden - Får lenke -->
+<ord>
+	<id>instruksinfo1</id>
+	<tekst>är du </tekst>
+</ord>
+
+<!-- Info på instruksjonsiden - Lenketekst -->
+<ord>
+	<id>instruksinfo2</id>
+	<tekst>medlem på kalleanka.se</tekst>
+</ord>
+
+<!-- Info på instruksjonsiden - Lenke til Bli medlem-url i blått  -->
+<ord>
+	<id>instruksinfo2url</id>
+	<tekst>http://kalleanka.se/Andeby/Bli-medlem.aspx</tekst>
+</ord>
+
+<!-- Info på instruksjonsiden - siste del -->
+<ord>
+	<id>instruksinfo3</id>
+	<tekst>? Då får du tillgång till silver- och guldskidor när du har tillräckligt med Ankeborgskronor. Skidorna ger dig högre stilpoäng. Lycka till!</tekst>
+</ord>
+
+<ord>
+	<id>Tips en venn</id>
+	<tekst>Tipsa en vän:</tekst>
+</ord>
+
+<ord>
+	<id>Tips en venn-info</id>
+	<tekst>Få en kompis att hoppa ut i ett rekordförsök. Skicka hopptips här!</tekst>
+</ord>
+
+<ord>
+	<id>Ditt navn</id>
+	<tekst>Ditt namn:</tekst>
+</ord>
+
+<ord>
+	<id>Din epost</id>
+	<tekst>Din e-postadress:</tekst>
+</ord>
+
+<ord>
+	<id>Venns epost</id>
+	<tekst>Din väns e-postadress:</tekst>
+</ord>
+
+<ord>
+	<id>SEND TIPS</id>
+	<tekst>SKICKA TIPS</tekst>
+</ord>
+
+<ord>
+	<id>TILBAKE</id>
+	<tekst>TILLBAKA</tekst>
+</ord>
+<ord>
+	<id>Tips sendt</id>
+	<tekst>Ditt tips är skickat! Tipsa gärna fler!</tekst>
+</ord>
+
+<ord>
+	<id>Tips error</id>
+	<tekst>Du måste fylla i alla fälten!</tekst>
+</ord>
+
+</ordliste>
