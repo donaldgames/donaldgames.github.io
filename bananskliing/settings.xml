@@ -15,27 +15,27 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
 <brukerdata>
-  	<url>http://www.donald.no/hostedgames/agens/listdata.aspx?listType=userinfo</url>
+  	<url></url>
 </brukerdata>
 
 <highscore>
-	<url>http://games.donald.no/hostedgames/agens/listdata.aspx?listType=highscore</url>
+	<url></url>
 </highscore>
 
 <score>
-	<url>http://games.donald.no/hostedgames/agens/postdata.aspx?dataType=highscore</url>
+	<url></url>
 </score>
 
 <tips>
-	<url>http://www.donald.no/hostedgames/agens/postdata.aspx?dataType=sendtip</url>
+	<url></url>
 </tips>
 
 <kjop>
-	<url>http://www.donald.no/hostedgames/agens/postdata.aspx?dataType=purchase</url>
+	<url></url>
 </kjop>
 
 <facebookdeling>
-	<url>http://www.donald.no/fb.aspx?type=100</url>
+	<url></url>
 </facebookdeling>
 	
 
