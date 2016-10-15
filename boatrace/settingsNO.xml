@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+
+<!-- sprak kan være no, se eller dk -->
+<word>
+	<id>sprak</id>
+	<string>no</string>
+</word>
+
+<word>
+	<id>brukerdataURL</id>
+  	<string>http://www.donald.no/hostedgames/agens/listdata.aspx?listType=userinfo</string>
+</word>
+
+<word>
+	<id>highscoreURL</id>
+  	<string>http://games.donald.no/hostedgames/agens/listdata.aspx?listType=highscore</string>
+</word>
+
+<word>
+	<id>postscoreURL</id>
+  	<string>http://games.donald.no/hostedgames/agens/postdata.aspx?dataType=highscore</string>
+</word>
+
+<word>
+	<id>tipsURL</id>
+	<string>http://www.donald.no/hostedgames/agens/postdata.aspx?dataType=sendtip</string>
+</word>
+
+
+<word>
+	<id>bliMedlemURL</id>
+	<string>http://www.donald.no/default.aspx?section=newuser</string>
+</word>
+
+<word>
+	<id>facebookURL</id>
+	<string>http://www.facebook.com/donald.no</string>
+</word>
+
+<word>
+	<id>facebookDeleURL</id>
+	<string>http://www.donald.no/fb.aspx?type=100</string>
+</word>
+
+<word>
+	<id>purchaseURL</id>
+	<string>http://www.donald.no/hostedgames/agens/postdata.aspx?dataType=purchase</string>
+</word>
+  
+<word>
+	<id>vare1Id</id>
+	<string>3</string>
+</word>
+
+<word>
+	<id>vare1Price</id>
+	<string>100</string>
+</word>
+
+<word>
+	<id>vare2Id</id>
+	<string>4</string>
+</word>
+
+<word>
+	<id>vare2Price</id>
+	<string>500</string>
+</word>
+
+
+
+<!--- Startmeny -->
+
+<word>
+	<id>START</id>
+	<string>START</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKSJON</string>
+</word>
+
+<word>
+	<id>BLI MEDLEM</id>
+	<string>BLI MEDLEM</string>
+</word>
+
+<word>
+	<id>DAGENS BESTE</id>
+	<string>DAGENS BESTE</string>
+</word>
+
+<word>
+	<id>DONALD PÅ FACEBOOK</id>
+	<string>DONALD PÅ FACEBOOK</string>
+</word>
+
+
+
+
+<!--- Instruksjon -->
+
+<word>
+	<id>SLIK SPILLER DU</id>
+	<string>SLIK SPILLER DU</string>
+</word>
+
+<word>
+	<id>Instruksjonstekst</id>
+	<string>PIL HØYRE for å gi gass.
+PIL OPP og PIL NED for å styre båten.
+SPACE for nitro = ekstra fart.
+NB! Nitro gir best effekt når nitrotanken er helt full.
+
+Pass deg for skrot i vannet, det vil nemlig bremse farten din. Bruk gjerne hoppet, det gir deg superfart! La duellen begynne! Måtte bløtskallen Jensen skvalpe i kjølevannet ditt! </string>
+</word>
+
+<word>
+	<id>Instruksjon Medlemsinfo</id>
+	<string>Er du medlem på Donald.no? Da kan du benytte deg av dine Andeby-kroner til å kjøpe deg en bedre båt. Lykke til!</string>
+</word>
+
+
+
+
+<!--- Båtvalg -->
+
+
+<word>
+	<id>DEFAULT NAVN</id>
+	<string>DONALD DUCK</string>
+</word>
+
+<word>
+	<id>DITT NAVN</id>
+	<string>DITT NAVN</string>
+</word>
+
+<word>
+	<id>VELG BÅT</id>
+	<string>VELG BÅT</string>
+</word>
+
+<word>
+	<id>BÅTNAVN0</id>
+	<string>RUGGEN</string>
+</word>
+
+<word>
+	<id>BÅTNAVN1</id>
+	<string>LYNET</string>
+</word>
+
+<word>
+	<id>BÅTNAVN2</id>
+	<string>HAIEN</string>
+</word>
+
+<word>
+	<id>Andeby-kroner</id>
+	<string>Andeby-kroner</string>
+</word>
+
+<word>
+	<id>KJØP</id>
+	<string>KJØP</string>
+</word>
+
+<word>
+	<id>OK</id>
+	<string>OK</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKSJON</string>
+</word>
+
+<word>
+	<id>Instruks</id>
+	<string>Store sildekonge! Slik skal det gjøres...</string>
+</word>
+
+<word>
+	<id>Avbryt</id>
+	<string>Avbryt</string>
+</word>
+
+
+
+
+<!--- Valg av båt.... -->
+
+<!-- Info på valgsiden - Tittel i bold -->
+<word>
+	<id>Valginfo1</id>
+	<string>Ulike båter:</string>
+</word>
+
+<!-- Info på båtvalgsiden - Hovedtekst -->
+<word>
+	<id>Valginfo2</id>
+	<string>Aktivitet på Donald.no belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å benytte deg av Andeby-kronene dine. Er du ikke medlem,</string>
+</word>
+<!-- Info på bananvalgsiden - Lenke i blått til slutt -->
+<word>
+	<id>Valginfo3</id>
+	<string>registrer deg her!</string>
+</word>
+
+<word>
+	<id>Valginfo3URL</id>
+	<string>http://www.donald.no/default.aspx?section=newuser</string>
+</word>
+
+<word>
+	<id>DIN SALDO</id>
+	<string>DIN SALDO</string>
+</word>
+
+<word>
+	<id>AKR</id>
+	<string>AKR</string>
+</word>
+
+<word>
+	<id>Ikke pålogget</id>
+	<string>Du må være pålogget donald.no for å kunne kjøpe.</string>
+</word>
+
+<word>
+	<id>Ikke nok</id>
+	<string>Du har ikke nok Andebykroner for å kjøpe. Du kan skaffe deg Andebykroner ved å ...</string>
+</word>
+
+<word>
+	<id>Bekreft kjøp</id>
+	<string>Er du sikker på at du vil kjøpe dette? (Kjøpet blir lagret og du trenger ikke å kjøpe på nytt senere.)</string>
+</word>
+
+
+
+<!--- GAME OVER -->
+
+<word>
+	<id>SPILL IGJEN</id>
+	<string>SPILL IGJEN</string>
+</word>
+
+<word>
+	<id>MENY</id>
+	<string>MENY</string>
+</word>
+
+<word>
+	<id>Din tid</id>
+	<string>Din tid:</string>
+</word>
+
+<word>
+	<id>Evaluering ved seier</id>
+	<string>Du slo nabo Jensen! Gratulerer!</string>
+</word>
+
+<word>
+	<id>Evaluering ved tap</id>
+	<string>Sure slimål i underskogen! Jensen vant!</string>
+</word>
+
+<word>
+	<id>DEL DITT RESULTAT</id>
+	<string>DEL DITT RESULTAT PÅ FACEBOOK</string>
+</word>
+
+<word>
+	<id>TIPS EN VENN</id>
+	<string>TIPS EN VENN</string>
+</word>
+
+<word>
+	<id>Tips en venn</id>
+	<string>Tips en venn:</string>
+</word>
+
+<word>
+	<id>Tips en venn-info</id>
+	<string>Send et tips på mail til venner og kjente!</string>
+</word>
+
+<word>
+	<id>Ditt navn</id>
+	<string>Ditt navn:</string>
+</word>
+
+<word>
+	<id>Din epost</id>
+	<string>Din e-postadresse:</string>
+</word>
+
+<word>
+	<id>Venns epost</id>
+	<string>Din venns e-postadresse:</string>
+</word>
+
+<word>
+	<id>SEND TIPS</id>
+	<string>SEND TIPS</string>
+</word>
+
+<word>
+	<id>TILBAKE</id>
+	<string>TILBAKE</string>
+</word>
+
+<word>
+	<id>Tips sendt</id>
+	<string>Tips sendt! Tips gjerne flere!</string>
+</word>
+
+<word>
+	<id>Tips error</id>
+	<string>Alle feltene ovenfor må fylles ut!</string>
+</word>
+
+</xml>
