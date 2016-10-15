@@ -87,7 +87,7 @@
 
 <word>
 	<id>utmerkelse1Price</id>
-	<string>100</string>
+	<string>10000000000</string>
 </word>
 
 <!--- 2 Sølv -->
@@ -99,7 +99,7 @@
 
 <word>
 	<id>utmerkelse2Price</id>
-	<string>200</string>
+	<string>20000000000</string>
 </word>
 <!--- 3 Gull -->
 <word>
@@ -109,7 +109,7 @@
 
 <word>
 	<id>utmerkelse3Price</id>
-	<string>300</string>
+	<string>30000000000</string>
 </word>
 
 <!--- Intro -->
