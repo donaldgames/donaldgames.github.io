@@ -16,7 +16,7 @@ http://agensspill.no/egmont/binge/settings.xml
 http://agensspill.no/egmont/313/beta/313.php?lang=se
 http://agensspill.no/egmont/313/313.php?lang=se
 http://agensspill.no/egmont/313/
-http://agensspill.no/egmont/postkassa/
+http://agensspill.no/egmont/postkassa/index.html
 http://agensspill.no/egmont/gf/beta/gf.php?lang=se
 http://agensspill.no/egmont/gf/gf.php?lang=se
 
@@ -39,3 +39,8 @@ AndebyOL:
 http://agensspill.no/egmont/andebyol/AndebyOL.swf?gameId=5001&settingsURL=https://donaldgames.github.io/andebyol/settings_se.xml&requestToken=bc96f2a7c4a96ba73926d0f9ba88dead
 
 http://agensspill.no/egmont/andebyol/AndebyOL.swf?gameId=5001&settingsURL=https://donaldgames.github.io/andebyol/settings_no.xml&requestToken=bc96f2a7c4a96ba73926d0f9ba88dead
+
+Straffekonk:
+https://donaldgames.github.io/straffekonk/Straffekonk.swf?settingsURL=/straffekonk/settings_se.xml
+
+https://donaldgames.github.io/straffekonk/Straffekonk.swf?settingsURL=/straffekonk/settings_no.xml
