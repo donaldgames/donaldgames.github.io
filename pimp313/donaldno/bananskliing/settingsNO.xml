@@ -1,0 +1,273 @@
+<!--
+
+***************
+  INSTRUKSJON - MAKS UFLAKS
+***************
+
+Hver oversettelse av spillet har sin egen settings.xml-fil
+
+Bare tekst som står mellom <tekst> og </tekst> er tillatt å endre!
+Det som står mellom <id> og </id> må ikke endres!
+
+ -->
+<ordliste>
+
+
+<!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
+<brukerdata>
+  	<url>http://www.donald.no/hostedgames/agens/listdata.aspx?listType=userinfo</url>
+</brukerdata>
+
+<highscore>
+	<url>http://games.donald.no/hostedgames/agens/listdata.aspx?listType=highscore</url>
+</highscore>
+
+<score>
+	<url>http://games.donald.no/hostedgames/agens/postdata.aspx?dataType=highscore</url>
+</score>
+
+<tips>
+	<url>http://www.donald.no/hostedgames/agens/postdata.aspx?dataType=sendtip</url>
+</tips>
+
+<kjop>
+	<url>http://www.donald.no/hostedgames/agens/postdata.aspx?dataType=purchase</url>
+</kjop>
+
+<facebookdeling>
+	<url>http://www.donald.no/fb.aspx?type=100</url>
+</facebookdeling>
+	
+
+<!-- Språk, forkortelse no/se/dk. Må ikke endres til noe annet enn en av disse! -->
+<lang>no</lang>
+
+<bigBanana>
+   <productId>1</productId>
+   <price>200</price>
+</bigBanana>
+
+<rottenBanana>
+   <productId>2</productId>
+   <price>400</price>
+</rottenBanana>
+
+<ord>
+<id>START</id>
+<tekst>START</tekst>
+</ord>
+
+<ord>
+<id>INSTRUKSJON</id>
+<tekst>INSTRUKSJON:</tekst>
+</ord>
+
+<ord>
+<id>Instruks</id>
+<tekst>Instruksjon: For å starte, tast PIL OPP mange ganger så fort du klarer for å gi Donald fart. Deretter er det bare å se hvor langt uflaksen tar deg.</tekst>
+</ord>
+
+<ord>
+<id>BLI MEDLEM</id>
+<tekst>BLI MEDLEM</tekst>
+</ord>
+
+<ord>
+<id>BLI MEDLEM URL</id>
+<tekst>http://www.donald.no/default.aspx?section=newuser</tekst>
+</ord>
+
+<ord>
+<id>DAGENS BESTE</id>
+<tekst>DAGENS BESTE</tekst>
+</ord>
+
+<ord>
+   <id>DONALD PÅ FACEBOOK</id>
+   <tekst>DONALD PÅ FACEBOOK</tekst>
+</ord>
+  
+  <ord>
+	<id>FACEBOOK URL</id>
+	<tekst>http://www.facebook.com/donald.no</tekst>
+</ord>
+
+<ord>
+	<id>DITT NAVN</id>
+	<tekst>DITT NAVN:</tekst>
+</ord>
+
+<ord>
+	<id>DEFAULT NAVN</id>
+	<tekst>DONALD DUCK</tekst>
+</ord>
+
+<ord>
+	<id>VELG BANANSKALL</id>
+	<tekst>VELG BANANSKALL:</tekst>
+</ord>
+
+<ord>
+	<id>VANLIG</id>
+	<tekst>VANLIG</tekst>
+</ord>
+
+<ord>
+	<id>KJØP</id>
+	<tekst>KJØP</tekst>
+</ord>
+
+<ord>
+	<id>OK</id>
+	<tekst>OK</tekst>
+</ord>
+
+<ord>
+	<id>Avbryt</id>
+	<tekst>Avbryt</tekst>
+</ord>
+
+<ord>
+	<id>DIN SALDO</id>
+	<tekst>DIN SALDO:</tekst>
+</ord>
+
+<ord>
+	<id>AKR</id>
+	<tekst>AKR</tekst>
+</ord>
+
+<ord>
+	<id>Ikke pålogget</id>
+	<tekst>Du må være pålogget donald.no for å kunne kjøpe.</tekst>
+</ord>
+
+<ord>
+	<id>Ikke nok</id>
+	<tekst>Du har ikke nok Andebykroner for å kjøpe. Du kan skaffe deg Andebykroner ved å ...</tekst>
+</ord>
+
+<ord>
+	<id>Bekreft kjøp</id>
+	<tekst>Er du sikker på at du vil kjøpe dette?(Kjøpet blir lagret og du trenger ikke å kjøpe på nytt senere.)</tekst>
+</ord>
+
+<ord>
+	<id>STORT</id>
+	<tekst>STORT</tekst>
+</ord>
+
+<ord>
+	<id>STORT OG RÅTTENT</id>
+	<tekst>STORT OG RÅTTENT</tekst>
+</ord>
+
+<!-- Info på bananvalgsiden - Tittel i bold -->
+<ord>
+	<id>valginfo1</id>
+	<tekst>Ulike bananskall:</tekst>
+</ord>
+
+<!-- Info på bananvalgsiden - Hovedtekst -->
+<ord>
+	<id>valginfo2</id>
+	<tekst>Aktivitet på Donald.no belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å bebenytte deg av Andeby-kronene dine. Er du ikke medlem,</tekst>
+</ord>
+
+<!-- Info på bananvalgsiden - Lenke i blått til slutt -->
+<ord>
+	<id>valginfo3</id>
+	<tekst>registrer deg her!</tekst>
+</ord>
+
+<!-- Info på bananvalgsiden - Lenke til Bli medlem-url i blått til slutt -->
+<ord>
+	<id>valginfo3url</id>
+	<tekst>http://www.donald.no/default.aspx?section=newuser</tekst>
+</ord>
+
+
+<ord>
+	<id>Andeby-kroner</id>
+	<tekst>Andeby-kroner</tekst>
+</ord>
+
+<ord>
+	<id>Uflaksen</id>
+	<tekst>Uflaksen gav deg:</tekst>
+</ord>
+
+
+<ord>
+	<id>POENG</id>
+	<tekst>POENG</tekst>
+</ord>
+
+
+<ord>
+	<id>DEL DITT RESULTAT</id>
+	<tekst>DEL UFLAKSEN PÅ FACEBOOK</tekst>
+</ord>
+
+<ord>
+	<id>SPILL IGJEN</id>
+	<tekst>SPILL IGJEN</tekst>
+</ord>
+
+<ord>
+	<id>MENY</id>
+	<tekst>MENY</tekst>
+</ord>
+
+<ord>
+	<id>TIPS EN VENN</id>
+	<tekst>TIPS EN VENN</tekst>
+</ord>
+
+<ord>
+	<id>Tips en venn</id>
+	<tekst>Tips en venn:</tekst>
+</ord>
+
+<ord>
+	<id>Tips en venn-info</id>
+	<tekst>Send et tips på mail til venner og kjente!</tekst>
+</ord>
+
+<ord>
+	<id>Ditt navn</id>
+	<tekst>Ditt navn:</tekst>
+</ord>
+
+<ord>
+	<id>Din epost</id>
+	<tekst>Din e-postadresse:</tekst>
+</ord>
+
+<ord>
+	<id>Venns epost</id>
+	<tekst>Din venns e-postadresse:</tekst>
+</ord>
+
+<ord>
+	<id>SEND TIPS</id>
+	<tekst>SEND TIPS</tekst>
+</ord>
+
+<ord>
+	<id>TILBAKE</id>
+	<tekst>TILBAKE</tekst>
+</ord>
+
+<ord>
+	<id>Tips sendt</id>
+	<tekst>Tips sendt! Tips gjerne flere!</tekst>
+</ord>
+
+<ord>
+	<id>Tips error</id>
+	<tekst>Alle feltene ovenfor må fylles ut!</tekst>
+</ord>
+
+
+</ordliste>

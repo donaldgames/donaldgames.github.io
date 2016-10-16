@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+
+
+<word>
+	<id>gameId</id>
+	<string>4000</string>
+</word>
+
+<!-- sprak kan være no, se eller dk -->
+<word>
+	<id>sprak</id>
+	<string>no</string>
+</word>
+
+<word>
+	<id>brukerdataURL</id>
+  	<string>http://www.donald.no/hostedgames/agens/listdata.aspx?listType=userinfo</string>
+</word>
+
+<word>
+	<id>highscoreURL</id>
+  	<string>http://games.donald.no/hostedgames/agens/listdata.aspx?listType=highscore</string>
+</word>
+
+<word>
+	<id>postscoreURL</id>
+  	<string>http://games.donald.no/hostedgames/agens/postdata.aspx?dataType=highscore</string>
+</word>
+
+<word>
+	<id>tipsURL</id>
+	<string>http://www.donald.no/hostedgames/agens/postdata.aspx?dataType=sendtip</string>
+</word>
+
+<word>
+	<id>purchaseURL</id>
+	<string>http://www.donald.no/hostedgames/agens/postdata.aspx?dataType=purchase</string>
+</word>
+
+
+<word>
+	<id>bliMedlemURL</id>
+	<string>http://www.donald.no/default.aspx?section=newuser</string>
+</word>
+
+<word>
+	<id>facebookURL</id>
+	<string>http://www.facebook.com/donald.no</string>
+</word>
+
+<word>
+	<id>facebookDeleURL</id>
+	<string>http://www.donald.no/fb.aspx?type=100</string>
+</word>
+
+<word>
+	<id>vare1Id</id>
+	<string>7</string>
+</word>
+
+<word>
+	<id>vare1Price</id>
+	<string>500</string>
+</word>
+
+<word>
+	<id>vare2Id</id>
+	<string>8</string>
+</word>
+
+<word>
+	<id>vare2Price</id>
+	<string>100</string>
+</word>
+
+
+
+<!--- Startmeny -->
+
+<word>
+	<id>START</id>
+	<string>START</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKSJON</string>
+</word>
+
+<word>
+	<id>BLI MEDLEM</id>
+	<string>BLI MEDLEM</string>
+</word>
+
+<word>
+	<id>DAGENS BESTE</id>
+	<string>DAGENS BESTE</string>
+</word>
+
+<word>
+	<id>DONALD PÅ FACEBOOK</id>
+	<string>DONALD PÅ FACEBOOK</string>
+</word>
+
+
+
+
+<!--- Instruksjon -->
+
+<word>
+	<id>SLIK SPILLER DU</id>
+	<string>SLIK SPILLER DU</string>
+</word>
+
+<word>
+	<id>Instruksjonstekst</id>
+	<string>Kast snøballer på de andre før de treffer deg!
+Du kan også kaste på snøballer som kommer mot deg.
+Bruk musen for å flytte siktet, og klikk for å kaste!
+Går du tom for snøballer, klikk på knappen for å lage nye.
+Bruk så få snøballer som mulig for å maksimere poengsummen.
+Treff hver motstander 3 ganger for å fullføre nivået.
+Spillet har 3 nivåer.
+</string>
+</word>
+
+<word>
+	<id>Instruksjon Medlemsinfo</id>
+	<string>Er du medlem på Donald.no? Da kan du benytte deg av dine Andeby-kroner til å kjøpe deg ekstra liv eller en ekstra snøball i magasinet. Lykke til!</string>
+</word>
+
+
+
+
+<!--- Kjøpeskjerm -->
+
+<word>
+	<id>VAREINFO</id>
+	<string>Med ekstra liv tåler du å bli truffet en ekstra gang uten å tape.
+
+En ekstra snøball i magasinet gjør at du slipper å lage nye så ofte.</string>
+</word>
+
+<word>
+	<id>DEFAULT NAVN</id>
+	<string>DONALD DUCK</string>
+</word>
+
+<word>
+	<id>DITT NAVN</id>
+	<string>DITT NAVN</string>
+</word>
+
+<word>
+	<id>MULIGE KJØP</id>
+	<string>MULIGE KJØP:</string>
+</word>
+
+<word>
+	<id>VARENAVN1</id>
+	<string>EKSTRA LIV</string>
+</word>
+
+<word>
+	<id>VARENAVN2</id>
+	<string>EKSTRA SNØBALL</string>
+</word>
+
+<word>
+	<id>Andeby-kroner</id>
+	<string>Andeby-kroner</string>
+</word>
+
+<word>
+	<id>KJØP</id>
+	<string>KJØP</string>
+</word>
+
+<word>
+	<id>OK</id>
+	<string>OK</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKSJON</string>
+</word>
+
+<word>
+	<id>Avbryt</id>
+	<string>Avbryt</string>
+</word>
+
+
+
+
+<!--- Kjøpesiden -->
+
+<!-- Info på kjøpesiden - Tittel i bold -->
+<word>
+	<id>Valginfo1</id>
+	<string>Ekstra objekter:</string>
+</word>
+
+<!-- Info på kjøpesiden - Hovedtekst -->
+<word>
+	<id>Valginfo2</id>
+	<string>Aktivitet på Donald.no belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å benytte deg av Andeby-kronene dine. Er du ikke medlem,</string>
+</word>
+<!-- Info på kjøpesiden - Lenke i blått til slutt -->
+<word>
+	<id>Valginfo3</id>
+	<string>registrer deg her!</string>
+</word>
+
+<word>
+	<id>Valginfo3URL</id>
+	<string>http://www.donald.no/default.aspx?section=newuser</string>
+</word>
+
+<word>
+	<id>DIN SALDO</id>
+	<string>DIN SALDO</string>
+</word>
+
+<word>
+	<id>AKR</id>
+	<string>AKR</string>
+</word>
+
+<word>
+	<id>Ikke pålogget</id>
+	<string>Du må være pålogget donald.no for å kunne kjøpe.</string>
+</word>
+
+<word>
+	<id>Ikke nok</id>
+	<string>Du har ikke nok Andebykroner for å kjøpe. Du kan skaffe deg Andebykroner ved å ...</string>
+</word>
+
+<word>
+	<id>Bekreft kjøp</id>
+	<string>Er du sikker på at du vil kjøpe dette? (Kjøpet blir lagret og du trenger ikke å kjøpe på nytt senere.)</string>
+</word>
+
+<!--- LEVEL COMPLETE -->
+
+<word>
+	<id>FORTSETT</id>
+	<string>FORTSETT</string>
+</word>
+
+<word>
+	<id>BRETT 1 FULLFØRT</id>
+	<string>BRETT 1 ER FULLFØRT!</string>
+</word>
+
+<word>
+	<id>BRETT 2 FULLFØRT</id>
+	<string>BRETT 2 ER FULLFØRT!</string>
+</word>
+
+<word>
+	<id>BRETT 3 FULLFØRT</id>
+	<string>BRETT 3 OG SPILLET ER FULLFØRT!</string>
+</word>
+
+<word>
+	<id>SNØBALLER KASTET</id>
+	<string>Snøballer kastet</string>
+</word>
+
+<word>
+	<id>MOTSTANDERE TRUFFET</id>
+	<string>Motstandere truffet</string>
+</word>
+
+<word>
+	<id>TREFFPROSENT</id>
+	<string>Treffprosent</string>
+</word>
+
+<word>
+	<id>LIVSBONUS</id>
+	<string>Livsbonus</string>
+</word>
+
+<word>
+	<id>POENGSUM</id>
+	<string>Poengsum</string>
+</word>
+
+<word>
+	<id>GJØR DEG KLAR FOR NESTE BRETT</id>
+	<string>Gjør deg klar for neste brett!</string>
+</word>
+	
+	<!--- GAME -->
+
+<word>
+	<id>LAG FLERE</id>
+	<string>LAG FLERE SNØBALLER</string>
+</word>
+
+<word>
+	<id>KLIKK HER</id>
+	<string>KLIKK HER!</string>
+</word>
+
+<!--- GAME OVER -->
+
+<word>
+	<id>SPILL IGJEN</id>
+	<string>SPILL IGJEN</string>
+</word>
+
+<word>
+	<id>MENY</id>
+	<string>MENY</string>
+</word>
+
+<word>
+	<id>SPILLET ER OVER</id>
+	<string>SPILLET ER OVER</string>
+</word>
+
+<word>
+	<id>BRETT 1</id>
+	<string>Brett 1:</string>
+</word>
+
+<word>
+	<id>BRETT 2</id>
+	<string>Brett 2:</string>
+</word>
+
+<word>
+	<id>BRETT 3</id>
+	<string>Brett 3:</string>
+</word>
+
+<word>
+	<id>POENG</id>
+	<string>Poeng:</string>
+</word>
+
+<word>
+	<id>DEL DITT RESULTAT</id>
+	<string>DEL DITT RESULTAT PÅ FACEBOOK</string>
+</word>
+
+<word>
+	<id>TIPS EN VENN</id>
+	<string>TIPS EN VENN</string>
+</word>
+
+<word>
+	<id>Tips en venn</id>
+	<string>Tips en venn:</string>
+</word>
+
+<word>
+	<id>Tips en venn-info</id>
+	<string>Send et tips på mail til venner og kjente!</string>
+</word>
+
+<word>
+	<id>Ditt navn</id>
+	<string>Ditt navn:</string>
+</word>
+
+<word>
+	<id>Din epost</id>
+	<string>Din e-postadresse:</string>
+</word>
+
+<word>
+	<id>Venns epost</id>
+	<string>Din venns e-postadresse:</string>
+</word>
+
+<word>
+	<id>SEND TIPS</id>
+	<string>SEND TIPS</string>
+</word>
+
+<word>
+	<id>TILBAKE</id>
+	<string>TILBAKE</string>
+</word>
+
+<word>
+	<id>Tips sendt</id>
+	<string>Tips sendt! Tips gjerne flere!</string>
+</word>
+
+<word>
+	<id>Tips error</id>
+	<string>Alle feltene ovenfor må fylles ut!</string>
+</word>
+
+</xml>
