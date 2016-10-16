@@ -1,0 +1,85 @@
+<texts>
+	<menu>
+		<main><![CDATA[<b>Uppfinnarspelet</b><br>Oppfinnar-Jocke har fått en svår uppgift av Knattarna. Han ska uppfinna de coolaste, snabbaste och märkligaste farkoster som någonsin funnits - och han behöver din hjälp!]]>
+		</main>
+		<levelselection><![CDATA[<b>Välj bana</b><br>Klicka på fälten till höger. Banorna blir upplåsta efterhand som du klarar uppgifterna.]]>
+		</levelselection>
+		<name>VAD HETER DU?</name>
+		<nametext>Skriv ditt namn här om du vill spara ditt resultat.</nametext>
+		<namecancel>AVBRYT</namecancel>
+		<nameok>OK</nameok>
+		<levelprogress>
+			<complete>Klarat banan:</complete>
+			<completetrue>Ja</completetrue>
+			<completefalse>Nej</completefalse>
+			<coins>Mynt:</coins>
+			<topscore>Topscore:</topscore>
+		</levelprogress>
+		<mainMenu>
+			<start>STARTA SPELET</start>
+			<sound>LJUD</sound>
+			<highscore>HIGHSCORE</highscore>
+			<sendtofriend>SKICKA TILL KOMPIS</sendtofriend>
+			
+		</mainMenu>
+<sendToFriend>
+      <name>DITT NAMN</name>
+      <email>DIN E-POST</email>
+      <friendName>MOTTAGARENS NAMN</friendName>
+      <friendEmail>MOTTAGARENS E-POST</friendEmail>
+     <message>MEDDELANDE</message>
+</sendToFriend>
+	</menu>
+	<endscreen>
+		<congrats>GRATTIS!</congrats>
+		<subcongrats>Du har klarat banan!</subcongrats>
+		<points>Poäng:</points>
+		<coins>Mynt:</coins>
+		<tryagain>PROVA IGEN</tryagain>
+		<nextlevel>NÄSTA BANA</nextlevel>
+	</endscreen>
+	<workshop>
+		<step1><![CDATA[<b>Välj en farkost</b><br>Välj mellan en planka, en lådbil eller en fåtölj.]]></step1>
+		<step2><![CDATA[<b>Placera testdockan</b><br>Flytta dockan fram eller tillbaka. Bestäm dockans vikt. Placering och vikt påverkar farkostens balans.]]></step2>
+		<step3><![CDATA[<b>Välj saker</b><br>Placera sakerna på farkosten. De röda prickarna ska placeras ovanpå kryssen. Rotera sakerna genom att klicka på dem. Några saker kan först användas när du har fått ihop tillräckligt med mynt. Några saker utlöses på vägen. Lägg märke till vilka tangenter du ska använda när du har klickat på Start.]]></step3>
+		<currency>$</currency>
+		<items>
+			<cart>Lådbil</cart>
+			<board>Planka</board>
+			<chair>Fåtölj</chair>
+			<plungergun>Sugkopps-kanon</plungergun>
+			<fan>Ventil</fan>
+			<wheel>Hjul</wheel>
+			<pulsegun>Puls-kanon</pulsegun>
+			<aagrav>Tyngdkrafts-upplösare</aagrav>
+			
+			<plungergunPrice>40</plungergunPrice>
+			<fanPrice>25</fanPrice>
+			<wheelPrice>15</wheelPrice>
+			<pulsegunPrice>40</pulsegunPrice>
+			<aagravPrice>60</aagravPrice>			
+		</items>
+		<buttons>
+			<reset>Nollställ</reset>
+		</buttons>
+	</workshop>
+	<flyby>Testkör - kolla vilka tangenter du kan aktivera</flyby>	
+	<hud>
+		<restart>Omstart</restart>
+		<exit>Verkstad</exit>	
+	</hud>
+	<deadbox>
+			<title>HOPPSAN!</title>
+			<info>Din farkost välte!</info>
+			<tryagain>PROVA IGEN</tryagain>
+	</deadbox>
+	<levels>
+		<level1><![CDATA[<b>Vinter i Ankeborg</b><br>Ankeborgs kälkbackar är täckta av snö. Det gäller att skicka din farkost över två backar och träffa stjärnan. Du får bonuspoäng om du träffar snögubbarna på vägen.
+]]></level1>
+		<level2><![CDATA[<b>Vår hos Farmor Anka</b><br>Det gäller att ta sig över de gröna backarna och fram till stjärnan på Farmor Ankas gård. Stjärnan gömmer sig i ladan och kommer först fram när alla lådorna med äpplen har kommit under tak. Du får bonuspoäng om du träffar fågelskrämmorna.
+]]></level2>
+		<level3><![CDATA[<b>En dag på Ankeborgs strand</b><br>Här gäller det att flyga över vattnet och landa i båten. Båten tar dig sedan fram till stjärnan. Du får bonuspoäng om du träffar badankorna.]]></level3>
+		<level4><![CDATA[<b>Oppfinnar-Jockes trädgård</b><br>En robot har fått en skruv lös och kastar tegelpannor omkring sig. Det gäller att ta sig över Jockes allt skräp och stänga av roboten på den röda knappen. 
+Du får bonuspoäng om du träffar de tomma papperskassarna.]]></level4>						
+	</levels>	
+</texts>

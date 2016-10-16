@@ -1,0 +1,120 @@
+<level>
+	<ground friction="200">
+		<point x="-228" y="2736"/>
+		<point x="72" y="2826"/>
+		<point x="234" y="2868"/>
+		<point x="426" y="2892"/>
+		<point x="642" y="2892"/>
+		<point x="810" y="2874"/>
+		<point x="918" y="2838"/>
+		<point x="1008" y="2802"/>
+		<point x="1056" y="2829"/>
+		<point x="1134" y="2856"/>
+		<point x="1233" y="2874"/>
+		<point x="1338" y="2880"/>
+		<point x="1431" y="2883"/>
+		<point x="1533" y="2880"/>
+		<point x="1644" y="2862"/>
+		<point x="1764" y="2838"/>
+		<point x="1890" y="2850"/>
+		<point x="2034" y="2880"/>
+		<point x="2202" y="2916"/>
+		<point x="2376" y="2910"/>
+		<point x="2526" y="2868"/>
+		<point x="2658" y="2814"/>
+		<point x="2712" y="2838"/>
+		<point x="2730" y="2940"/>
+		<point x="2820" y="3492"/>
+		<point x="5760" y="3480"/>
+		<point x="5886" y="2874"/>
+		<point x="5910" y="2832"/>
+		<point x="5983.8" y="2796"/>
+		<point x="5989.8" y="1548"/>
+	</ground>
+	<coin friction="">
+		<point x="726" y="2808"/>
+		<point x="852" y="2766"/>
+		<point x="972" y="2706"/>
+		<point x="2652" y="2748"/>
+		<point x="3180" y="2616"/>
+		<point x="4236" y="2886"/>
+		<point x="4554" y="2880"/>
+		<point x="4848" y="2886"/>
+		<point x="5730" y="2712"/>
+		<point x="5790" y="2640"/>
+		<point x="5802" y="2778"/>
+		<point x="1092" y="2712"/>
+		<point x="1182" y="2772"/>
+		<point x="1314" y="2796"/>
+		<point x="1851" y="2739"/>
+		<point x="1917" y="2751"/>
+		<point x="1980" y="2772"/>
+		<point x="2748" y="2712"/>
+		<point x="2844" y="2688"/>
+		<point x="2940" y="2682"/>
+		<point x="2700" y="2652"/>
+		<point x="2550" y="2796"/>
+		<point x="2586" y="2724"/>
+		<point x="2814" y="2604"/>
+		<point x="3924" y="2892"/>
+		<point x="1020" y="2526"/>
+		<point x="1020" y="2394"/>
+		<point x="1020" y="2262"/>
+		<point x="4386" y="2766"/>
+		<point x="4074" y="2766"/>
+		<point x="4704" y="2760"/>
+		<point x="4968" y="2760"/>
+		<point x="5268" y="2766"/>
+		<point x="5418" y="2886"/>
+		<point x="2934" y="2580"/>
+		<point x="3072" y="2586"/>
+		<point x="3033" y="2682"/>
+		<point x="3129" y="2700"/>
+		<point x="3222" y="2721"/>
+		<point x="3306" y="2766"/>
+		<point x="5874" y="2586"/>
+		<point x="5970" y="2556"/>
+		<point x="5976" y="2706"/>
+		<point x="5130" y="2886"/>
+		<point x="5886" y="2727"/>
+		<point x="3276" y="2664"/>
+	</coin>
+	<endzone friction="">
+		<point x="5718" y="2838"/>
+	</endzone>
+	<breakables friction="">
+		<point x="1098" y="2821.8"/>
+		<point x="2046" y="2862"/>
+		<point x="5916" y="2826"/>
+	</breakables>
+	<boxes friction="">
+	</boxes>
+	<boat friction="">
+		<point x="3456" y="2910"/>
+	</boat>
+	<platform1 friction="">
+		<point x="2664" y="3099.8999999999996"/>
+		<point x="5700" y="3099.8999999999996"/>
+		<point x="5904" y="3129.8999999999996"/>
+	</platform1>
+	<platform2 friction="">
+	</platform2>
+	<platform3 friction="">
+	</platform3>
+	<flyby friction="">
+		<point x="48" y="2796"/>
+		<point x="534" y="2874"/>
+		<point x="1014" y="2826"/>
+		<point x="1536" y="2838"/>
+		<point x="2058" y="2802"/>
+		<point x="2550" y="2826"/>
+		<point x="3054" y="2880"/>
+		<point x="3606" y="2934"/>
+		<point x="4104" y="2940"/>
+		<point x="4686" y="2934"/>
+		<point x="5256" y="2904"/>
+		<point x="5826" y="2892"/>
+		<point x="5928" y="2712"/>
+	</flyby>
+<scale value="6000"/>
+</level>

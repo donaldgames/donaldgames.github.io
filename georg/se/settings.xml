@@ -1,0 +1,11 @@
+<settings>
+	<camera showShapes="0" showJoints="0" showMcs="1" bitmap="0"/>
+	<general speed="3" showGui="1" level="1" startGold="80" clearData="0"/> 
+	<highscore>
+		<registerScoreUrl>http://www.andeby.dk/HostedGames/Georg/RegisterScores.aspx</registerScoreUrl>
+		<createUserUrl>http://www.andeby.dk/HostedGames/Georg/CreateUser.aspx</createUserUrl>	
+		<loadTotalHighUrl>http://www.andeby.dk/HostedGames/Georg/GetTotalScores.aspx</loadTotalHighUrl>
+		<loadLevelHighUrl>http://www.andeby.dk/HostedGames/Georg/GetLevelScores.aspx</loadLevelHighUrl>	
+		<password>5tgb6yhn7ujm</password> 		
+	</highscore>
+</settings>
