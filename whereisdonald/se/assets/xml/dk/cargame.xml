@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameText>
+<Title><![CDATA[KNATTE, FNATTE & TJATTE]]></Title>
+<Title><![CDATA[DIRIGERAR TRAFIKEN]]></Title>
+<Play><![CDATA[SPELA NU >]]></Play>
+<Ok><![CDATA[OK]]></Ok>
+<InstructionTitle><![CDATA[INSTRUKTIONER:]]></InstructionTitle>
+<Instructions><![CDATA[INSTRUKTIONER
+Använd <  >  ^  V -knapparna. När fordonet kommer till en korsning, tryck då på tangenten som motsvarar pilen på gatan, för att leda trafiken rätt. Följ pilarna för att leda trafiken tryggt genom Ankeborgs gator. Om du låter tre olyckor hända är spelet slut. Se upp för de förrymda djuren!]]></Instructions>
+<Level><![CDATA[NIVÅ ]]></Level>
+<Life><![CDATA[LIFE]]></Life>
+<Car><![CDATA[CAR]]></Car>
+<Score><![CDATA[POÄNG :]]></Score>
+<Congrats><![CDATA[GRATTIS!]]></Congrats>
+<Congrats><![CDATA[DU LYCKADES LEDA TRAFIKEN RÄTT]]></Congrats>
+<Congrats><![CDATA[Du plockar upp några konstiga rör - de kan vara bra att ha senare]]></Congrats>
+<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+<Continue><![CDATA[UTFORSKA VIDARE]]></Continue>
+<GameOver><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></GameOver>
+</GameText>
