@@ -34,6 +34,8 @@ Det som står mellom <id> og </id> må ikke endres!
 	<url>http://www.andeby.dk/fb.aspx?type=100</url>
 </facebookdeling>
 
+
+
 <!-- Språk, forkortelse. Må ikke endres! -->
 <lang>se</lang>
 
@@ -55,7 +57,7 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 <id>BLI MEDLEM URL</id>
-<tekst>http://www.kalleanka.se/default.aspx?section=newuser</tekst>
+<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 <ord>
@@ -112,7 +114,7 @@ Det som står mellom <id> og </id> må ikke endres!
 <!-- Info på skivalgsiden - Hovedtekst -->
 <ord>
 	<id>skiinfo2</id>
-	<tekst>Aktivitet på kalleanka.se belönas med Ankeborgskronor. Du måste vara inloggad för att se hur många Ankeborgskronor du har. Du kan använda skidorna när du har tillräckligt med Ankeborgskronor.           Om du inte är medlem,</tekst>
+	<tekst>Aktivitet på Andeby.dk belönas med Ankeborgskronor. Du måste vara inloggad för att se hur många Ankeborgskronor du har. Du kan använda skidorna när du har tillräckligt med Ankeborgskronor.           Om du inte är medlem,</tekst>
 </ord>
 
 <!-- Info på skivalgsiden - Lenke i blått til slutt -->
@@ -124,7 +126,7 @@ Det som står mellom <id> og </id> må ikke endres!
 <!-- Info på skivalgsiden - Lenke til Bli medlem-url i blått til slutt -->
 <ord>
 	<id>skiinfo3url</id>
-	<tekst>http://kalleanka.se/Andeby/Bli-medlem.aspx</tekst>
+	<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 <!-- Forkortelse for "omgang" på dommerskjermen -->
@@ -198,13 +200,13 @@ OBS! Håll ett öga på vinden! Den kan påverka hoppets längd.</tekst>
 <!-- Info på instruksjonsiden - Lenketekst -->
 <ord>
 	<id>instruksinfo2</id>
-	<tekst>medlem på kalleanka.se</tekst>
+	<tekst>medlem på Andeby.dk</tekst>
 </ord>
 
 <!-- Info på instruksjonsiden - Lenke til Bli medlem-url i blått  -->
 <ord>
 	<id>instruksinfo2url</id>
-	<tekst>http://kalleanka.se/Andeby/Bli-medlem.aspx</tekst>
+	<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 <!-- Info på instruksjonsiden - siste del -->
@@ -247,6 +249,7 @@ OBS! Håll ett öga på vinden! Den kan påverka hoppets längd.</tekst>
 	<id>TILBAKE</id>
 	<tekst>TILLBAKA</tekst>
 </ord>
+
 <ord>
 	<id>Tips sendt</id>
 	<tekst>Ditt tips är skickat! Tipsa gärna fler!</tekst>
@@ -256,5 +259,6 @@ OBS! Håll ett öga på vinden! Den kan påverka hoppets längd.</tekst>
 	<id>Tips error</id>
 	<tekst>Du måste fylla i alla fälten!</tekst>
 </ord>
+
 
 </ordliste>

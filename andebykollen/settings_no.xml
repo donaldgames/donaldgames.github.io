@@ -57,7 +57,7 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 <id>BLI MEDLEM URL</id>
-<tekst>http://www.donald.no/default.aspx?section=newuser</tekst>
+<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 <ord>
@@ -114,7 +114,7 @@ Det som står mellom <id> og </id> må ikke endres!
 <!-- Info på skivalgsiden - Hovedtekst -->
 <ord>
 	<id>skiinfo2</id>
-	<tekst>Aktivitet på Donald.no belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å bebenytte deg av Andeby-kronene dine. Er du ikke medlem,</tekst>
+	<tekst>Aktivitet på Andeby.dk belønnes med Andeby-kroner. Du må være logget inn på Andeby.dk for å bebenytte deg av Andeby-kronene dine. Er du ikke medlem,</tekst>
 </ord>
 
 <!-- Info på skivalgsiden - Lenke i blått til slutt -->
@@ -126,7 +126,7 @@ Det som står mellom <id> og </id> må ikke endres!
 <!-- Info på skivalgsiden - Lenke til Bli medlem-url i blått til slutt -->
 <ord>
 	<id>skiinfo3url</id>
-	<tekst>http://www.donald.no/default.aspx?section=newuser</tekst>
+	<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 <!-- Forkortelse for "omgang" på dommerskjermen -->
@@ -200,13 +200,13 @@ OBS! Følg med på vinden! Den kan påvirke lengden.</tekst>
 <!-- Info på instruksjonsiden - Lenketekst -->
 <ord>
 	<id>instruksinfo2</id>
-	<tekst>medlem på Donald.no</tekst>
+	<tekst>medlem på Andeby.dk</tekst>
 </ord>
 
 <!-- Info på instruksjonsiden - Lenke til Bli medlem-url i blått  -->
 <ord>
 	<id>instruksinfo2url</id>
-	<tekst>http://www.donald.no/default.aspx?section=newuser</tekst>
+	<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 <!-- Info på instruksjonsiden - siste del -->
