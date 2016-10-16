@@ -1,0 +1,352 @@
+<!--
+
+***************
+  INSTRUKSJON
+***************
+
+Hver oversettelse av spillet har sin egen settings.xml-fil
+
+Bare tekst som står mellom <tekst> og </tekst> er tillatt å endre!
+Det som står mellom <id> og </id> må ikke endres!
+
+ -->
+<ordliste>
+
+
+<!--- 1 Bronse -->
+<ord>
+  <id>utmerkelse1Id</id>
+  <tekst>7</tekst>
+</ord>
+
+<ord>
+  <id>utmerkelse1Price</id>
+  <tekst>100</tekst>
+</ord>
+
+<!--- 2 Sølv -->
+
+<ord>
+  <id>utmerkelse2Id</id>
+  <tekst>8</tekst>
+</ord>
+
+<ord>
+  <id>utmerkelse2Price</id>
+  <tekst>200</tekst>
+</ord>
+<!--- 3 Gull -->
+<ord>
+  <id>utmerkelse3Id</id>
+  <tekst>9</tekst>
+</ord>
+
+<ord>
+  <id>utmerkelse3Price</id>
+  <tekst>300</tekst>
+</ord>
+
+<ord>
+  <id>achievementURL</id>
+  <tekst>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=registerAchievement</tekst>
+</ord>
+
+<ord>
+  <id>UTMERKELSER</id>
+  <tekst>Spil og vind Andeby-kroner:</tekst>
+</ord>
+
+<ord>
+  <id>UTMERKELSER TATT</id>
+  <tekst>Du har vundet alle!</tekst>
+</ord>
+
+<ord>
+  <id>BRONSEKRAV</id>
+  <tekst>MINDST 
+ 5 P</tekst>
+</ord>
+
+<ord>
+  <id>BRONSEKRAV POENGVERDI</id>
+  <tekst>5</tekst>
+</ord>
+
+<ord>
+  <id>BRONSE GRATULASJON</id>
+  <tekst>Du fik bronzemedalje og 100 Andebykroner!</tekst>
+</ord>
+
+<ord>
+  <id>SOLVKRAV</id>
+  <tekst>MINDST 
+ 10 P</tekst>
+</ord>
+
+<ord>
+  <id>SOLVKRAV POENGVERDI</id>
+  <tekst>10</tekst>
+</ord>
+
+<ord>
+  <id>SOLV GRATULASJON</id>
+  <tekst>Du fik sølvmedalje og 200 Andebykroner!</tekst>
+</ord>
+
+<ord>
+  <id>GULLKRAV</id>
+  <tekst>MINDST 
+ 20 P</tekst>
+</ord>
+
+<ord>
+  <id>GULLKRAV POENGVERDI</id>
+  <tekst>20</tekst>
+</ord>
+
+<ord>
+  <id>GULL GRATULASJON</id>
+  <tekst>Du fik guldmedalje og 300 Andebykroner!</tekst>
+</ord>
+
+<ord>
+  <id>AKR</id>
+  <tekst>AKR</tekst>
+</ord>
+
+
+<!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
+<brukerdata>
+  	<url>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</url>
+</brukerdata>
+
+<!-- Språk, forkortelse. Må ikke endres! -->
+<lang>dk</lang>
+
+<!-- Tittelen på spillet - Startmeny og Game over-skjerm -->
+<ord>
+<id>SPILLTITTEL</id>
+<tekst>BØLLEBANK</tekst>
+</ord>
+
+<ord>
+<id>B-GJENGEN</id>
+<tekst>BJØRNE-BANDEN</tekst>
+</ord>
+
+<!-- Default navn for jentespiller -->
+<ord>
+<id>Magica</id>
+<tekst>Hexia</tekst>
+</ord>
+
+<ord>
+<id>VS</id>
+<tekst>VS</tekst>
+</ord>
+
+<ord>
+<id>MAGICA</id>
+<tekst>HEXIA</tekst>
+</ord>
+
+<!-- Default navn for guttespiller -->
+<ord>
+<id>167-761-</id>
+<tekst>167-761-</tekst>
+</ord>
+
+<ord>
+<id>POENG</id>
+<tekst>point</tekst>
+</ord>
+
+<!-- Forkortelse for POENG, vises dersom poengsummen blir for stor til at det er plas til hele ordet POENG -->
+<ord>
+<id>P</id>
+<tekst>P</tekst>
+</ord>
+
+<!-- Hvor mange treff man har på rad -->
+<ord>
+<id>TREFF PÅ RAD</id>
+<tekst>HIT I TRÆK</tekst>
+</ord>
+
+<!-- Som i SPILL FOR GUTTENE/JENTENE -->
+<ord>
+<id>SPILL FOR</id>
+<tekst>SPIL FOR</tekst>
+</ord>
+
+<ord>
+<id>JENTENE</id>
+<tekst>Hexia</tekst>
+</ord>
+
+<ord>
+<id>GUTTENE</id>
+<tekst>Bjørne-banden</tekst>
+</ord>
+
+<!-- Som i jentene MOT guttene -->
+  <ord>
+    <id>MOT</id>
+    <tekst>MOD</tekst>
+  </ord>
+  
+  <!-- Som i "Send jentene I BINGEN" -->
+  <ord>
+    <id>I BINGEN</id>
+    <tekst>I BOKSEN</tekst>
+  </ord>
+
+<ord>
+<id>DITT NAVN</id>
+<tekst>DIT NAVN</tekst>
+</ord>
+
+<ord>
+<id>DIN VENNS NAVN</id>
+<tekst>DIN VENS NAVN</tekst>
+</ord>
+
+<ord>
+<id>DIN VENNS E-POST</id>
+<tekst>DIN VENS E-MAIL</tekst>
+</ord>
+
+<!-- Instruksjon på navneskjermen for Hakkespettene -->
+<ord>
+<id>GUTTEINSTRUKSJON</id>
+<tekst>Bjørne-banden VIL indtage Joakims pengetank. Det koster mange bøllebank, hvis banditterne skal bryde døren ind i en fart! Tag sigte og ret kursen ind mod målet. Men husk at rette ind når Joakim og hans hjælpere forsøger at blæse dig tilbage i kachotten!</tekst>
+</ord>
+
+<!-- Instruksjon på navneskjermen for Grønnmeisene -->
+<ord>
+<id>JENTEINSTRUKSJON</id>
+<tekst>Hexia er som altid på jagt efter Joakims lykkemønt. Hjælp hende med at knuse sig vej gennem mursten og mørtel til alle millionerne. Tag sigte og ret kursen ind mod målet. Men husk at rette ind når Joakim og hans hjælpere forsøger at blæse dig tilbage til foden af Vesuvio.</tekst>
+</ord>
+
+<ord>
+<id>START</id>
+<tekst>START</tekst>
+</ord>
+
+<ord>
+<id>SPILLET</id>
+<tekst>SPILLET</tekst>
+</ord>
+
+<ord>
+<id>DONALD PÅ FACEBOOK</id>
+<tekst>ANDEBY PÅ FACEBOOK</tekst>
+</ord>
+
+<ord>
+<id>FACEBOOK URL</id>
+<tekst>http://www.facebook.com/andebynews</tekst>
+</ord>
+
+<ord>
+<id>DINE POENG</id>
+<tekst>DINE POINT</tekst>
+</ord>
+
+<ord>
+<id>DEL DIN SCORE</id>
+<tekst>DEL DIN SCORE</tekst>
+</ord>
+
+ <ord>
+  <id>VERV SPILLERE</id>
+  <tekst>HVERV SPILLERE</tekst>
+  </ord>
+  
+   <ord>
+  <id>VERV GUTTER</id>
+  <tekst>Hent flere Bjørne-bande fans</tekst>
+  </ord>
+  
+  <ord>
+  <id>VERV JENTER</id>
+  <tekst>Hent flere Hexia hekse</tekst>
+  </ord>
+
+<ord>
+<id>PÅ FACEBOOK</id>
+<tekst>PÅ FACEBOOK</tekst>
+</ord>
+
+<!-- SOM I "DEL PÅ FACEBOOK" -->
+<ord>
+<id>DEL PÅ</id>
+<tekst>DEL PÅ</tekst>
+</ord>
+
+<ord>
+<id>FACEBOOK</id>
+<tekst>FACEBOOK</tekst>
+</ord>
+
+<ord>
+<id>VERV EN SPILLER</id>
+<tekst>HVERV EN SPILLER</tekst>
+</ord>
+
+<ord>
+<id>TIL DITT LAG</id>
+<tekst>TIL DIT HOLD</tekst>
+</ord>
+
+<ord>
+<id>SPILL IGJEN</id>
+<tekst>SPIL IGEN</tekst>
+</ord>
+
+<!-- Som i DU SKAFFET JENTENE 10 POENG -->
+<ord>
+<id>DU SKAFFET</id>
+<tekst>DU SKAFFEDE</tekst>
+</ord>
+
+<!-- VERV EN SPILLER TIL DITT LAG! -->
+<ord>
+<id>VERVETEKST JENTER</id>
+<tekst>HVERV EN SPILLER TIL DIT HOLD!</tekst>
+</ord>
+
+<!-- VERV EN SPILLER TIL DITT LAG! -->
+<ord>
+<id>VERVETEKST GUTTER</id>
+<tekst>HVERV EN SPILLER TIL DIT HOLD!</tekst>
+</ord>
+
+<!-- Få flere til å spille for Grønnmeisene! -->
+<ord>
+<id>VERVEINFO JENTER</id>
+<tekst>Hexia har brug for din hjælp til at rane lykkeskillingen. Hverv en ven til "Team Hexia" nu!</tekst>
+</ord>
+
+<!-- Få flere til å spille for Hakkespettene! -->
+<ord>
+<id>VERVEINFO GUTTER</id>
+<tekst>Bjørne-banden er godt nok talstærk, men de har brug for flere drenge på holdet. Hverv en ven til "Team Bjørne-banden" nu!</tekst>
+</ord>
+
+<ord>
+<id>SEND</id>
+<tekst>SEND</tekst>
+</ord>
+
+<ord>
+<id>MELDING</id>
+<tekst>MELDING</tekst>
+</ord>
+
+<ord>
+    <id>AVBRYT</id>
+    <tekst>AFBRYD</tekst>
+  </ord>
+
+</ordliste>

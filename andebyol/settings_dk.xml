@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+
+<!-- sprak kan være no, se eller dk -->
+<word>
+	<id>sprak</id>
+	<string>no</string>
+</word>
+
+<word>
+	<id>brukerdataURL</id>
+  	<string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</string>
+</word>
+
+<word>
+	<id>highscoreURL</id>
+  	<string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=highscore</string>
+</word>
+
+<word>
+	<id>postscoreURL</id>
+  	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=highscore</string>
+</word>
+
+<word>
+	<id>tipsURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendtip</string>
+</word>
+
+<word>
+	<id>purchaseURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=purchase</string>
+</word>
+
+<word>
+	<id>achievementURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=registerAchievement</string>
+</word>
+
+<word>
+	<id>challengeURL</id>
+	<string>http://www.andeby.dk/fb.aspx?type=100</string>
+</word>
+
+<word>
+	<id>sendChallengeURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendChallenge</string>
+</word>
+
+
+<word>
+	<id>bliMedlemURL</id>
+	<string>http://www.andeby.dk/bliv-medlem/</string>
+</word>
+
+<word>
+	<id>facebookURL</id>
+	<string>http://www.facebook.com/andebynews</string>
+</word>
+
+<word>
+	<id>facebookDeleURL</id>
+	<string>http://www.andeby.dk/fb.aspx?type=100</string>
+</word>
+
+<word>
+	<id>vare1Id</id>
+	<string>11</string>
+</word>
+
+<word>
+	<id>vare1Price</id>
+	<string>300</string>
+</word>
+
+<word>
+	<id>vare2Id</id>
+	<string>12</string>
+</word>
+
+<word>
+	<id>vare2Price</id>
+	<string>500</string>
+</word>
+
+<!--- 1 Bronse -->
+<word>
+	<id>utmerkelse1Id</id>
+	<string>4</string>
+</word>
+
+<word>
+	<id>utmerkelse1Price</id>
+	<string>100</string>
+</word>
+
+<!--- 2 Sølv -->
+
+<word>
+	<id>utmerkelse2Id</id>
+	<string>5</string>
+</word>
+
+<word>
+	<id>utmerkelse2Price</id>
+	<string>200</string>
+</word>
+<!--- 3 Gull -->
+<word>
+	<id>utmerkelse3Id</id>
+	<string>6</string>
+</word>
+
+<word>
+	<id>utmerkelse3Price</id>
+	<string>300</string>
+</word>
+
+
+<!--- Startmeny -->
+
+<word>
+	<id>START</id>
+	<string>START</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKTION</string>
+</word>
+
+<word>
+	<id>BLI MEDLEM</id>
+	<string>BLIV MEDLEM</string>
+</word>
+
+<word>
+	<id>DAGENS BESTE</id>
+	<string>DAGENS BEDSTE</string>
+</word>
+
+<word>
+	<id>DONALD PÅ FACEBOOK</id>
+	<string>ANDEBY PÅ FACEBOOK</string>
+</word>
+
+<word>
+	<id>Lengdehopptrening</id>
+	<string>Længdespringstræning</string>
+</word>
+
+<word>
+	<id>Hekkeløpstrening</id>
+	<string>Hækkeløbstræning</string>
+</word>
+
+<word>
+	<id>Diskostrening</id>
+	<string>Diskostræning</string>
+</word>
+
+<word>
+	<id>UTFORDRING</id>
+	<string>Du er udfordret til duel mod:</string>
+</word>
+
+<word>
+	<id>HVEM ER BEST</id>
+	<string>Hvem er bedst?</string>
+</word>
+
+
+
+<!--- Instruksjon -->
+
+<word>
+	<id>SLIK SPILLER DU</id>
+	<string>SÅDAN SPILLER DU</string>
+</word>
+
+<word>
+	<id>Instruksjonstekst</id>
+	<string>Kom til tops i Andeby-OL!
+Du skal konkurrerer i 3 grene for at få det bedste samlede result.
+Brug SPACE og PILETASTERNE, og læs ellers instruktionen for den enkelte øvelse.
+Du kan også træne på enkeltgrene, hvis du vil yde dit ypperste.
+Det er også muligt at udfordre venner med dit slutresultat, via Facebook eller mail.
+</string>
+</word>
+
+<word>
+	<id>Instruksjon Medlemsinfo</id>
+	<string>Er du medlem af Andeby.dk? Så kan du bruge dine Andeby-kroner til at købe ekstra fordele. Held og lykke!</string>
+</word>
+
+
+
+
+<!--- Kjøpeskjerm -->
+
+<word>
+	<id>VAREINFO</id>
+	<string>Guldsko giver større fart i Hækkeløb og Længdespring.
+Tærten har bedre flyvegenskaber end en standard diskos.
+</string>
+</word>
+
+<word>
+	<id>DEFAULT NAVN</id>
+	<string>ANDERS AND</string>
+</word>
+
+<word>
+	<id>DITT NAVN</id>
+	<string>DIT NAVN</string>
+</word>
+
+<word>
+	<id>MULIGE KJØP</id>
+	<string>MULIGE KØB:</string>
+</word>
+
+<word>
+	<id>VARENAVN1</id>
+	<string>GULDSKO</string>
+</word>
+
+<word>
+	<id>VARENAVN2</id>
+	<string>BEDSTES TÆRTE</string>
+</word>
+
+<word>
+	<id>Andeby-kroner</id>
+	<string>Andeby-kroner</string>
+</word>
+
+<word>
+	<id>KJØP</id>
+	<string>KØB</string>
+</word>
+
+<word>
+	<id>OK</id>
+	<string>OK</string>
+</word>
+
+<word>
+	<id>INSTRUKSJON</id>
+	<string>INSTRUKTION</string>
+</word>
+
+<word>
+	<id>Avbryt</id>
+	<string>Afbryd</string>
+</word>
+
+<word>
+	<id>UTMERKELSER</id>
+	<string>Udmærkelser - Spil og vind Andeby-kroner:</string>
+</word>
+
+<word>
+	<id>UTMERKELSER TATT</id>
+	<string>Udmærkelser - Du har vundet alle!</string>
+</word>
+
+<word>
+	<id>BRONSEKRAV</id>
+	<string>OVER 
+1500 P</string>
+</word>
+
+<word>
+	<id>BRONSEKRAV POENGVERDI</id>
+	<string>1500</string>
+</word>
+
+<word>
+	<id>BRONSE GRATULASJON</id>
+	<string>Du fik bronzemedalje og 100 Andebykroner!</string>
+</word>
+
+<word>
+	<id>SOLVKRAV</id>
+	<string>OVER
+2000 P</string>
+</word>
+
+<word>
+	<id>SOLVKRAV POENGVERDI</id>
+	<string>2000</string>
+</word>
+
+<word>
+	<id>SOLV GRATULASJON</id>
+	<string>Du fik sølvmedalje og 200 Andebykroner!</string>
+</word>
+
+<word>
+	<id>GULLKRAV</id>
+	<string>OVER
+2500 P</string>
+</word>
+
+<word>
+	<id>GULLKRAV POENGVERDI</id>
+	<string>2500</string>
+</word>
+
+<word>
+	<id>GULL GRATULASJON</id>
+	<string>Du fik guldmedalje og 300 Andebykroner!</string>
+</word>
+
+
+
+<!--- Kjøpesiden -->
+
+<!-- Info på kjøpesiden - Tittel i bold -->
+<word>
+	<id>Valginfo1</id>
+	<string>Ekstra ting:</string>
+</word>
+
+<!-- Info på kjøpesiden - Hovedtekst -->
+<word>
+	<id>Valginfo2</id>
+	<string>Aktivitet på Andeby.dk belønnes med Andeby-kroner. Du skal være logget ind på Andeby.dk for at bruge dine Andeby-kroner. Er du ikke medlem,</string>
+</word>
+<!-- Info på kjøpesiden - Lenke i blått til slutt -->
+<word>
+	<id>Valginfo3</id>
+	<string>registrer dig her!</string>
+</word>
+
+<word>
+	<id>Valginfo3URL</id>
+	<string>http://www.andeby.dk/bliv-medlem/</string>
+</word>
+
+<word>
+	<id>DIN SALDO</id>
+	<string>DIN SALDO</string>
+</word>
+
+<word>
+	<id>AKR</id>
+	<string>AKR</string>
+</word>
+
+<word>
+	<id>Ikke pålogget</id>
+	<string>Du skal være logget ind på Andeby.dk for at købe.</string>
+</word>
+
+<word>
+	<id>Ikke nok</id>
+	<string>Du har ikke nok Andebykroner for at købe. Du kan skaffe Andebykroner ved at ...</string>
+</word>
+
+<word>
+	<id>Bekreft kjøp</id>
+	<string>Er du sikker på at du vil købe dette? (Købet gemmes og du behøver ikke købe igen senere.)</string>
+</word>
+
+	
+	<!--- GAME -->
+<word>
+	<id>INNTA PLASSENE</id>
+	<string>KLAR</string>
+</word>
+
+<word>
+	<id>FERDIG</id>
+	<string>PARAT</string>
+</word>
+
+<word>
+	<id>HEKKELØP</id>
+	<string>HÆKKELØB</string>
+</word>
+
+<word>
+	<id>GREN</id>
+	<string>GREN</string>
+</word>
+
+<word>
+	<id>TRENING</id>
+	<string>TRÆNING</string>
+</word>
+
+<word>
+	<id>Resultat</id>
+	<string>Resultat</string>
+</word>
+
+<word>
+	<id>Din rekord</id>
+	<string>Din rekord</string>
+</word>
+
+<word>
+	<id>Poeng</id>
+	<string>Point</string>
+</word>
+
+<word>
+	<id>INSTRUKS HEKK</id>
+	<string>SPACE for at løbe - PIL OP for at springe</string>
+</word>
+
+<word>
+	<id>SPACE START</id>
+	<string>SPACE for at starte</string>
+</word>
+
+<word>
+	<id>SPACE FORTSETT</id>
+	<string>SPACE for at fortsætte</string>
+</word>
+
+<word>
+	<id>LENGDEHOPP</id>
+	<string>LÆNGDESPRING</string>
+</word>
+
+<word>
+	<id>INSTRUKS LENGDE</id>
+	<string>SPACE for at få fart - PIL OP for at springe inden planken</string>
+</word>
+
+<word>
+	<id>DISKOSKAST</id>
+	<string>DISKOSKAST</string>
+</word>
+
+<word>
+	<id>INSTRUKS DISKOS</id>
+	<string>Hold SPACE inde for at snurre, slip SPACE for at kaste!
+PILTASTER justerer vinklen.</string>
+</word>
+
+
+
+
+<word>
+	<id>SPACE</id>
+	<string>SPACE for at starte!</string>
+</word>
+
+<word>
+	<id>SPACEHINT</id>
+	<string>SPACE for at tænde næste raket!</string>
+</word>
+
+<word>
+	<id>REKORD</id>
+	<string>Rekord:</string>
+</word>
+
+<word>
+	<id>NY REKORD</id>
+	<string>Ny personlig rekord!</string>
+</word>
+
+<word>
+	<id>HØYDE</id>
+	<string>Højde:</string>
+</word>
+
+
+<!--- GAME OVER -->
+
+<word>
+	<id>SPILL IGJEN</id>
+	<string>SPIL IGEN</string>
+</word>
+
+<word>
+	<id>MENY</id>
+	<string>MENU</string>
+</word>
+
+<word>
+	<id>SPILLET ER OVER</id>
+	<string>SPILLET ER SLUT</string>
+</word>
+
+<word>
+	<id>Lengdehopp</id>
+	<string>Længdespring</string>
+</word>
+
+<word>
+	<id>Hekkeløp</id>
+	<string>Hækkeløb</string>
+</word>
+
+<word>
+	<id>Diskos</id>
+	<string>Diskos</string>
+</word>
+
+
+<word>
+	<id>POENG</id>
+	<string>Point</string>
+</word>
+
+<word>
+	<id>Du</id>
+	<string>Du</string>
+</word>
+
+<word>
+	<id>GRATULERER</id>
+	<string>Tillykke! Du er bedst!</string>
+</word>
+
+<word>
+	<id>KONDOLERER</id>
+	<string>Bedre held næste gang!</string>
+</word>
+
+<word>
+	<id>UAVGJORT</id>
+	<string>Utroligt! Uafgjort!</string>
+</word>
+
+<word>
+	<id>DEL DITT RESULTAT</id>
+	<string>DEL DIT RESULTAT PÅ FACEBOOK</string>
+</word>
+
+<word>
+	<id>TIPS EN VENN</id>
+	<string>UDFORDRE EN VEN</string>
+</word>
+
+<word>
+	<id>Tips en venn</id>
+	<string>Udfordre en ven:</string>
+</word>
+
+<word>
+	<id>Tips en venn-info</id>
+	<string>Send en udfordring på mail til venner og kendte!</string>
+</word>
+
+<word>
+	<id>Ditt navn</id>
+	<string>Dit navn:</string>
+</word>
+
+<word>
+	<id>Din epost</id>
+	<string>Din e-mailadresse:</string>
+</word>
+
+<word>
+	<id>Venns epost</id>
+	<string>Din vens e-mailadresse:</string>
+</word>
+
+<word>
+	<id>SEND TIPS</id>
+	<string>SEND UDFORDRING</string>
+</word>
+
+<word>
+	<id>TILBAKE</id>
+	<string>TILBAGE</string>
+</word>
+
+<word>
+	<id>Tips sendt</id>
+	<string>Udfordring sendt! Udfordre gerne flere!</string>
+</word>
+
+<word>
+	<id>Tips error</id>
+	<string>Alle felterne ovenfor skal udfyldes!</string>
+</word>
+
+</xml>

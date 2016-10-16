@@ -15,7 +15,7 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
 <brukerdata>
-  	<url></url>
+  	<url>http://www.andeby.dk/gamedata.axd</url>
 </brukerdata>
 
 <!-- Språk, forkortelse. Må ikke endres! -->

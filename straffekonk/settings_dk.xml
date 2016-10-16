@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+***************
+  INSTRUKSJON
+***************
+
+Hver oversettelse av spillet har sin egen settings.xml-fil
+
+Bare tekst som står mellom <tekst> og </tekst> er tillatt å endre!
+Det som står mellom <id> og </id> må ikke endres!
+
+ -->
+<ordliste>
+  <!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
+  <brukerdata>
+    <url>http://www.andeby.dk/gamedata.axd</url>
+  </brukerdata>
+  <!-- Språk, forkortelse. Må ikke endres! -->
+  <lang>dk</lang>
+  <!-- VELG DITT (LAG!) -->
+  <ord>
+    <id>VELG DITT</id>
+    <tekst>VÆLG DIT</tekst>
+  </ord>
+  <!-- (VELG DITT) LAG! -->
+  <ord>
+    <id>LAG!</id>
+    <tekst>HOLD!</tekst>
+  </ord>
+  <ord>
+    <id>SISTE MÅLSCORERE:</id>
+    <tekst>SENESTE MÅLSCORER:</tekst>
+  </ord>
+  <ord>
+    <id>DITT NAVN</id>
+    <tekst>DIT NAVN</tekst>
+  </ord>
+  <ord>
+    <id>DIN VENNS NAVN</id>
+    <tekst>DIN VENS NAVN</tekst>
+  </ord>
+  <ord>
+    <id>DIN VENNS E-POST</id>
+    <tekst>DIN VENS E-MAIL</tekst>
+  </ord>
+  <!-- SEND (MELDING) -->
+  <ord>
+    <id>SEND</id>
+    <tekst>SEND</tekst>
+  </ord>
+  <!-- (SEND) MELDING -->
+  <ord>
+    <id>MELDING</id>
+    <tekst>MEDDELELSE</tekst>
+  </ord>
+  <!-- Tips er send til (NAVN!) -->
+  <ord>
+    <id>Tips er sendt til</id>
+    <tekst>Tip er sendt til</tekst>
+  </ord>
+  <ord>
+    <id>Skriv inn vennens navn!</id>
+    <tekst>Skriv din vens navn!</tekst>
+  </ord>
+  <ord>
+    <id>Skriv inn vennens epost!</id>
+    <tekst>Skriv din vens e-mail!</tekst>
+  </ord>
+  <ord>
+    <id>Ugyldig epost!</id>
+    <tekst>Ugyldig e-mail-adresse!</tekst>
+  </ord>
+  <ord>
+    <id>TILBAKE</id>
+    <tekst>TILBAGE</tekst>
+  </ord>
+  <!-- Navn som kommer opp i input-feltet for navn dersom man ikke er pålogget og har andebynavn. (Kan også være tomt) -->
+  <ord>
+    <id>DEFAULT NAVN</id>
+    <tekst></tekst>
+  </ord>
+  <!-- Inspirerende tekst under navnefeltet når man spiller for Norge -->
+<ord>
+<id>NAVNETEKST1no</id>
+<tekst>Slipp løs din indre viking! Det er på tide å lage potatismos og kjøttbullor av slyngelaktige svensker! Det er på tide å lage hakkebøff og røde pølser av de danske døgeniktene!</tekst>
+</ord>
+
+<!-- Slagord under Inspirerende tekst under navnefeltet når man spiller for Norge -->
+<ord>
+<id>NAVNETEKST2no</id>
+<tekst>Ja vi elsker denne anden, som han stiger frem!</tekst>
+</ord>
+
+<!-- Inspirerende tekst under navnefeltet når man spiller for Sverige -->
+<ord>
+<id>NAVNETEKST1se</id>
+<tekst>Släpp loss din inre viking! Det är dags att göra fiskstuvning av de näsvisa norrmännen! Det är dags att göra hackebiff och röda pølser av de danska dönickarna!</tekst>
+</ord>
+
+<!-- Slagord under Inspirerende tekst under navnefeltet når man spiller for Sverige -->
+<ord>
+<id>NAVNETEKST2se</id>
+<tekst>Heja Sverige friskt humör, det är det som ankan gör!</tekst>
+</ord>
+
+<!-- Inspirerende tekst under navnefeltet når man spiller for Danmark -->
+<ord>
+<id>NAVNETEKST1dk</id>
+<tekst>Slip din indre viking løs! Det er på tide, at vi laver potatismos og köttbullar af de svenske slapsvanse! Det er på tide, at vi laver de norske fjeldaber om til myseost!</tekst>
+</ord>
+
+<!-- Slagord under Inspirerende tekst under navnefeltet når man spiller for Danmark -->
+<ord>
+<id>NAVNETEKST2dk</id>
+<tekst>Én for alle og alle for én!</tekst>
+</ord>
+<ord>
+    <id>FORTSETT</id>
+    <tekst>FORTSÆT</tekst>
+  </ord>
+  <ord>
+    <id>VELG DIN MOTSTANDER</id>
+    <tekst>VÆLG DIN MODSTANDER</tekst>
+  </ord>
+  <ord>
+    <id>DINE MÅL:</id>
+    <tekst>DINE MÅL:</tekst>
+  </ord>
+  <ord>
+    <id>MÅL</id>
+    <tekst>MÅL</tekst>
+  </ord>
+  <!-- VERV EN SPILLER (TIL DITT LAG!) -->
+  <ord>
+    <id>VERV EN SPILLER</id>
+    <tekst>HVERV EN SPILLER</tekst>
+  </ord>
+  <!-- (VERV EN SPILLER) TIL DITT LAG! -->
+  <ord>
+    <id>TIL DITT LAG!</id>
+    <tekst>TIL DIT HOLD!</tekst>
+  </ord>
+  <!-- SPILL (PÅ NYTT) -->
+  <ord>
+    <id>SPILL</id>
+    <tekst>SPIL</tekst>
+  </ord>
+  <!-- (SPILL) PÅ NYTT -->
+  <ord>
+    <id>PÅ NYTT</id>
+    <tekst>IGEN</tekst>
+  </ord>
+  <!-- DEL DIN SCORE (PÅ FACEBOOK) -->
+  <ord>
+    <id>DEL DIN SCORE</id>
+    <tekst>DEL DIN SCORE</tekst>
+  </ord>
+  <!-- (DEL DIN SCORE) PÅ FACEBOOK -->
+  <ord>
+    <id>PÅ FACEBOOK!</id>
+    <tekst>PÅ FACEBOOK!</tekst>
+  </ord>
+  <!-- Infotekst på vervesiden NORSK-->
+<ord>
+<id>VERVEINFOno</id>
+<tekst>Vi trenger din hjelp til å vinne Det store skandinaviske straffeslaget! Lag mål for Norge og sørg for at sveklesvensker og dovendansker må ete fotballstrømpene sine i ren frustrasjon!</tekst>
+</ord>
+
+<!-- Infotekst på vervesiden SVENSK-->
+<ord>
+<id>VERVEINFOse</id>
+<tekst>Vi behöver din hjälp för att vinna Det stora skAndinaviska straffslaget! Gör mål för Sverige och se till att norska nollor och drönardanskar måste äta sina fotbollsstrumpor i ren frustration!</tekst>
+</ord>
+
+<!-- Infotekst på vervesiden DANSK-->
+<ord>
+<id>VERVEINFOdk</id>
+<tekst>Kom ind i kampen om Det store skandinaviske straffespark! Scor mål for Danmark og få slapsvenskerne og de nævenyttige nordmænd til at æde deres fodboldstrømper i frustration!</tekst>
+</ord>
+  <!-- DU SKAFFET (... X MÅL) -->
+  <ord>
+    <id>DU SKAFFET</id>
+    <tekst>DU HAR SKAFFET</tekst>
+  </ord>
+  <!-- LAND1 - NORGE -->
+  <ord>
+    <id>LAND1</id>
+    <tekst>NORGE</tekst>
+  </ord>
+  <!-- LAND2 - SVERIGE -->
+  <ord>
+    <id>LAND2</id>
+    <tekst>SVERIGE</tekst>
+  </ord>
+  <!-- LAND3 - DANMARK -->
+  <ord>
+    <id>LAND3</id>
+    <tekst>DANMARK</tekst>
+  </ord>
+  <ord>
+    <id>INSTRUKSJON1</id>
+    <tekst>KLIK OG HOLD VENSTRE MUSETAST PÅ BOLDEN</tekst>
+  </ord>
+  <ord>
+    <id>INSTRUKSJON2</id>
+    <tekst>Sigt med musen, og slip knappen når styrkemåleren står på max</tekst>
+  </ord>
+  <ord>
+   <id>DONALD PÅ FACEBOOK</id>
+   <tekst>ANDEBY PÅ FACEBOOK</tekst>
+</ord>
+  
+  <ord>
+<id>FACEBOOK URL</id>
+<tekst>http://www.facebook.com/AndebyNews?sid=777200626.3491896658..1</tekst>
+</ord>
+
+</ordliste>

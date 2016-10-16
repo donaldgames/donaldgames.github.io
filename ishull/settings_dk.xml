@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+***************
+  INSTRUKSJON
+***************
+
+Hver oversettelse av spillet har sin egen settings.xml-fil
+
+Bare tekst som står mellom <tekst> og </tekst> er tillatt å endre!
+Det som står mellom <id> og </id> må ikke endres!
+
+ -->
+<ordliste>
+    
+  <!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
+  <brukerdata>
+  	<url>http://www.andeby.dk/gamedata.axd</url>
+  </brukerdata>
+  
+  <!-- Språk forkortelse, må ikke endres -->
+  <lang>dk</lang>
+  <!-- Tittelen på spillet - Startmeny og Game over-skjerm -->
+  <ord>
+    <id>ISHULLKASTING</id>
+    <tekst>ISHULSKASTING</tekst>
+  </ord>
+  <ord>
+    <id>GRØNNMEISER</id>
+    <tekst>GÆRDESMUTTER</tekst>
+  </ord>
+  <!-- Default navn for jentespiller -->
+  <ord>
+    <id>Grønnmeis</id>
+    <tekst>Gærdesmutte</tekst>
+  </ord>
+  <ord>
+    <id>VS</id>
+    <tekst>MOD</tekst>
+  </ord>
+  <ord>
+    <id>HAKKESPETTER</id>
+    <tekst>GRØNSPÆTTER</tekst>
+  </ord>
+  <!-- Default navn for guttespiller -->
+  <ord>
+    <id>Hakkespett</id>
+    <tekst>Grønspætte</tekst>
+  </ord>
+  <ord>
+    <id>POENG</id>
+    <tekst>POINT</tekst>
+  </ord>
+  <!-- Forkortelse for POENG, vises dersom poengsummen blir for stor til at det er plas til hele ordet POENG -->
+  <ord>
+    <id>P</id>
+    <tekst>P</tekst>
+  </ord>
+  <!-- Hvor mange treff man har på rad -->
+  <ord>
+    <id>TREFF PÅ RAD</id>
+    <tekst>TRÆF I TRÆK</tekst>
+  </ord>
+  <!-- Som i SPILL FOR GUTTENE/JENTENE -->
+  <ord>
+    <id>SPILL FOR</id>
+    <tekst>SPIL FOR</tekst>
+  </ord>
+  <ord>
+    <id>JENTENE</id>
+    <tekst>PIGERNE</tekst>
+  </ord>
+  <!-- Som i jentene MOT guttene -->
+  <ord>
+    <id>MOT</id>
+    <tekst>MOD</tekst>
+  </ord>
+  <!-- Som i "Send jentene I ISHULLET" -->
+  <ord>
+    <id>I ISHULLET</id>
+    <tekst>I ISHULLET</tekst>
+  </ord>
+  <ord>
+    <id>GUTTENE</id>
+    <tekst>DRENGENE</tekst>
+  </ord>
+  <ord>
+    <id>DITT NAVN</id>
+    <tekst>DIT NAVN</tekst>
+  </ord>
+  <ord>
+    <id>DIN VENNS NAVN</id>
+    <tekst>DIN VENS NAVN</tekst>
+  </ord>
+  <ord>
+    <id>DIN VENNS E-POST</id>
+    <tekst>DIN VENS E-MAIL</tekst>
+  </ord>
+  <!-- Instruksjon på navneskjermen for Hakkespettene -->
+  <ord>
+    <id>GUTTEINSTRUKSJON</id>
+    <tekst>Vi skal knuse Gærdesmutterne! Ram hullet så mange gange som muligt! Klik på gærdesmutten for at styre hende i den rigtige retning. Gærdesmutterne prøver at lave vind, så du skal huske at indstille retningen!</tekst>
+  </ord>
+  <!-- Instruksjon på navneskjermen for Grønnmeisene -->
+  <ord>
+    <id>JENTEINSTRUKSJON</id>
+    <tekst>Vi skal banke Grønspætterne! Ram hullet så mange gange som muligt! Klik på gærdesmutten for at styre hende i den rigtige retning. Grønspætterne prøver at lave vind, så du skal huske at indstille retningen!</tekst>
+  </ord>
+  <ord>
+    <id>START</id>
+    <tekst>START</tekst>
+  </ord>
+  <ord>
+    <id>SPILLET</id>
+    <tekst>SPILLET</tekst>
+  </ord>
+  <ord>
+    <id>DONALD PÅ FACEBOOK</id>
+    <tekst>ANDEBY PÅ FACEBOOK</tekst>
+  </ord>
+  
+  <ord>
+<id>FACEBOOK URL</id>
+<tekst>http://www.facebook.com/AndebyNews</tekst>
+</ord>
+  
+  <ord>
+    <id>DINE POENG</id>
+    <tekst>DINE POINT</tekst>
+  </ord>
+  <ord>
+    <id>DEL DIN SCORE</id>
+    <tekst>DEL DIN SCORE</tekst>
+  </ord>
+	<ord>
+  <id>VERV SPILLERE</id>
+  <tekst>HVERV SPILLERE</tekst>
+  </ord>
+  
+  <ord>
+  <id>VERV GUTTER</id>
+  <tekst>HVERV DRENGE</tekst>
+  </ord>
+  
+  <ord>
+  <id>VERV JENTER</id>
+  <tekst>HVERV PIGER</tekst>
+  </ord>
+  
+  
+  <ord>
+    <id>PÅ FACEBOOK</id>
+    <tekst>PÅ FACEBOOK</tekst>
+  </ord>
+  
+  <!-- SOM I "DEL PÅ FACEBOOK" -->
+<ord>
+<id>DEL PÅ</id>
+<tekst>DEL PÅ</tekst>
+</ord>
+
+<ord>
+<id>FACEBOOK</id>
+<tekst>FACEBOOK</tekst>
+</ord>
+  
+  
+  <ord>
+    <id>VERV EN SPILLER</id>
+    <tekst>HVERV EN SPILLER</tekst>
+  </ord>
+  <ord>
+    <id>TIL DITT LAG</id>
+    <tekst>TIL DIT HOLD</tekst>
+  </ord>
+  <ord>
+    <id>SPILL IGJEN</id>
+    <tekst>SPIL IGEN</tekst>
+  </ord>
+  <!-- Som i DU SKAFFET JENTENE 10 POENG -->
+  <ord>
+    <id>DU SKAFFET</id>
+    <tekst>DU SKAFFEDE</tekst>
+  </ord>
+  <!-- VERV EN SPILLER TIL DITT LAG! -->
+  <ord>
+    <id>VERVETEKST JENTER</id>
+    <tekst>HVERV EN SPILLER TIL DIT HOLD!</tekst>
+  </ord>
+  <!-- VERV EN SPILLER TIL DITT LAG! -->
+  <ord>
+    <id>VERVETEKST GUTTER</id>
+    <tekst>HVERV EN SPILLER TIL DIT HOLD!</tekst>
+  </ord>
+  <!-- Få flere til å spille for Grønnmeisene! -->
+  <ord>
+    <id>VERVEINFO JENTER</id>
+    <tekst>Få flere piger til at spille for Gærdesmutterne! Vi skal nakke Grønspætterne en gang for alle!</tekst>
+  </ord>
+  <!-- Få flere til å spille for Hakkespettene! -->
+  <ord>
+    <id>VERVEINFO GUTTER</id>
+    <tekst>Få flere drenge til at spille for Grønspætterne. Vi skal ordne Gærdesmutterne en gang for alle!</tekst>
+  </ord>
+  <ord>
+    <id>SEND</id>
+    <tekst>SEND</tekst>
+  </ord>
+  <ord>
+    <id>MELDING</id>
+    <tekst>MEDDELELSE</tekst>
+  </ord>
+  
+  <ord>
+    <id>AVBRYT</id>
+    <tekst>TILBAGE</tekst>
+  </ord>
+</ordliste>
