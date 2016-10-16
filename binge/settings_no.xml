@@ -181,12 +181,12 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 <id>JENTENE</id>
-<tekst>JENTENE</tekst>
+<tekst>Magica</tekst>
 </ord>
 
 <ord>
 <id>GUTTENE</id>
-<tekst>GUTTENE</tekst>
+<tekst>B-gjengen</tekst>
 </ord>
 
 <!-- Som i jentene MOT guttene -->
@@ -219,13 +219,13 @@ Det som står mellom <id> og </id> må ikke endres!
 <!-- Instruksjon på navneskjermen for Hakkespettene -->
 <ord>
 <id>GUTTEINSTRUKSJON</id>
-<tekst>Staute hakkespetter! På tide å la de flettebefengte grønnmeisene få smake ekte isvann! Kast dem i ishullet så mange ganger som mulig! Klikk på grønnmeisen for å sende hun av gårde i riktig retning. Men husk å korrigere siktet ditt, de feige grønnmeise-venninnene hennes prøver nemlig å lage vind!</tekst>
+<tekst>B-gjengenbanden gir aldri opp å innta Skrues pengebinge. Det blir masse bingebøll når gutta forsøker å brase inn inngangsdøren i vill fart! Du må ta deg av siktingen og sørge for at B-karen holder stø kurs mot målet, og sikre guttene en seier. Men husk å korrigere siktet ditt, Skrue og hans medhjelpere gjør selvfølgelig sitt for å blåse deg tett tilbake i kasjotten!</tekst>
 </ord>
 
 <!-- Instruksjon på navneskjermen for Grønnmeisene -->
 <ord>
 <id>JENTEINSTRUKSJON</id>
-<tekst>Grønnmeiser! På tide å la de konglegumlende hakkespettgjøkene smake ekte isvann! Kast dem i ishullet så mange ganger som mulig! Klikk på hakkespetten for å sende ham av gårde i riktig retning. Men husk å korrigere siktet ditt, de feige hakkespett-vennene hans prøver nemlig å lage vind!</tekst>
+<tekst>Magica er som alltid på jakt etter Skrue lykkeskilling. Nå har hun tenkt å suse inn bingens inngangsparti i voldsom fart, så både dør og murstein må gi etter! Gi Magica stø kurs og god fart, og slå et slag for jentene i denne konkurransen. Men husk å korrigere siktet ditt, Skrue og hans medhjelpere gjør selvfølgelig sitt for å blåse deg tett tilbake til foten av Vesuv.</tekst>
 </ord>
 
 <ord>
@@ -245,7 +245,7 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 <id>FACEBOOK URL</id>
-<tekst>http://www.facebook.com/donald.no</tekst>
+<tekst>http://www.facebook.com/pages/Donaldno/213251705624</tekst>
 </ord>
 
 <ord>
@@ -265,12 +265,12 @@ Det som står mellom <id> og </id> må ikke endres!
   
    <ord>
   <id>VERV GUTTER</id>
-  <tekst>VERV GUTTER</tekst>
+  <tekst>VERV B-gjeng symapatisører</tekst>
   </ord>
   
   <ord>
   <id>VERV JENTER</id>
-  <tekst>VERV JENTER</tekst>
+  <tekst>VERV Magica groupies</tekst>
   </ord>
 
 <ord>
@@ -325,13 +325,13 @@ Det som står mellom <id> og </id> må ikke endres!
 <!-- Få flere til å spille for Grønnmeisene! -->
 <ord>
 <id>VERVEINFO JENTER</id>
-<tekst>Grønnmeisene trenger flere jenter på laget! Vi må vise hakkespettene hvem som er best! Verv en venn nå!</tekst>
+<tekst>Magica trenger hjelp med å få klørne i lykkeskillingen, knuse Skrues binge, og gruse B-gjengen guttene i forsøket! Verv en venn til "Team Magica" nå!</tekst>
 </ord>
 
 <!-- Få flere til å spille for Hakkespettene! -->
 <ord>
 <id>VERVEINFO GUTTER</id>
-<tekst>Hakkespettene trenger flere gutter på laget! Vi må vise grønnmeisene hvem som er best! Verv en venn nå!</tekst>
+<tekst>B-gjengen er riktignok mannsterke, men de trenger flere gutter på laget i kampen om å slå Magica i slaget om Skrues pengebinge! Verv en venn til "Team B-gjengen" nå!</tekst>
 </ord>
 
 <ord>
