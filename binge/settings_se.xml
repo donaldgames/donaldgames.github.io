@@ -1,0 +1,352 @@
+<!--
+
+***************
+  INSTRUKSJON
+***************
+
+Hver oversettelse av spillet har sin egen settings.xml-fil
+
+Bare tekst som står mellom <tekst> og </tekst> er tillatt å endre!
+Det som står mellom <id> og </id> må ikke endres!
+
+ -->
+<ordliste>
+
+
+<!--- 1 Bronse -->
+<ord>
+  <id>utmerkelse1Id</id>
+  <tekst>7</tekst>
+</ord>
+
+<ord>
+  <id>utmerkelse1Price</id>
+  <tekst>100</tekst>
+</ord>
+
+<!--- 2 Sølv -->
+
+<ord>
+  <id>utmerkelse2Id</id>
+  <tekst>8</tekst>
+</ord>
+
+<ord>
+  <id>utmerkelse2Price</id>
+  <tekst>200</tekst>
+</ord>
+<!--- 3 Gull -->
+<ord>
+  <id>utmerkelse3Id</id>
+  <tekst>9</tekst>
+</ord>
+
+<ord>
+  <id>utmerkelse3Price</id>
+  <tekst>300</tekst>
+</ord>
+
+<ord>
+  <id>achievementURL</id>
+  <tekst>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=registerAchievement</tekst>
+</ord>
+
+<ord>
+  <id>UTMERKELSER</id>
+  <tekst>Utmärkelser - spela och vinn Ankeborgskronor:</tekst>
+</ord>
+
+<ord>
+  <id>UTMERKELSER TATT</id>
+  <tekst>Utmärkelser - du har vunnit alla!</tekst>
+</ord>
+
+<ord>
+  <id>BRONSEKRAV</id>
+  <tekst>MINST
+5 P</tekst>
+</ord>
+
+<ord>
+  <id>BRONSEKRAV POENGVERDI</id>
+  <tekst>5</tekst>
+</ord>
+
+<ord>
+  <id>BRONSE GRATULASJON</id>
+  <tekst>Du fick bronsmedalj och 100 Ankeborgskronor!</tekst>
+</ord>
+
+<ord>
+  <id>SOLVKRAV</id>
+  <tekst>MINST
+10 P</tekst>
+</ord>
+
+<ord>
+  <id>SOLVKRAV POENGVERDI</id>
+  <tekst>10</tekst>
+</ord>
+
+<ord>
+  <id>SOLV GRATULASJON</id>
+  <tekst>Du fick silvermedalj och 200 Ankeborgskronor!</tekst>
+</ord>
+
+<ord>
+  <id>GULLKRAV</id>
+  <tekst>MINST
+20 P</tekst>
+</ord>
+
+<ord>
+  <id>GULLKRAV POENGVERDI</id>
+  <tekst>20</tekst>
+</ord>
+
+<ord>
+  <id>GULL GRATULASJON</id>
+  <tekst>Du fick guldmedalj och 300 Ankeborgskronor!</tekst>
+</ord>
+
+<ord>
+  <id>AKR</id>
+  <tekst>AKR</tekst>
+</ord>
+
+
+<!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
+<brukerdata>
+  	<url>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</url>
+</brukerdata>
+
+<!-- Språk, forkortelse. Må ikke endres! -->
+<lang>se</lang>
+
+<!-- Tittelen på spillet - Startmeny og Game over-skjerm -->
+<ord>
+<id>SPILLTITTEL</id>
+<tekst>BINGBRÅK</tekst>
+</ord>
+
+<ord>
+<id>B-GJENGEN</id>
+<tekst>BJÖRNLIGAN</tekst>
+</ord>
+
+<!-- Default navn for jentespiller -->
+<ord>
+<id>Magica</id>
+<tekst>Magica de Hex</tekst>
+</ord>
+
+<ord>
+<id>VS</id>
+<tekst>VS</tekst>
+</ord>
+
+<ord>
+<id>MAGICA</id>
+<tekst>MAGICA DE HEX</tekst>
+</ord>
+
+<!-- Default navn for guttespiller -->
+<ord>
+<id>167-761-</id>
+<tekst>167-761-</tekst>
+</ord>
+
+<ord>
+<id>POENG</id>
+<tekst>POÄNG</tekst>
+</ord>
+
+<!-- Forkortelse for POENG, vises dersom poengsummen blir for stor til at det er plas til hele ordet POENG -->
+<ord>
+<id>P</id>
+<tekst>P</tekst>
+</ord>
+
+<!-- Hvor mange treff man har på rad -->
+<ord>
+<id>TREFF PÅ RAD</id>
+<tekst>TRÄFF I RAD</tekst>
+</ord>
+
+<!-- Som i SPILL FOR GUTTENE/JENTENE -->
+<ord>
+<id>SPILL FOR</id>
+<tekst>SPELA FÖR</tekst>
+</ord>
+
+<ord>
+<id>JENTENE</id>
+<tekst>Magica</tekst>
+</ord>
+
+<ord>
+<id>GUTTENE</id>
+<tekst>Björnligan</tekst>
+</ord>
+
+<!-- Som i jentene MOT guttene -->
+  <ord>
+    <id>MOT</id>
+    <tekst>MOT</tekst>
+  </ord>
+  
+  <!-- Som i "Send jentene I BINGEN" -->
+  <ord>
+    <id>I BINGEN</id>
+    <tekst>I BINGEN</tekst>
+  </ord>
+
+<ord>
+<id>DITT NAVN</id>
+<tekst>DITT NAMN</tekst>
+</ord>
+
+<ord>
+<id>DIN VENNS NAVN</id>
+<tekst>DIN KOMPIS NAMN</tekst>
+</ord>
+
+<ord>
+<id>DIN VENNS E-POST</id>
+<tekst>DIN KOMPIS E-POST</tekst>
+</ord>
+
+<!-- Instruksjon på navneskjermen for Hakkespettene -->
+<ord>
+<id>GUTTEINSTRUKSJON</id>
+<tekst>Björnligan försöker alltid ta sig in i Joakims pengabinge. Det blir stort bingbråk när björnbusarna försöker dundra in genom dörren i full fart! Sikta och se till att björnbusen håller stadig kurs mot målet, men tänk på att korrigera siktet! Joakim och hans medhjälpare gör allt de kan för att blåsa dig ända tillbaks till finkan!</tekst>
+</ord>
+
+<!-- Instruksjon på navneskjermen for Grønnmeisene -->
+<ord>
+<id>JENTEINSTRUKSJON</id>
+<tekst>Magica de Hex vill lägga vantarna på farbror Joakims turkrona. Nu tänker hon susa in genom pengabingens dörr så både dörr och tegelstenar ryker! Ge Magica rätt kurs och god fart, men tänk på att korrigera siktet! Joakim och hans medhjälpare gör allt för att blåsa dig ända tillbaka till Vesuvio!</tekst>
+</ord>
+
+<ord>
+<id>START</id>
+<tekst>STARTA</tekst>
+</ord>
+
+<ord>
+<id>SPILLET</id>
+<tekst>SPELET</tekst>
+</ord>
+
+<ord>
+<id>DONALD PÅ FACEBOOK</id>
+<tekst>KALLE ANKA PÅ FACEBOOK</tekst>
+</ord>
+
+<ord>
+<id>FACEBOOK URL</id>
+<tekst>https://www.facebook.com/Ankeborgsposten</tekst>
+</ord>
+
+<ord>
+<id>DINE POENG</id>
+<tekst>DINA POÄNG</tekst>
+</ord>
+
+<ord>
+<id>DEL DIN SCORE</id>
+<tekst>DELA DIN POÄNG</tekst>
+</ord>
+
+ <ord>
+  <id>VERV SPILLERE</id>
+  <tekst>VÄRVA SPELARE</tekst>
+  </ord>
+  
+   <ord>
+  <id>VERV GUTTER</id>
+  <tekst>VÄRVA Björnligesymapatisörer</tekst>
+  </ord>
+  
+  <ord>
+  <id>VERV JENTER</id>
+  <tekst>VÄRVA Magica-fans</tekst>
+  </ord>
+
+<ord>
+<id>PÅ FACEBOOK</id>
+<tekst>PÅ FACEBOOK</tekst>
+</ord>
+
+<!-- SOM I "DEL PÅ FACEBOOK" -->
+<ord>
+<id>DEL PÅ</id>
+<tekst>DELA PÅ</tekst>
+</ord>
+
+<ord>
+<id>FACEBOOK</id>
+<tekst>FACEBOOK</tekst>
+</ord>
+
+<ord>
+<id>VERV EN SPILLER</id>
+<tekst>VÄRVA EN SPELARE</tekst>
+</ord>
+
+<ord>
+<id>TIL DITT LAG</id>
+<tekst>TILL DITT LAG</tekst>
+</ord>
+
+<ord>
+<id>SPILL IGJEN</id>
+<tekst>SPELA IGEN</tekst>
+</ord>
+
+<!-- Som i DU SKAFFET JENTENE 10 POENG -->
+<ord>
+<id>DU SKAFFET</id>
+<tekst>DU SKAFFADE</tekst>
+</ord>
+
+<!-- VERV EN SPILLER TIL DITT LAG! -->
+<ord>
+<id>VERVETEKST JENTER</id>
+<tekst>VÄRVA EN SPELARE TILL DITT LAG!</tekst>
+</ord>
+
+<!-- VERV EN SPILLER TIL DITT LAG! -->
+<ord>
+<id>VERVETEKST GUTTER</id>
+<tekst>VÄRVA EN SPELARE TILL DITT LAG!</tekst>
+</ord>
+
+<!-- Få flere til å spille for Grønnmeisene! -->
+<ord>
+<id>VERVEINFO JENTER</id>
+<tekst>Magica de Hex behöver hjälp med att lägga vantarna på turkronan, krossa Joakims pengabinge och klå Björnligan. Värva en kompis till "Team Magica" nu!</tekst>
+</ord>
+
+<!-- Få flere til å spille for Hakkespettene! -->
+<ord>
+<id>VERVEINFO GUTTER</id>
+<tekst>Björnligan behöver fler medlemmar i kampen om att slå Magica de Hex i slaget om Joakim von Ankas pengabinge! Värva en kompis till "Team Björnligan" nu!</tekst>
+</ord>
+
+<ord>
+<id>SEND</id>
+<tekst>SKICKA</tekst>
+</ord>
+
+<ord>
+<id>MELDING</id>
+<tekst>MEDDELANDE</tekst>
+</ord>
+
+<ord>
+    <id>AVBRYT</id>
+    <tekst>AVBRYT</tekst>
+  </ord>
+
+</ordliste>
