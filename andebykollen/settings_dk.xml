@@ -36,7 +36,7 @@ Det som står mellom <id> og </id> må ikke endres!
 
 
 
-  <!-- Spr�k, forkortelse. M� ikke endres! -->
+  <!-- Språk, forkortelse. Må ikke endres! -->
   <lang>dk</lang>
   <ord>
     <id>START</id>
@@ -59,8 +59,8 @@ Det som står mellom <id> og </id> må ikke endres!
     <tekst>DAGENS BEDSTE</tekst>
   </ord>
   <ord>
-    <id>DONALD P� FACEBOOK</id>
-    <tekst>ANDEBY P� FACEBOOK</tekst>
+    <id>DONALD PÅ FACEBOOK</id>
+    <tekst>ANDEBY PÅ FACEBOOK</tekst>
   </ord>
   <ord>
     <id>FACEBOOK URL</id>
@@ -76,41 +76,41 @@ Det som står mellom <id> og </id> må ikke endres!
   </ord>
   <ord>
     <id>VELG SKI</id>
-    <tekst>V�LG SKI:</tekst>
+    <tekst>VÆLG SKI:</tekst>
   </ord>
   <ord>
     <id>TRESKI</id>
-    <tekst>TR� SKI</tekst>
+    <tekst>TRÆ SKI</tekst>
   </ord>
   <ord>
-    <id>S�LVSKI</id>
-    <tekst>S�LV SKI</tekst>
+    <id>SØLVSKI</id>
+    <tekst>SØLV SKI</tekst>
   </ord>
   <ord>
     <id>GULLSKI</id>
     <tekst>GULD SKI</tekst>
   </ord>
-  <!-- Info p� skivalgsiden - Tittel i bold -->
+  <!-- Info på skivalgsiden - Tittel i bold -->
   <ord>
     <id>skiinfo1</id>
-    <tekst>S�lv/Guldski:</tekst>
+    <tekst>Sølv/Guldski:</tekst>
   </ord>
-  <!-- Info p� skivalgsiden - Hovedtekst -->
+  <!-- Info på skivalgsiden - Hovedtekst -->
   <ord>
     <id>skiinfo2</id>
-    <tekst>S�lv/guld-ski: Aktivitet p� Andeby.dk bel�nnes med Andeby-point. Du skal v�re logget p� for at se hvor mange Andeby-point du har. Du f�r automatisk adgang til skiene n�r du har nok Andeby-point. Er du ikke medlem,</tekst>
+    <tekst>Sølv/guld-ski: Aktivitet på Andeby.dk belønnes med Andeby-point. Du skal være logget på for at se hvor mange Andeby-point du har. Du får automatisk adgang til skiene når du har nok Andeby-point. Er du ikke medlem,</tekst>
   </ord>
-  <!-- Info p� skivalgsiden - Lenke i bl�tt til slutt -->
+  <!-- Info på skivalgsiden - Lenke i blått til slutt -->
   <ord>
     <id>skiinfo3</id>
     <tekst>registrer dig her!</tekst>
   </ord>
-  <!-- Info p� skivalgsiden - Lenke til Bli medlem-url i bl�tt til slutt -->
+  <!-- Info på skivalgsiden - Lenke til Bli medlem-url i blått til slutt -->
   <ord>
     <id>skiinfo3url</id>
     <tekst>http://www.andeby.dk/bliv-medlem/</tekst>
   </ord>
-  <!-- Forkortelse for "omgang" p� dommerskjermen -->
+  <!-- Forkortelse for "omgang" på dommerskjermen -->
   <ord>
     <id>Omgang FORK</id>
     <tekst>omg</tekst>
@@ -125,7 +125,7 @@ Det som står mellom <id> og </id> må ikke endres!
   </ord>
   <ord>
     <id>DEL DITT RESULTAT</id>
-    <tekst>DEL DIT RESULTAT P� FACEBOOK</tekst>
+    <tekst>DEL DIT RESULTAT PÅ FACEBOOK</tekst>
   </ord>
   <ord>
     <id>SPILL IGJEN</id>
@@ -149,35 +149,35 @@ Det som står mellom <id> og </id> må ikke endres!
   </ord>
   <ord>
     <id>SLIK HOPPER DU</id>
-    <tekst>S�DAN HOPPER DU:</tekst>
+    <tekst>SÅDAN HOPPER DU:</tekst>
   </ord>
   <ord>
     <id>Instruksjon</id>
     <tekst>SPACE for at starte
-SPACE for at hoppe s� t�t p� hoppekanten som muligt
-PIL H�JRE / VENSTRE for at justere vinklen i luften
+SPACE for at hoppe så tæt på hoppekanten som muligt
+PIL HØJRE / VENSTRE for at justere vinklen i luften
 
-OBS! F�lg med vinden! Den kan p�virke l�ngden.</tekst>
+OBS! Følg med vinden! Den kan påvirke længden.</tekst>
   </ord>
-  <!-- Info p� instruksjonsiden - F�r lenke -->
+  <!-- Info på instruksjonsiden - Får lenke -->
   <ord>
     <id>instruksinfo1</id>
     <tekst>Er du </tekst>
   </ord>
-  <!-- Info p� instruksjonsiden - Lenketekst -->
+  <!-- Info på instruksjonsiden - Lenketekst -->
   <ord>
     <id>instruksinfo2</id>
     <tekst>medlem af Andeby.dk</tekst>
   </ord>
-  <!-- Info p� instruksjonsiden - Lenke til Bli medlem-url i bl�tt  -->
+  <!-- Info på instruksjonsiden - Lenke til Bli medlem-url i blått  -->
   <ord>
     <id>instruksinfo2url</id>
     <tekst>http://www.andeby.dk/bliv-medlem/</tekst>
   </ord>
-  <!-- Info p� instruksjonsiden - siste del -->
+  <!-- Info på instruksjonsiden - siste del -->
   <ord>
     <id>instruksinfo3</id>
-    <tekst>? S� f�r du adgang til s�lvskiene og guldskiene n�r du har point nok. Skiene kan give dig en bedre stilkarakter. Held og lykke!</tekst>
+    <tekst>? Så får du adgang til sølvskiene og guldskiene nær du har point nok. Skiene kan give dig en bedre stilkarakter. Held og lykke!</tekst>
   </ord>
   <ord>
     <id>Tips en venn</id>
@@ -185,7 +185,7 @@ OBS! F�lg med vinden! Den kan p�virke l�ngden.</tekst>
   </ord>
   <ord>
     <id>Tips en venn-info</id>
-    <tekst>F� en ven til at springe ud i et rekordfors�g. Send et hoppe-tip her!</tekst>
+    <tekst>Få en ven til at springe ud i et rekordforsøg. Send et hoppe-tip her!</tekst>
   </ord>
   <ord>
     <id>Ditt navn</id>
@@ -209,7 +209,7 @@ OBS! F�lg med vinden! Den kan p�virke l�ngden.</tekst>
   </ord>
   <ord>
 	<id>Tips sendt</id>
-	<tekst>Tippet er sendt. Du m� gerne sende flere!</tekst>
+	<tekst>Tippet er sendt. Du må gerne sende flere!</tekst>
 </ord>
 
 <ord>
