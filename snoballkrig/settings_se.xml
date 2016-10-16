@@ -127,7 +127,7 @@ Spelet har tre nivåer.
 
 <word>
 	<id>Instruksjon Medlemsinfo</id>
-	<string>Är du medlem på KalleAnka.se? Då kan du använda dina Ankeborgskronor för att köpa extra liv eller en extra snöboll i magasinet. Lycka till!</string>
+	<string>Är du medlem på Andeby.dk? Då kan du använda dina Ankeborgskronor för att köpa extra liv eller en extra snöboll i magasinet. Lycka till!</string>
 </word>
 
 
@@ -206,7 +206,7 @@ En extra snöboll i magasinet gör att du slipper göra nya så ofta.</string>
 <!-- Info på kjøpesiden - Hovedtekst -->
 <word>
 	<id>Valginfo2</id>
-	<string>Aktivitet på KalleAnka.se belönas med Ankeborgskronor. Du måste vara inloggad på KalleAnka.se för att kunna använda dina Ankeborgskronor. Är du inte medlem,</string>
+	<string>Aktivitet på Andeby.dk belönas med Ankeborgskronor. Du måste vara inloggad på KalleAnka.se för att kunna använda dina Ankeborgskronor. Är du inte medlem,</string>
 </word>
 <!-- Info på kjøpesiden - Lenke i blått til slutt -->
 <word>
@@ -216,7 +216,7 @@ En extra snöboll i magasinet gör att du slipper göra nya så ofta.</string>
 
 <word>
 	<id>Valginfo3URL</id>
-	<string>http://www.kalleanka.se/default.aspx?section=register</string>
+	<string>http://www.andeby.dk/bliv-medlem/</string>
 </word>
 
 <word>
@@ -231,12 +231,12 @@ En extra snöboll i magasinet gör att du slipper göra nya så ofta.</string>
 
 <word>
 	<id>Ikke pålogget</id>
-	<string>Du måste vara inloggad på KalleAnka.se för att kunna köpa.</string>
+	<string>Du måste vara inloggad på Andeby.dk för att kunna köpa.</string>
 </word>
 
 <word>
 	<id>Ikke nok</id>
-	<string>Du har inte tillräckligt med Ankeborgskronor för att köpa. Du kan skaffa dig Ankeborgskronor genom att snacka och kvacka loss på KalleAnka.se!</string>
+	<string>Du har inte tillräckligt med Ankeborgskronor för att köpa. Du kan skaffa dig Ankeborgskronor genom att snacka och kvacka loss på Andeby.dk!</string>
 </word>
 
 <word>
