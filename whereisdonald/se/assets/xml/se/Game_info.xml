@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlResponse type="Info" status="true">
+
+<body>
+
+<param>
+
+<Image id="1"><![CDATA[OPPFINNAR-JOCKE]]></Image>
+
+<Image id="2"><![CDATA[KUSIN KNASE]]></Image>
+
+<Image id="3"><![CDATA[TITTI ANKA]]></Image>
+
+<Image id="4"><![CDATA[JOAKIM VON ANKA]]></Image>
+
+<Image id="5"><![CDATA[KNATTE ANKA]]></Image>
+
+<Image id="6"><![CDATA[HORTENSIA VON ANKA]]></Image>
+
+<Image id="7"><![CDATA[KALLE ANKA]]></Image>
+
+<Image id="8"><![CDATA[MATILDA VON ANKA]]></Image>
+
+<Image id="9"><![CDATA[ALEXANDER LUKAS]]></Image>
+
+<Image id="10"><![CDATA[ANGUS VON ANKA]]></Image>
+
+<Image id="11"><![CDATA[FANNY KNÖS]]></Image>
+
+<Image id="12"><![CDATA[FARMOR ANKA]]></Image>
+
+<Image id="13"><![CDATA[LUCINDA LOM]]></Image>
+
+<Image id="14"><![CDATA[JUNGMAN CARLO]]></Image>
+
+<Image id="15"><![CDATA[SNORKE ANKA]]></Image>
+
+<Image id="16"><![CDATA[KAJSA ANKA]]></Image>
+
+<Image id="17"><![CDATA[MÅRTEN GÅS]]></Image>
+
+<Image id="18"><![CDATA[CORNELIUS KNÖS]]></Image>
+
+</param>
+
+</body>
+
+</xmlResponse>

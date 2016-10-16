@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameText>
+
+<Title><![CDATA[JOAKIM VON ANKA]]></Title>
+
+<Title><![CDATA[GILLRA FÄLLORNA]]></Title>
+
+<Start><![CDATA[SPELA NU >]]></Start>
+
+<InstructionTitle><![CDATA[INSTRUKTIONER]]></InstructionTitle>
+
+<Instructions><![CDATA[INSTRUKTIONER:
+
+Gillra fällor i Pengabingen för att rikta kanonkulorna mot Björnbusarnas huvuden när de försöker ta sig in. Använd muspekaren för att dra redskapen till höger in på huvudområdet. När du tror att din fälla är klar, tryck på kanonen för att släppa iväg kulan, och se om den når sitt mål. Alla redskap har olika funktioner, så testa dig fram! Du har 3 kulor att använda på varje nivå för att lyckas, annars kommer Björnligan att ta sig in.]]></Instructions>
+
+<Level><![CDATA[NIVÅ ]]></Level>
+
+<TryAgain><![CDATA[SPELA IGEN]]></TryAgain>
+
+<TryAgainHint><![CDATA[HOPPSAN!]]></TryAgainHint>
+
+<Congrats><![CDATA[GRATTIS!]]></Congrats>
+
+<CongratsText><![CDATA[DU HAR FÖRSVARAT PENGABINGEN MOT BJÖRNLIGAN]]></CongratsText>
+
+<CongratsHint><![CDATA[För säkerhets skull stoppar du Turkronan i fickan tillsammans med några andra mynt – den är inte trygg någon annanstans]]></CongratsHint>
+
+<Score><![CDATA[POÄNG]]></Score>
+
+<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+
+<Continue><![CDATA[UTFORSKA VIDARE]]></Continue>
+
+<GameOver><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></GameOver>
+
+</GameText>

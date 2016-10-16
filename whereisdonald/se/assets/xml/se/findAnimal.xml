@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameText>
+
+<Title><![CDATA[FARMOR ANKA]]></Title>
+
+<subTitle><![CDATA[HITTA DJUREN]]></subTitle>
+
+<Instructions><![CDATA[Instruktioner
+
+Djuren har rymt och måste samlas in. Mårten Gås kanske också är där ute! Använd din mus för att rikta ficklampan.
+
+När du ser en skymt av ett djur, lys med ficklampan på det och klicka för att fånga det innan det försvinner igen.
+
+Hitta alla djuren för att bli klar med varje nivå innan batteriet i din ficklampa tar slut.]]></Instructions>
+
+<TorchBattery>FICKLAMPSBATTERI</TorchBattery>
+
+<Level><![CDATA[Nivå]]></Level>
+
+<Score><![CDATA[Poäng]]></Score>
+
+<Play><![CDATA[Spela >]]></Play>
+
+<Instruction><![CDATA[Instruktioner]]></Instruction>
+
+<Back><![CDATA[Back]]></Back>
+
+<gameOver><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></gameOver>
+
+<yourScore><![CDATA[Poäng :]]></yourScore>
+
+<Congratulations><![CDATA[GRATTIS]]></Congratulations>
+
+<onSuccess><![CDATA[DU HAR HITTAT ALLA DJUREN]]></onSuccess>
+
+<nextMission><![CDATA[DU HITTAR OCKSÅ EN BURK JORDGUBBSSYLT OCH STOPPAR I DIN VÄSKA]]></nextMission>
+
+<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+
+<Contuine><![CDATA[UTFORSKA VIDARE]]></Contuine>
+
+</GameText>

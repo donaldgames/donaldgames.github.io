@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+	<copy id="gyro">
+
+		<![CDATA[O. JOCKE]]>
+
+	</copy>
+
+	<copy id="intro1">
+
+		<![CDATA[KVÄLL I ANKEBORG...]]>
+
+	</copy>
+
+	<copy id="intro2">
+
+		<![CDATA[Kalle! Var är Kalle?]]>
+
+	</copy>
+
+	<copy id="day">
+
+		<![CDATA[DAG 5]]>
+
+	</copy>
+
+	<copy id="intro3">
+
+		<![CDATA[NÄSTA DAG VID LÅNGBENS HUS...]]>
+
+	</copy>
+
+	<copy id="game1">
+
+		<![CDATA[En sådan trevlig dröm, det är så mysigt att slappna av en stilla sommardag … är det Kalle jag hör?
+Följ Kalles röst i drömmen, men se upp så du inte vaknar ...
+KLICKA FÖR ATT SPELA]]>
+
+	</copy>
+
+	<copy id="game2">
+
+		<![CDATA[Vi letar efter vittnen som såg vad som hände igår kväll, var snäll och kliv in i bilen här ...
+Hjälp till att skriva ner vittnenas berättelser i polisens skåpbil
+KLICKA FÖR ATT SPELA]]>
+
+	</copy>
+
+	<copy id="speech1">
+
+		<![CDATA[Grrr!]]>
+
+	</copy>
+
+	<copy id="speech2">
+
+		<![CDATA[Krax!]]>
+
+	</copy>
+
+	<copy id="speech3">
+
+		<![CDATA[Hjälp! - Jag hörde rykten om att Kalle Anka orsakade allt det här genom att dra i fel spak!]]>
+
+	</copy>
+
+	<copy id="speech4">
+
+		<![CDATA[Jag hörde att Kalle nu har gått under jorden!]]>
+
+	</copy>
+
+	<copy id="speech5">
+
+		<![CDATA[Hur kan den där killen sova genom allt det här?!]]>
+
+	</copy>
+
+	</data>

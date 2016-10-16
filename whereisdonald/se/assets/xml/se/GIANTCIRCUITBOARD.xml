@@ -1,0 +1,49 @@
+<GameText>
+	<Title>KNATTE, FNATTE, TJATTE OCH DE TRE RÖREN</Title>
+	<Instructions>
+		<![CDATA[INSTRUKTIONER:
+Kretsarna är trasiga och det är farligt därinne! Använd <  >  ^  v   piltangenterna, flytta Knattarna för att placera deras tre rör i de gröna luckorna. Se upp för de trasiga maskindelarna och gnistorna! ]]>
+	</Instructions>
+	<Play>
+		<![CDATA[SPELA >]]>
+	</Play>
+	<InsBtn>
+		<![CDATA[INSTRUKTIONER ]]>
+	</InsBtn>
+	<BackBtn>
+		<![CDATA[Back ]]>
+	</BackBtn>
+	<congrats>
+		<![CDATA[GRATTIS! ]]>
+	</congrats>
+	<congratsContent>
+	<![CDATA[Tryck på Fortsätt]]>
+	</congratsContent>
+	<congratsHint>
+		<![CDATA[ ]]>
+	</congratsHint>
+	<Electrocuted>
+		<![CDATA[HOPPSAN! ]]>
+	</Electrocuted>
+	<PlayAgain>
+		<![CDATA[SPELA IGEN >]]>
+	</PlayAgain>
+	<TimeOver>
+		<![CDATA[HOPPSAN! SPELET ÄR SLUT ]]>
+	</TimeOver>
+	<Time>
+		<![CDATA[TID ]]>
+	</Time>
+	<ce>
+		<![CDATA[FORTSÄTT]]>
+	</ce>
+        <ceg>
+		<![CDATA[UTFORSKA VIDARE]]>
+	</ceg>
+	<scoreShowgcb>
+		<![CDATA[POÄNG]]>
+	</scoreShowgcb>
+	<electropopup>
+		<![CDATA[HOPPSAN! ]]>
+	</electropopup>
+</GameText>

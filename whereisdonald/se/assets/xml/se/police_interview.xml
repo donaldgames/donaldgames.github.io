@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameText>
+
+<Title>
+
+<![CDATA[POLISINTERVJU]]></Title>
+
+<subTitle>
+
+<![CDATA[VAD HÄNDE EGENTLIGEN IGÅR KVÄLL?]]></subTitle>
+
+<Instructions>
+
+<![CDATA[INSTRUKTIONER
+
+Vi behöver din hjälp för att ta reda på i vilken ordning saker och ting hände igår kväll.
+
+Eftersom det inte fanns något ljus hörde dessa vittnen händelserna, men de såg faktiskt ingenting.Lyssna noga på sekvensen och upprepa sedan det du hört i rätt ordning till bandspelaren.Använd muspekaren för att klicka på ikonerna i den ordning du hörde de olika sakerna.]]> 
+
+</Instructions>
+
+<Play><![CDATA[SPELA >]]></Play>
+
+<Instruction><![CDATA[INSTRUKTIONER]]></Instruction>
+
+<Level><![CDATA[NIVÅ]]></Level>
+
+<life><![CDATA[Liv]]></life>
+
+<lifeLost><![CDATA[HOPPSAN!]]></lifeLost>
+
+<gameOver>
+
+		<![CDATA[HOPPSAN! SPELET ÄR SLUT]]>
+
+	</gameOver>
+
+<Lost><![CDATA[HOPPSAN! ]]></Lost>
+
+<Back><![CDATA[Back]]></Back>
+
+<yourScore><![CDATA[POÄNG :]]></yourScore>
+
+<Congratulations><![CDATA[GRATTIS!]]></Congratulations>
+
+<onSuccess><![CDATA[DU HAR SPELAT IN ALLT SOM HÄNDE I RÄTT ORDNING DÅ BORDE ALLT VARA KLARLAGT!?!]]></onSuccess>
+
+<nextMission><![CDATA[]]></nextMission>
+
+<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+
+<Contuine><![CDATA[UTFORSKA VIDARE]]></Contuine>
+
+</GameText>

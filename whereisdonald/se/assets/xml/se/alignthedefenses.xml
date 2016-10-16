@@ -1,0 +1,47 @@
+<GameText>
+
+	<MainTitle>Hjälp Joakim von </MainTitle>
+
+	<SubTitle>Anka att sätta upp försvarsverket</SubTitle>
+
+	<Play><![CDATA[SPELA >]]></Play>
+
+	<Instruction><![CDATA[INSTRUKTIONER]]></Instruction>
+
+
+
+	<Instructions><![CDATA[Joakim von Anka är beredd på ett angrepp och vill se till att Pengabingen är helt skyddad. Med kanoner!. Till höger finns det tio kanoner. Varje kanon täcker en viss markyta med sin skottvidd.Använd muspekaren för att placera ut kanonerna så att de täcker hela markytan runt Pengabingen.Den första är redan utplacerad åt dig.]]></Instructions>	
+
+	<Back><![CDATA[Back]]></Back>
+
+	<Score><![CDATA[POÄNG]]></Score>
+
+	<Seconds><![CDATA[TID]]></Seconds>
+
+	<Level><![CDATA[NIVÅ ]]></Level>
+
+		<Score><![CDATA[POÄNG]]></Score>
+
+		<Reset><![CDATA[RESET]]></Reset>
+
+<ContinueExploring><![CDATA[UTFORSKA VIDARE]]></ContinueExploring>
+
+
+
+	<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+
+	<EasyMode><![CDATA[LÄTT]]></EasyMode>
+
+	<NormalMode><![CDATA[NORMALT]]></NormalMode>
+
+	<Congratulation><![CDATA[GRATTIS! ]]></Congratulation>
+
+	<CongratulationInfo><![CDATA[DU HAR NU TÄCKT HELA MARKEN.]]></CongratulationInfo>
+
+	<GameWin><![CDATA[NU SKA VI SE OM DE DÄR BJÖRNBUSARNA VÅGAR ANFALLA]]></GameWin>
+
+	<GameLost><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></GameLost>
+
+
+
+</GameText>

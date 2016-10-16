@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+	<copy id="gyro">
+
+		<![CDATA[O. JOCKE]]>
+
+	</copy>
+
+	<copy id="intro1">
+
+		<![CDATA[KVÄLL I ANKEBORG...]]>
+
+	</copy>
+
+	<copy id="intro2">
+
+		<![CDATA[Kalle! Var är Kalle?]]>
+
+	</copy>
+
+
+	<copy id="day">
+
+		<![CDATA[DAG 3]]>
+	</copy>
+
+	<copy id="intro3">
+
+		<![CDATA[SAMTIDIGT, I UTKANTEN AV ANKEBORG ...]]>
+
+	</copy>
+
+	<copy id="game1">
+
+		<![CDATA[Den stora explosionen skrämde alla djuren, och nu måste jag ut i mörkret och hitta dem!
+HITTA DJUREN I MÖRKRET, OCH ÄVEN MÅRTEN GÅS!
+KLICKA FÖR ATT SPELA]]>
+
+	</copy>
+
+	<copy id="game2">
+
+		<![CDATA[De skenande djuren har knuffat ner alla bilder från väggen. Sätt upp dem igen, med rätt namnskyltar.
+KLICKA FÖR ATT SPELA]]>
+
+	</copy>
+
+	<copy id="speech1">
+
+		<![CDATA[Kackel!]]>
+
+	</copy>
+
+	<copy id="speech2">
+
+		<![CDATA[Brääk!]]>
+
+	</copy>
+
+	<copy id="speech3">
+
+		<![CDATA[KVACK!]]>
+
+	</copy>
+
+	<copy id="speech4">
+
+		<![CDATA[Nöff!]]>
+
+	</copy>
+
+	<copy id="speech5">
+
+		<![CDATA[Kuckelikuuu!!]]>
+
+	</copy>
+
+	<copy id="speech6">
+
+		<![CDATA[Bäää!]]>
+
+	</copy>
+
+	<copy id="speech7">
+
+		<![CDATA[Gnäägg!]]>
+
+	</copy>
+
+</data>

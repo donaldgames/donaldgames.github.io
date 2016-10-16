@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameText>
+
+<Title><![CDATA[DJUREN HAR KNUFFAT NER NAMNSKYLTARNA FRÅN ALLA FAMILJEPORTRÄTTEN.]]></Title>
+
+<subTitle><![CDATA[HJÄLP MÅRTEN ATT SÄTTA TILLBAKA DEM.]]></subTitle>
+
+<Instructions><![CDATA[Instruktioner
+
+Använd muspekaren för att dra namnskylten till rätt bild.
+
+Du kan hoppa över en skylt och komma tillbaka till den senare genom att använda piltangenterna.
+
+Skrolla upp och nerför väggen genom att flytta muspekaren till över- eller nederkanten av tapeten.]]></Instructions>
+
+<Score><![CDATA[Poäng]]></Score>
+
+<Play><![CDATA[Spela >]]></Play>
+
+<Instruction><![CDATA[Instruktioner]]></Instruction>
+
+<Back><![CDATA[Back]]></Back>
+
+<gameOver><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></gameOver>
+
+<yourScore><![CDATA[Poäng :]]></yourScore>
+
+<Congratulations><![CDATA[GRATTIS]]></Congratulations>
+
+<onSuccess><![CDATA[DU HAR SATT TILLBAKA NAMNSKYLTARNA PÅ RÄTT TAVLOR]]></onSuccess>
+
+<nextMission><![CDATA[EN SÅDAN FAMILJ! - MEN VART HAR DEN DÄR KALLE ANKA TAGIT VÄGEN?]]></nextMission>
+
+<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+
+<Contuine><![CDATA[UTFORSKA VIDARE]]></Contuine>
+
+</GameText>

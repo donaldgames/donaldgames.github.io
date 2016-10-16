@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameText>
+
+<Title><![CDATA[LÅNGBEN ]]></Title>
+
+<Title><![CDATA[TAR SIG EN LUR]]></Title>
+
+<Start><![CDATA[SPELA >]]></Start>
+
+<InstructionTitle><![CDATA[INSTRUKTIONER]]></InstructionTitle>
+
+<Instructions><![CDATA[INSTRUKTIONER
+
+Långben sover djupt och lyssnar till toner av musik, svävande bland molnen i drömmen.  Men någonstans i hans dröm, är det Kalle Anka han hör ropa på honom?  Använd <  >  vänster och höger piltangent för att styra Långben.  Med tiden kommer Långben allt närmare uppvaknandet.  Samla musiknoterna för att hålla dig kvar i djup sömn.  Se upp, de kommer mer och mer sällan allteftersom tiden går.  Om du hör Kalle Anka, titta då åt det håll han visar dig, och om du följer hans röst och svänger åt rätt håll, kan du kanske komma närmare att få reda på vart han har tagit vägen.]]></Instructions>
+
+<Asleep><![CDATA[SOVER]]></Asleep>
+
+<Awake><![CDATA[ÄR VAKEN]]></Awake>
+
+<Quack><![CDATA[UACK! ]]></Quack>
+
+<Level><![CDATA[NIVÅ]]></Level>
+
+<Congrats><![CDATA[GRATTIS!]]></Congrats>
+
+<CongratsText><![CDATA[DU HAR SOVIT IGENOM ALLTSAMMANS]]></CongratsText>
+
+<CongratsHint><![CDATA[Du stoppar en väckarklocka i fickan för säkerhets skull]]></CongratsHint>
+
+<Score><![CDATA[POÄNG]]></Score>
+
+<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+
+<Continue><![CDATA[UTFORSKA VIDARE]]></Continue>
+
+<GameOver><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></GameOver>
+
+</GameText>

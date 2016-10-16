@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameText>
+
+<Title><![CDATA[STÄDA UPP BLAND OPPFINNAR-JOCKES VERKTYG]]></Title>
+
+<subTitle><![CDATA[DET ÄR DAGS ATT SÄTTA IHOP SAKER OCH TING IGEN]]></subTitle>
+
+<Instructions><![CDATA[INSTRUKTIONER
+
+Oppfinnar-Jocke gillar att förvara sina verktyg två och två.
+
+Använd muspekaren för att klicka på två olika verktygslådor.  Om du hittar ett par kan du städa undan dem.
+
+Hitta alla paren så snabbt du kan.]]></Instructions>
+
+<Play><![CDATA[SPELA NU>]]></Play>
+
+<Instruction><![CDATA[INSTRUKTIONER]]></Instruction>
+
+<Back><![CDATA[Back]]></Back>
+
+<Toolstidied><![CDATA[VERKTYG UPPSTÄDADE]]></Toolstidied>
+
+<Toolstogo><![CDATA[VERKTYG KVAR]]></Toolstogo>
+
+<gameOver><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></gameOver>
+
+<yourScore><![CDATA[POÄNG :]]></yourScore>
+
+<Congratulations><![CDATA[GRATTIS!]]></Congratulations>
+
+<onSuccess><![CDATA[DU HAR STÄDAT UPP I HELA VERKTYGSSKÅPET]]></onSuccess>
+
+<nextMission><![CDATA[Vi ska försöka laga maskinen snart … och vart har Kalle tagit vägen? Han var här före explosionen ..]]></nextMission>
+
+<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+
+<Contuine><![CDATA[UTFORSKA VIDARE]]></Contuine>
+
+</GameText>

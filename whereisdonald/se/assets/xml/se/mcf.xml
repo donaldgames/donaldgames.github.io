@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameText>
+
+<Title><![CDATA[MUSSE PIGG]]></Title>
+
+<Title><![CDATA[BROTTSBEKÄMPARE]]></Title>
+
+<Start><![CDATA[SPELA >]]></Start>
+
+<InstructionTitle><![CDATA[INSTRUKTIONER]]></InstructionTitle>
+
+<Instructions><![CDATA[INSTRUKTIONER
+
+Led Musse Pigg genom Ankeborgs farliga gator. Sätt upp så många av Kalles efterlysningsaffischer som möjligt, medan du stoppar brottslingarna innan de begår sina brott.]]></Instructions>
+
+<PosterTitle><![CDATA[AFFISCHER:]]></PosterTitle>
+
+<Criminal><![CDATA[ANTAL STOPPADE BROTTSLINGAR:]]></Criminal>
+
+<Level><![CDATA[NIVÅ]]></Level>
+
+<Poster><![CDATA[Tryck på pilen 'V'  för att sätta upp affischen]]></Poster>
+
+<Congrats><![CDATA[GRATTIS!]]></Congrats>
+
+<CongratsText><![CDATA[DU HAR SATT UPP ALLA AFFISCHER MED ”KALLE ANKA FÖRSVUNNEN"]]></CongratsText>
+
+<CongratsHint><![CDATA[Du hittar ett konstigt diagram som kan vara bra att ha senare]]></CongratsHint>
+
+<Score><![CDATA[POÄNG]]></Score>
+
+<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+
+<Continue><![CDATA[UTFORSKA VIDARE]]></Continue>
+
+<GameOver><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></GameOver>
+
+</GameText>

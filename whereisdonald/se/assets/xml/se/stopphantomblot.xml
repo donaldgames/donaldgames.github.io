@@ -1,0 +1,43 @@
+<GameText>
+
+	<MainTitle>PLUTO</MainTitle>
+
+	<SubTitle>STOPPA SPÖKPLUMPEN</SubTitle>
+
+	<Play><![CDATA[SPELA >]]></Play>
+
+	<Instruction><![CDATA[INSTRUKTIONER]]></Instruction>
+
+
+
+	<Instructions><![CDATA[Skäll på brottslingarna för att skrämma bort dem innan de kommer undan med museets värdefulla skatter.
+
+Använd din muspekare för att klicka på en skurk och klicka så fort du kan för att få ner hans skrämselmätare.
+
+När hans skrämselmätare är nere på noll kommer han att springa sin väg!
+
+Om du låter för många bovar komma undan med skatterna är spelet slut]]></Instructions>	
+
+	<Back><![CDATA[Back]]></Back>
+
+	<Level><![CDATA[NIVÅ ]]></Level>
+
+		<Score><![CDATA[POÄNG]]></Score>
+
+<ContinueExploring><![CDATA[UTFORSKA VIDARE]]></ContinueExploring>
+
+
+
+	<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>	
+
+	<Congratulation><![CDATA[GRATTIS! ]]></Congratulation>
+
+	<GameOver><![CDATA[SPELET ÄR SLUT]]></GameOver>
+
+	<GameWin><![CDATA[DU HAR STOPPAT SPÖKPLUMPEN]]></GameWin>
+
+	<GameLost><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></GameLost>
+
+	<Information><![CDATA[DU FÅR TILLBAKA DEN STORA DIAMANTEN OCH STOPPAR DEN I SÄKERT FÖRVAR I DIN VÄSKA]]></Information>
+
+</GameText>

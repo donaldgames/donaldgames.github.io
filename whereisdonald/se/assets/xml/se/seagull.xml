@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameText>
+
+<Title><![CDATA[Sätt stopp för planerna]]></Title>
+
+<Title><![CDATA[som smids på Tarvliga Truten]]></Title>
+
+<Play><![CDATA[SPELA >]]></Play>
+
+<Ok><![CDATA[OK]]></Ok>
+
+<InstructionTitle><![CDATA[INSTRUKTIONER]]></InstructionTitle>
+
+<Instructions><![CDATA[INSTRUKTIONER
+
+Läs ledtrådarna i pratbubblorna och använd musen för att klicka på kartan på de fem målen för attentaten..]]></Instructions>
+
+<KeyText><![CDATA[TECKENFÖRKLARING]]></KeyText>
+
+<Key><![CDATA[NORRA BANKEN,SÖDRA BANKEN]]></Key>
+
+<Key><![CDATA[JUVELERARE]]></Key>
+
+<Key><![CDATA[MUSEUM]]></Key>
+
+<Key><![CDATA[VILLA]]></Key>
+
+<Key><![CDATA[DJURAFFÄR]]></Key>
+
+<Key><![CDATA[PENGABINGEN]]></Key>
+
+<Key><![CDATA[ANTIKAFFÄR]]></Key>
+
+<Key><![CDATA[LUSTJAKT]]></Key>
+
+<Key><![CDATA[ELEKTRONIKAFFÄR]]></Key>
+
+<HintSet type="1">
+
+<Hint answer="Yacht"><![CDATA[Jag hoppas jag inte blir sjösjuk av den här stöten!]]></Hint>
+
+<Hint answer="Yacht"><![CDATA[Glöm inte din dykarutrustning för flykten!]]></Hint>
+
+<Hint answer="Museum"><![CDATA[Det finns något särskilt fint som jag har ögonen på, på den nuvarande utställningen!]]></Hint>
+
+<Hint answer="Museum"><![CDATA[Vi träffas vid Centralparkens nordvästra hörn! Det är bara en kort bit att gå nordväst därifrån!]]></Hint>
+
+<Hint answer="MoneyBin"><![CDATA[Utan ström kommer ingen av den gamla gubbens försvarsmekanismer att fungera!]]></Hint>
+
+<Hint answer="MoneyBin"><![CDATA[Jag har alltid drömt om att få bada i alla de där underbara pengarna!]]></Hint>
+
+<Hint answer="AnimalStore"><![CDATA[Min Mamma har alltid velat ha en katt - ikväll kan jag helt enkelt bara ta en!]]></Hint>
+
+<Hint answer="AnimalStore"><![CDATA[Det är huset i parken i Södra Ankeborg!]]></Hint>
+
+<Hint answer="BankNorth"><![CDATA[Det är bredvid elektronikaffären och med utsikt över parken, eller hur?]]></Hint>
+
+<Hint answer="BankNorth"><![CDATA[Efter stöten kommer jag att springa österut och gömma mig mitt i parken!]]></Hint>
+
+</HintSet>
+
+<Score><![CDATA[POÄNG :]]></Score>
+
+<Congrats><![CDATA[GRATTIS!]]></Congrats>
+
+<Congrats><![CDATA[DU HAR LISTAT UT VAR BROTTEN KOMMER ATT BEGÅS]]></Congrats>
+
+<Congrats><![CDATA[Det verkar som om Ankeborg verkligen behöver din hjälp]]></Congrats>
+
+<PlayAgain><![CDATA[SPELA IGEN >]]></PlayAgain>
+
+<Continue><![CDATA[UTFORSKA VIDARE]]></Continue>
+
+<GameOver><![CDATA[HOPPSAN! SPELET ÄR SLUT]]></GameOver>
+
+</GameText>
