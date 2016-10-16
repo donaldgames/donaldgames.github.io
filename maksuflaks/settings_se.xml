@@ -40,7 +40,7 @@ Det som står mellom <id> og </id> må ikke endres!
 	
 
 <!-- Språk, forkortelse no/se/dk. Må ikke endres til noe annet enn en av disse! -->
-<lang>no</lang>
+<lang>se</lang>
 
 <bigBanana>
    <productId>1</productId>
@@ -54,17 +54,17 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 <id>START</id>
-<tekst>START</tekst>
+<tekst>STARTA</tekst>
 </ord>
 
 <ord>
 <id>INSTRUKSJON</id>
-<tekst>INSTRUKSJON:</tekst>
+<tekst>INSTRUKTIONER:</tekst>
 </ord>
 
 <ord>
 <id>Instruks</id>
-<tekst>Instruksjon: For å starte, tast PIL OPP mange ganger så fort du klarer for å gi Donald fart. Deretter er det bare å se hvor langt uflaksen tar deg.</tekst>
+<tekst>Tryck många gånger på PIL UPP för att ge Kalle fart!</tekst>
 </ord>
 
 <ord>
@@ -74,47 +74,47 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 <id>BLI MEDLEM URL</id>
-<tekst>http://www.donald.no/default.aspx?section=newuser</tekst>
+<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 <ord>
 <id>DAGENS BESTE</id>
-<tekst>DAGENS BESTE</tekst>
+<tekst>DAGENS BÄSTA</tekst>
 </ord>
 
 <ord>
    <id>DONALD PÅ FACEBOOK</id>
-   <tekst>DONALD PÅ FACEBOOK</tekst>
+   <tekst>KALLE ANKA PÅ FACEBOOK</tekst>
 </ord>
   
   <ord>
 	<id>FACEBOOK URL</id>
-	<tekst>http://www.facebook.com/donald.no</tekst>
+	<tekst>http://www.facebook.com/Ankeborgsposten</tekst>
 </ord>
 
 <ord>
 	<id>DITT NAVN</id>
-	<tekst>DITT NAVN:</tekst>
+	<tekst>DITT NAMN:</tekst>
 </ord>
 
 <ord>
 	<id>DEFAULT NAVN</id>
-	<tekst>DONALD DUCK</tekst>
+	<tekst>KALLE ANKA</tekst>
 </ord>
 
 <ord>
 	<id>VELG BANANSKALL</id>
-	<tekst>VELG BANANSKALL:</tekst>
+	<tekst>VÄLJ BANANSKAL:</tekst>
 </ord>
 
 <ord>
 	<id>VANLIG</id>
-	<tekst>VANLIG</tekst>
+	<tekst>VANLIGT</tekst>
 </ord>
 
 <ord>
 	<id>KJØP</id>
-	<tekst>KJØP</tekst>
+	<tekst>KÖP</tekst>
 </ord>
 
 <ord>
@@ -139,17 +139,17 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 	<id>Ikke pålogget</id>
-	<tekst>Du må være pålogget donald.no for å kunne kjøpe.</tekst>
+	<tekst>Du måste vara inloggad på Andeby.dk för att kunna köpa.</tekst>
 </ord>
 
 <ord>
 	<id>Ikke nok</id>
-	<tekst>Du har ikke nok Andebykroner for å kjøpe. Du kan skaffe deg Andebykroner ved å ...</tekst>
+	<tekst>Du har inte tillräckligt med Ankeborgskronor för att köpa. Du kan skaffa dig Ankeborgskronor genom att snacka och kvacka loss på Andeby.dk!</tekst>
 </ord>
 
 <ord>
 	<id>Bekreft kjøp</id>
-	<tekst>Er du sikker på at du vil kjøpe dette?(Kjøpet blir lagret og du trenger ikke å kjøpe på nytt senere.)</tekst>
+	<tekst>Är du säker på att du vill köpa detta? (Köpet sparas och du behöver inte köpa på nytt senare.)</tekst>
 </ord>
 
 <ord>
@@ -159,59 +159,59 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 	<id>STORT OG RÅTTENT</id>
-	<tekst>STORT OG RÅTTENT</tekst>
+	<tekst>STORT OCH RUTTET</tekst>
 </ord>
 
 <!-- Info på bananvalgsiden - Tittel i bold -->
 <ord>
 	<id>valginfo1</id>
-	<tekst>Ulike bananskall:</tekst>
+	<tekst>Olika bananskal:</tekst>
 </ord>
 
 <!-- Info på bananvalgsiden - Hovedtekst -->
 <ord>
 	<id>valginfo2</id>
-	<tekst>Aktivitet på Donald.no belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å bebenytte deg av Andeby-kronene dine. Er du ikke medlem,</tekst>
+	<tekst>Aktivitet på Andeby.dk belönas med Ankeborgskronor. Du måste vara inloggad på Andeby.dk för att kunna använda dina Ankeborgskronor. Är du inte medlem,</tekst>
 </ord>
 
 <!-- Info på bananvalgsiden - Lenke i blått til slutt -->
 <ord>
 	<id>valginfo3</id>
-	<tekst>registrer deg her!</tekst>
+	<tekst>registrera dig här!</tekst>
 </ord>
 
 <!-- Info på bananvalgsiden - Lenke til Bli medlem-url i blått til slutt -->
 <ord>
 	<id>valginfo3url</id>
-	<tekst>http://www.donald.no/default.aspx?section=newuser</tekst>
+	<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 
 <ord>
 	<id>Andeby-kroner</id>
-	<tekst>Andeby-kroner</tekst>
+	<tekst>Ankeborgskronor</tekst>
 </ord>
 
 <ord>
 	<id>Uflaksen</id>
-	<tekst>Uflaksen gav deg:</tekst>
+	<tekst>Oflaxen gav dig:</tekst>
 </ord>
 
 
 <ord>
 	<id>POENG</id>
-	<tekst>POENG</tekst>
+	<tekst>POÄNG</tekst>
 </ord>
 
 
 <ord>
 	<id>DEL DITT RESULTAT</id>
-	<tekst>DEL UFLAKSEN PÅ FACEBOOK</tekst>
+	<tekst>DELA OFLAXEN PÅ FACEBOOK</tekst>
 </ord>
 
 <ord>
 	<id>SPILL IGJEN</id>
-	<tekst>SPILL IGJEN</tekst>
+	<tekst>SPELA IGEN</tekst>
 </ord>
 
 <ord>
@@ -221,52 +221,52 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 	<id>TIPS EN VENN</id>
-	<tekst>TIPS EN VENN</tekst>
+	<tekst>TIPSA EN KOMPIS</tekst>
 </ord>
 
 <ord>
 	<id>Tips en venn</id>
-	<tekst>Tips en venn:</tekst>
+	<tekst>Tipsa en kompis:</tekst>
 </ord>
 
 <ord>
 	<id>Tips en venn-info</id>
-	<tekst>Send et tips på mail til venner og kjente!</tekst>
+	<tekst>Skicka ett tips via mejl till vänner och bekanta!</tekst>
 </ord>
 
 <ord>
 	<id>Ditt navn</id>
-	<tekst>Ditt navn:</tekst>
+	<tekst>Ditt namn:</tekst>
 </ord>
 
 <ord>
 	<id>Din epost</id>
-	<tekst>Din e-postadresse:</tekst>
+	<tekst>Din e-postadress:</tekst>
 </ord>
 
 <ord>
 	<id>Venns epost</id>
-	<tekst>Din venns e-postadresse:</tekst>
+	<tekst>Din kompis e-postadress:</tekst>
 </ord>
 
 <ord>
 	<id>SEND TIPS</id>
-	<tekst>SEND TIPS</tekst>
+	<tekst>SKICKA TIPS</tekst>
 </ord>
 
 <ord>
 	<id>TILBAKE</id>
-	<tekst>TILBAKE</tekst>
+	<tekst>TILLBAKA</tekst>
 </ord>
 
 <ord>
 	<id>Tips sendt</id>
-	<tekst>Tips sendt! Tips gjerne flere!</tekst>
+	<tekst>Tipset är skickat! Tipsa gärna fler!</tekst>
 </ord>
 
 <ord>
 	<id>Tips error</id>
-	<tekst>Alle feltene ovenfor må fylles ut!</tekst>
+	<tekst>Du måste fylla i alla fälten!</tekst>
 </ord>
 
 

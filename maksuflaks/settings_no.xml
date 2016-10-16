@@ -74,7 +74,7 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 <id>BLI MEDLEM URL</id>
-<tekst>http://www.donald.no/default.aspx?section=newuser</tekst>
+<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 <ord>
@@ -139,7 +139,7 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
 	<id>Ikke pålogget</id>
-	<tekst>Du må være pålogget donald.no for å kunne kjøpe.</tekst>
+	<tekst>Du må være pålogget Andeby.dk for å kunne kjøpe.</tekst>
 </ord>
 
 <ord>
@@ -171,7 +171,7 @@ Det som står mellom <id> og </id> må ikke endres!
 <!-- Info på bananvalgsiden - Hovedtekst -->
 <ord>
 	<id>valginfo2</id>
-	<tekst>Aktivitet på Donald.no belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å bebenytte deg av Andeby-kronene dine. Er du ikke medlem,</tekst>
+	<tekst>Aktivitet på Andeby.dk belønnes med Andeby-kroner. Du må være logget inn på Andeby.dk for å bebenytte deg av Andeby-kronene dine. Er du ikke medlem,</tekst>
 </ord>
 
 <!-- Info på bananvalgsiden - Lenke i blått til slutt -->
@@ -183,7 +183,7 @@ Det som står mellom <id> og </id> må ikke endres!
 <!-- Info på bananvalgsiden - Lenke til Bli medlem-url i blått til slutt -->
 <ord>
 	<id>valginfo3url</id>
-	<tekst>http://www.donald.no/default.aspx?section=newuser</tekst>
+	<tekst>http://www.andeby.dk/bliv-medlem/</tekst>
 </ord>
 
 
