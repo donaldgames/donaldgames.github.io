@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pimp313>
+  <parts>
+    <content>
+      <content_antenna>Antenne/ Stasj</content_antenna>
+      <content_decor>Dekor</content_decor>
+      <content_grill>Griller</content_grill>
+      <content_hubcap>Felger</content_hubcap>
+      <content_spoiler>Spoilere</content_spoiler>
+      <content_exhaust>Eksospotter</content_exhaust>
+      <content_interior>Interiør</content_interior>
+      <content_bonnetornament>Panserpynt</content_bonnetornament>
+      <content_lights>Lykter</content_lights>
+      <content_window>Vinduer</content_window>
+      <content_vip>Skattekiste</content_vip>
+    </content>
+    <antenna>
+      <antenna_antenna>Antenne</antenna_antenna>
+      <antenna_foxtail>Revehale</antenna_foxtail>
+      <antenna_dice>Terning</antenna_dice>
+      <antenna_flag>Vimpel</antenna_flag>
+    </antenna>
+    <decor>
+      <decor_neon>Neonlys</decor_neon>
+      <decor_racingstripes>Fartsstriper</decor_racingstripes>
+      <decor_flames>Flammer</decor_flames>
+      <decor_bulletholes>Kulehull</decor_bulletholes>
+      <decor_cracks>Sprekker</decor_cracks>
+      <decor_fins>Finner</decor_fins>
+    </decor>
+    <grill>
+      <grill_01>Type 1</grill_01>
+      <grill_02>Type 2</grill_02>
+      <grill_03>Type 3 m hull</grill_03>
+      <grill_04>Type 4 m riller</grill_04>
+      <grill_05>Golden grill</grill_05>
+      <grill_tounge>Tunge</grill_tounge>
+    </grill>
+    <hubcap>
+      <hubcap_01>Modell 1</hubcap_01>
+      <hubcap_02>Modell 2</hubcap_02>
+      <hubcap_03>Modell 3 m spinn</hubcap_03>
+      <hubcap_04>Modell 4 m spinn</hubcap_04>
+      <hubcap_duckfeet>Andeføtter</hubcap_duckfeet>
+      <hubcap_shoes>Sko</hubcap_shoes>
+      <hubcap_ski>Ski</hubcap_ski>
+    </hubcap>
+    <spoiler>
+      <spoiler_01>Modell 1</spoiler_01>
+      <spoiler_02>Modell 2</spoiler_02>
+      <spoiler_03>Modell 3</spoiler_03>
+      <spoiler_04>Modell 4</spoiler_04>
+    </spoiler>
+    <exhaust>
+      <exhaust_behind01>Bak, modell 1</exhaust_behind01>
+      <exhaust_behind02>Bak, modell 2</exhaust_behind02>
+      <exhaust_side>Sidepotter</exhaust_side>
+    </exhaust>
+    <interior>
+      <interior_standard>Standard</interior_standard>
+      <interior_zebra>Zebra</interior_zebra>
+      <interior_tiger>Tiger</interior_tiger>
+      <interior_jaguar>Jaguar</interior_jaguar>
+    </interior>
+    <hoodornament>
+      <hoodornament_standard>Standard</hoodornament_standard>
+      <hoodornament_8ball>8-ball</hoodornament_8ball>
+      <hoodornament_skull>Skalle</hoodornament_skull>
+      <hoodornament_horn>Horn</hoodornament_horn>
+    </hoodornament>
+    <lights>
+      <lights_313>313 Standard</lights_313>
+      <lights_grandmaduck>Bestemorstyle</lights_grandmaduck>
+      <lights_eyes>Øyne</lights_eyes>
+    </lights>
+    <window>
+      <window_01>Type 1</window_01>
+      <window_02>Type 2</window_02>
+      <window_dome>Kuppel</window_dome>
+    </window>
+    <vip>
+      <vip1name>Golden grill</vip1name>
+      <vip2name>Golden elephant</vip2name>
+      <vip3name>Golden felger</vip3name>
+      <vip4name>Vip lamp</vip4name>
+      <vip5name>Fartshøl</vip5name>
+    </vip>
+  </parts>
+  <menus>
+    <ekstra_heading>EKSTRAUTSTYR</ekstra_heading>
+    <content>INNHOLD</content>
+    <paint>MALING</paint>
+    <paint_body>Kropp</paint_body>
+    <paint_mudguards>Skjermer</paint_mudguards>
+    <paint_headlights>Lykter</paint_headlights>
+    <my_cars>MINE BILER</my_cars>
+    <create_new_car>NY BIL</create_new_car>
+    <donald_313>313 Donald</donald_313>
+    <grandma_duck>Bestemor Duck</grandma_duck>
+    <gyro_gearloose>Petter Smart</gyro_gearloose>
+    <choose_modell>VELG MODELL</choose_modell>
+    <member>LOGG INN / BLI MEDLEM</member>
+    <membertxt>For å lage din egen bil må du være registrertog logget inn som medlem av Andeby.Medlemskap er helt gratis, og tar bare et parminutter å gjennomføre ved å klikke på knappen under.Her kan du også logge inn hvis du alleredeer medlem!</membertxt>
+    <viptext>Du har ikke nok Andebykroner til å låse opp skattekisten som inneholder det fjongeste av det fjonge til bilen din.</viptext>
+    <hotrod>313-KAPPLØP</hotrod>
+  </menus>
+  <buttons>
+    <save>LAGRE</save>
+    <open>åpne</open>
+    <delete>slett</delete>
+    <ok>OKAY!</ok>
+    <name_your_car>NAVN PÅ BIL</name_your_car>
+    <cancle>AVBRYTT</cancle>
+    <member>BLI MEDLEM</member>
+  </buttons>
+  <errormsg>
+    <error1>Hvis du lagrer nå mister du stemmene på denne bilen.</error1>
+    <error2>Du kan ha maks 10 biler, vennligst slett en bil først.</error2>
+    <error3>Du må velge en bil før du kan kjøre 313 kappløp.</error3>
+  </errormsg>
+  <hotrodwin>
+    <heading>KJØREEGENSKAPER</heading>
+    <title>TILGJENGELIGE POENG</title>
+    <desc>
+      Du kan bytte inn Donaldpoeng for
+      opptil 12 ekstra stjerner her! Hver ekstra stjerne koster 60 poeng.
+    </desc>
+    <motor>MOTOR</motor>
+    <gir>GIRKASSE</gir>
+    <turbo>TURBO</turbo>
+  </hotrodwin>
+</pimp313>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pimp313>
+  <parts>
+    <content>
+      <content_antenna>Antenn/Pynt</content_antenna>
+      <content_decor>Dekor</content_decor>
+      <content_grill>Grill</content_grill>
+      <content_hubcap>Fälgar</content_hubcap>
+
+      <content_spoiler>Spoilers</content_spoiler>
+      <content_exhaust>Ljuddämpare</content_exhaust>
+      <content_interior>Interiör</content_interior>
+      <content_bonnetornament>Kylarmärke</content_bonnetornament>
+      <content_lights>Lyktor</content_lights>
+      <content_window>Fönster</content_window>
+
+      <content_vip>VIP</content_vip>
+    </content>
+    <antenna>
+      <antenna_antenna>Antenn</antenna_antenna>
+      <antenna_foxtail>Rävsvans</antenna_foxtail>
+      <antenna_dice>Tärning</antenna_dice>
+
+      <antenna_flag>Vimpel</antenna_flag>
+
+    </antenna>
+    <decor>
+      <decor_neon>Neonljus</decor_neon>
+      <decor_racingstripes>Fartränder</decor_racingstripes>
+      <decor_flames>Flammor</decor_flames>
+
+      <decor_bulletholes>Kulhål</decor_bulletholes>
+      <decor_cracks>Sprickor</decor_cracks>
+
+      <decor_fins>Fenor</decor_fins>
+    </decor>
+    <grill>
+      <grill_01>Typ 1</grill_01>
+
+      <grill_02>Typ 2</grill_02>
+      <grill_03>Typ 3 med hål</grill_03>
+      <grill_04>Typ 4 med räfflor</grill_04>
+
+      <grill_tongue>Tunga</grill_tongue>
+    </grill>
+    <hubcap>
+
+      <hubcap_01>Modell 1</hubcap_01>
+      <hubcap_02>Modell 2</hubcap_02>
+      <hubcap_03>Modell 3 med spinn</hubcap_03>
+      <hubcap_04>Modell 4 med spinn</hubcap_04>
+
+      <hubcap_duckfeet>Ankfötter</hubcap_duckfeet>
+
+      <hubcap_shoes>Skor</hubcap_shoes>
+
+      <hubcap_ski>Skidor</hubcap_ski>
+    </hubcap>
+    <spoiler>
+      <spoiler_01>Modell 1</spoiler_01>
+      <spoiler_02>Modell 2</spoiler_02>
+
+      <spoiler_03>Modell 3</spoiler_03>
+
+      <spoiler_04>Modell 4</spoiler_04>
+    </spoiler>
+    <exhaust>
+      <exhaust_behind01>Bakvagn, modell 1</exhaust_behind01>
+      <exhaust_behind02>Bakvagn, modell 2</exhaust_behind02>
+
+      <exhaust_side>Sidor</exhaust_side>
+
+    </exhaust>
+    <interior>
+      <interior_standard>Standard</interior_standard>
+      <interior_zebra>Zebra</interior_zebra>
+      <interior_tiger>Tiger</interior_tiger>
+
+      <interior_jaguar>Jaguar</interior_jaguar>
+    </interior>
+
+    <hoodornament>
+      <hoodornament_standard>Standard</hoodornament_standard>
+      <hoodornament_8ball>8-boll</hoodornament_8ball>
+      <hoodornament_skull>Skalle</hoodornament_skull>
+
+      <hoodornament_horn>Horn</hoodornament_horn>
+    </hoodornament>
+
+    <lights>
+
+      <lights_313>313 Standard</lights_313>
+      <lights_grandmaduck>Farmorstil</lights_grandmaduck>
+      <lights_eyes>Ögon</lights_eyes>
+
+    </lights>
+    <window>
+      <window_01>Typ 1</window_01>
+
+      <window_02>Typ 2</window_02>
+
+      <window_dome>Kupa</window_dome>
+    </window>
+
+	  <vip>
+		  <vip1name>Guldgrill</vip1name>
+		  <vip2name>Guldelefant</vip2name>
+
+		  <vip3name>Guldfälgar</vip3name>
+		  <vip4name>VIP-lampa</vip4name>
+
+		  <vip5name>Luftskopa</vip5name>
+
+	  </vip>
+  </parts>
+  <menus>
+    <ekstra_heading>UTRUSTNING</ekstra_heading>
+
+    <content>MENY</content>
+    <paint>FÄRG</paint>
+
+    <paint_body>Kaross</paint_body>
+    <paint_mudguards>Skärmar</paint_mudguards>
+    <paint_headlights>Lyktor</paint_headlights>
+    <my_cars>MINA BILAR</my_cars>
+
+    <create_new_car>NY BIL</create_new_car>
+    <donald_313>Kalle Anka</donald_313>
+
+    <grandma_duck>Farmor Anka</grandma_duck>
+    <gyro_gearloose>Oppfinnar-Jocke</gyro_gearloose>
+    <choose_modell>VÄLJ MODELL</choose_modell>
+    <member/>
+
+    <membertxt>För att kunna spara dina bilar måste du spela spelet på KalleAnka.se och vara inloggad på KalleAnka.se.</membertxt>
+	 <viptext>KALLEANKA.SE</viptext>
+
+	<hotrod/>
+  </menus>
+  <buttons>
+    <save>SPARA</save>
+    <open>ÖPPNA</open>
+    <delete>RADERA</delete>
+
+    <ok>OK</ok>
+
+    <name_your_car>BILENS NAMN</name_your_car>
+    <cancle>AVBRYT</cancle>
+	<member/>
+  </buttons>
+  <errormsg>
+    <error1>Om du sparar nu förlorar du den här bilens poäng.</error1>
+
+    <error2>För att kunna spara dina bilar måste du spela spelet på KalleAnka.se och vara inloggad på KalleAnka.se.</error2>
+
+	<error3/>
+</errormsg>
+<hotrodwin><heading/><title/><desc/><motor/><gir/><turbo/></hotrodwin>
+</pimp313>
