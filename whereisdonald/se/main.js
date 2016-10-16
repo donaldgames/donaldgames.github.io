@@ -6,7 +6,7 @@ var isOpen = false;
 
 $(document).ready(function() {
     var q = $.query;
-    swfobject.embedSWF("http://kafsgeorg.webs.com/se/WheresDonald.swf", "mainContent", "100%", "100%", "9.0.0", false, q.keys, mainParams);
+    swfobject.embedSWF("WheresDonald.swf", "mainContent", "100%", "100%", "9.0.0", false, q.keys, mainParams);
 });
 
 
