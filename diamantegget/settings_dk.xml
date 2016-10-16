@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+***************
+  INSTRUKSJON - DIAMANTEGGET
+***************
+
+Hver oversettelse av spillet har sin egen settings.xml-fil
+
+Bare tekst som står mellom <tekst> og </tekst> er tillatt å endre!
+Det som står mellom <id> og </id> må ikke endres!
+
+ -->
+<ordliste>
+  <!-- Lenke til xml som returnerer brukerdata dersom man er pålogget community. Brukes til å legge inn default navn på spilleren -->
+  <brukerdata>
+    <url>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</url>
+  </brukerdata>
+  <highscore>
+    <url>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=highscore</url>
+  </highscore>
+  <score>
+    <url>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=highscore</url>
+  </score>
+  <tips>
+    <url>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendtip</url>
+  </tips>
+  <facebookdeling>
+    <url>http://www.andeby.dk/fb.aspx?type=100</url>
+  </facebookdeling>
+  <!-- Språk, forkortelse no/se/dk. Må ikke endres til noe annet ! -->
+  <lang>dk</lang>
+  <ord>
+    <id>START</id>
+    <tekst>START</tekst>
+  </ord>
+
+  <ord>
+    <id>INSTRUKSJON</id>
+    <tekst>INSTRUKTION:</tekst>
+  </ord>
+
+  <ord>
+    <id>Instruks</id>
+    <tekst>Styr Donald med piltastene!</tekst>
+  </ord>
+
+  <ord>
+    <id>BLI MEDLEM</id>
+    <tekst>BLIV MEDLEM</tekst>
+  </ord>
+
+  <ord>
+    <id>BLI MEDLEM URL</id>
+    <tekst>http://www.andeby.dk/bliv-medlem/</tekst>
+  </ord>
+
+  <ord>
+    <id>DAGENS BESTE</id>
+    <tekst>DAGENS BEDSTE</tekst>
+  </ord>
+
+  <ord>
+    <id>DONALD PÅ FACEBOOK</id>
+    <tekst>ANDEBY PÅ FACEBOOK</tekst>
+  </ord>
+
+  <ord>
+    <id>FACEBOOK URL</id>
+    <tekst>http://www.facebook.com/andebynews</tekst>
+  </ord>
+
+  <ord>
+    <id>DITT NAVN</id>
+    <tekst>DIT NAVN:</tekst>
+  </ord>
+
+  <ord>
+    <id>DEFAULT NAVN</id>
+    <tekst>ANDERS AND</tekst>
+  </ord>
+
+  <ord>
+    <id>VELG HODEPLAGG</id>
+    <tekst>VÆLG HOVEDBEKLÆDNING:</tekst>
+  </ord>
+
+  <ord>
+    <id>LUE</id>
+    <tekst>HUE</tekst>
+  </ord>
+
+  <ord>
+    <id>SØLVHJELM</id>
+    <tekst>SØLVHJELM</tekst>
+  </ord>
+
+  <ord>
+    <id>GULLHJELM</id>
+    <tekst>GULDHJELM</tekst>
+  </ord>
+
+  <!-- Info på hjelmvalgsiden - Tittel i bold -->
+  <ord>
+    <id>valginfo1</id>
+    <tekst>Sølv-/Guldhjelm:</tekst>
+  </ord>
+
+  <!-- Info på hjelmvalgsiden - Hovedtekst -->
+  <ord>
+    <id>valginfo2</id>
+    <tekst>Aktivitet på Andeby.dk belønnes med Andeby-kroner. Du skal være logget på Andeby.dk for at bruge dine Andeby-kroner. Er du ikke medlem,</tekst>
+  </ord>
+
+  <!-- Info på hjelmvalgsiden - Lenke i blått til slutt -->
+  <ord>
+    <id>valginfo3</id>
+    <tekst>registrer dig her!</tekst>
+  </ord>
+
+  <!-- Info på hjelmvalgsiden - Lenke til Bli medlem-url i blått til slutt -->
+  <ord>
+    <id>valginfo3url</id>
+    <tekst>http://www.andeby.dk/bliv-medlem/</tekst>
+  </ord>
+
+  <ord>
+    <id>Andeby-kroner</id>
+    <tekst>Andeby-kroner</tekst>
+  </ord>
+
+  <ord>
+    <id>POENG</id>
+    <tekst>POINT:</tekst>
+  </ord>
+
+  <ord>
+    <id>TIDSBONUS</id>
+    <tekst>TIDSBONUS:</tekst>
+  </ord>
+
+  <ord>
+    <id>TOTALT</id>
+    <tekst>TOTAL:</tekst>
+  </ord>
+
+  <ord>
+    <id>DEL DITT RESULTAT</id>
+    <tekst>DEL DIT RESULTAT PÅ FACEBOOK</tekst>
+  </ord>
+
+  <ord>
+    <id>SPILL IGJEN</id>
+    <tekst>SPIL IGEN</tekst>
+  </ord>
+
+  <ord>
+    <id>MENY</id>
+    <tekst>MENU</tekst>
+  </ord>
+
+  <ord>
+    <id>TIPS EN VENN</id>
+    <tekst>TIP EN VEN</tekst>
+  </ord>
+
+  <ord>
+    <id>Tips en venn</id>
+    <tekst>Tip en ven:</tekst>
+  </ord>
+
+  <ord>
+    <id>Tips en venn-info</id>
+    <tekst>Kender du nogen, der kan narre hønen til at rulle rundt? Inviter dine venner!</tekst>
+  </ord>
+
+  <ord>
+    <id>Ditt navn</id>
+    <tekst>Dit navn:</tekst>
+  </ord>
+
+  <ord>
+    <id>Din epost</id>
+    <tekst>Din e-mailadresse:</tekst>
+  </ord>
+
+  <ord>
+    <id>Venns epost</id>
+    <tekst>Din vens e-mailadresse:</tekst>
+  </ord>
+
+  <ord>
+    <id>SEND TIPS</id>
+    <tekst>SEND TIP</tekst>
+  </ord>
+
+  <ord>
+    <id>TILBAKE</id>
+    <tekst>TILBAGE</tekst>
+  </ord>
+
+  <ord>
+    <id>Tips sendt</id>
+    <tekst>Tippet er sendt! Tip flere!</tekst>
+  </ord>
+
+  <ord>
+    <id>Tips error</id>
+    <tekst>Alle felterne ovenfor slal udfyldes!</tekst>
+  </ord>
+
+
+</ordliste>
