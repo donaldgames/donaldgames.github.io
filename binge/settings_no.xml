@@ -16,7 +16,7 @@ Det som står mellom <id> og </id> må ikke endres!
 <!--- 1 Bronse -->
 <ord>
   <id>utmerkelse1Id</id>
-  <tekst>1</tekst>
+  <tekst>7</tekst>
 </ord>
 
 <ord>
@@ -28,7 +28,7 @@ Det som står mellom <id> og </id> må ikke endres!
 
 <ord>
   <id>utmerkelse2Id</id>
-  <tekst>2</tekst>
+  <tekst>8</tekst>
 </ord>
 
 <ord>
@@ -38,7 +38,7 @@ Det som står mellom <id> og </id> må ikke endres!
 <!--- 3 Gull -->
 <ord>
   <id>utmerkelse3Id</id>
-  <tekst>3</tekst>
+  <tekst>9</tekst>
 </ord>
 
 <ord>
