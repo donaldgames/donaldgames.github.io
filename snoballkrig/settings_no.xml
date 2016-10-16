@@ -1,63 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xml>
-  <word>
-    <id>gameId</id>
-    <string>4000</string>
-  </word>
-  <!-- sprak kan være no, se eller dk -->
-  <word>
-    <id>sprak</id>
-    <string>no</string>
-  </word>
-  <word>
-    <id>brukerdataURL</id>
-    <string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</string>
-  </word>
-  <word>
-    <id>highscoreURL</id>
-    <string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=highscore</string>
-  </word>
-  <word>
-    <id>postscoreURL</id>
-    <string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=highscore</string>
-  </word>
-  <word>
-    <id>tipsURL</id>
-    <string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendtip</string>
-  </word>
-  <word>
-    <id>purchaseURL</id>
-    <string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=purchase</string>
-  </word>
-  <word>
-    <id>bliMedlemURL</id>
-    <string>http://www.andeby.dk/default.aspx?section=newuser</string>
-  </word>
-  <word>
-    <id>facebookURL</id>
-    <string>http://www.facebook.com/andebynews</string>
-  </word>
-  <word>
-    <id>facebookDeleURL</id>
-    <string>http://www.andeby.dk/fb.aspx?type=100</string>
-  </word>
-  <word>
-    <id>vare1Id</id>
-    <string>7</string>
-  </word>
-  <word>
-    <id>vare1Price</id>
-    <string>500</string>
-  </word>
-  <word>
-    <id>vare2Id</id>
-    <string>8</string>
-  </word>
-  <word>
-    <id>vare2Price</id>
-    <string>100</string>
-  </word>
-  <!--- Startmeny -->
+
+
+<word>
+	<id>gameId</id>
+	<string>4000</string>
+</word>
+
+<!-- sprak kan være no, se eller dk -->
+<word>
+	<id>sprak</id>
+	<string>no</string>
+</word>
+
+<word>
+	<id>brukerdataURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=userinfo</string>
+</word>
+
+<word>
+	<id>highscoreURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/listdata.aspx?listType=highscore</string>
+</word>
+
+<word>
+	<id>postscoreURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=highscore</string>
+</word>
+
+<word>
+	<id>tipsURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=sendtip</string>
+</word>
+
+<word>
+	<id>purchaseURL</id>
+	<string>http://www.andeby.dk/hostedgames/agens/postdata.aspx?dataType=purchase</string>
+</word>
+
+
+<word>
+	<id>bliMedlemURL</id>
+	<string>http://www.andeby.dk/bliv-medlem/</string>
+</word>
+
+<word>
+	<id>facebookURL</id>
+	<string>http://www.facebook.com/donald.no</string>
+</word>
+
+<word>
+	<id>facebookDeleURL</id>
+	<string>http://www.andeby.dk/fb.aspx?type=100</string>
+</word>
+
+<word>
+	<id>vare1Id</id>
+	<string>7</string>
+</word>
+
+<word>
+	<id>vare1Price</id>
+	<string>500</string>
+</word>
+
+<word>
+	<id>vare2Id</id>
+	<string>8</string>
+</word>
+
+<word>
+	<id>vare2Price</id>
+	<string>100</string>
+</word>
+
+
+
+<!--- Startmeny -->
 
 <word>
 	<id>START</id>
@@ -108,7 +127,7 @@ Spillet har 3 nivåer.
 
 <word>
 	<id>Instruksjon Medlemsinfo</id>
-	<string>Er du medlem på Donald.no? Da kan du benytte deg av dine Andeby-kroner til å kjøpe deg ekstra liv eller en ekstra snøball i magasinet. Lykke til!</string>
+	<string>Er du medlem på Andeby.dk? Da kan du benytte deg av dine Andeby-kroner til å kjøpe deg ekstra liv eller en ekstra snøball i magasinet. Lykke til!</string>
 </word>
 
 
@@ -187,7 +206,7 @@ En ekstra snøball i magasinet gjør at du slipper å lage nye så ofte.</string
 <!-- Info på kjøpesiden - Hovedtekst -->
 <word>
 	<id>Valginfo2</id>
-	<string>Aktivitet på Donald.no belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å benytte deg av Andeby-kronene dine. Er du ikke medlem,</string>
+	<string>Aktivitet på Andeby.dk belønnes med Andeby-kroner. Du må være logget inn på Donald.no for å benytte deg av Andeby-kronene dine. Er du ikke medlem,</string>
 </word>
 <!-- Info på kjøpesiden - Lenke i blått til slutt -->
 <word>
@@ -197,7 +216,7 @@ En ekstra snøball i magasinet gjør at du slipper å lage nye så ofte.</string
 
 <word>
 	<id>Valginfo3URL</id>
-	<string>http://www.donald.no/default.aspx?section=newuser</string>
+	<string>http://www.andeby.dk/bliv-medlem/</string>
 </word>
 
 <word>
@@ -212,7 +231,7 @@ En ekstra snøball i magasinet gjør at du slipper å lage nye så ofte.</string
 
 <word>
 	<id>Ikke pålogget</id>
-	<string>Du må være pålogget donald.no for å kunne kjøpe.</string>
+	<string>Du må være pålogget Andeby.dk for å kunne kjøpe.</string>
 </word>
 
 <word>
