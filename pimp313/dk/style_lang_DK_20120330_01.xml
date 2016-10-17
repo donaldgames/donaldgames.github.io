@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<pimp313>
+  <parts>
+    <content>
+      <content_antenna>Antenne/Pynt</content_antenna>
+      <content_decor>Dekor</content_decor>
+      <content_grill>Køler</content_grill>
+      <content_hubcap>Fælge</content_hubcap>
+      <content_spoiler>Spoilere</content_spoiler>
+      <content_exhaust>Udstødning</content_exhaust>
+      <content_interior>Interiør</content_interior>
+      <content_bonnetornament>Kølerfigur</content_bonnetornament>
+      <content_lights>Lygter</content_lights>
+      <content_window>Vinduer</content_window>
+      <content_vip>VIP</content_vip>
+    </content>
+    <antenna>
+      <antenna_antenna>Antenne</antenna_antenna>
+      <antenna_foxtail>Rævehale</antenna_foxtail>
+      <antenna_dice>Terning</antenna_dice>
+      <antenna_flag>Vimpel</antenna_flag>
+    </antenna>
+    <decor>
+      <decor_neon>Neonlys</decor_neon>
+      <decor_racingstripes>Fartstriber</decor_racingstripes>
+      <decor_flames>Flammer</decor_flames>
+      <decor_bulletholes>Skudhuller</decor_bulletholes>
+      <decor_cracks>Revner</decor_cracks>
+      <decor_fins>Finner</decor_fins>
+    </decor>
+    <grill>
+      <grill_01>Type 1</grill_01>
+      <grill_02>Type 2</grill_02>
+      <grill_03>Type 3 m huller</grill_03>
+      <grill_04>Type 4 m riller</grill_04>
+	<grill_05>Guld køler</grill_05>
+      <grill_tounge>Tunge</grill_tounge>
+    </grill>
+    <hubcap>
+      <hubcap_01>Model 1</hubcap_01>
+      <hubcap_02>Model 2</hubcap_02>
+      <hubcap_03>Model 3 m spin</hubcap_03>
+      <hubcap_04>Model 4 m spin</hubcap_04>
+      <hubcap_duckfeet>Andefødder</hubcap_duckfeet>
+      <hubcap_shoes>Sko</hubcap_shoes>
+      <hubcap_ski>Ski</hubcap_ski>
+    </hubcap>
+    <spoiler>
+      <spoiler_01>Model 1</spoiler_01>
+      <spoiler_02>Model 2</spoiler_02>
+      <spoiler_03>Model 3</spoiler_03>
+      <spoiler_04>Model 4</spoiler_04>
+    </spoiler>
+    <exhaust>
+      <exhaust_behind01>Bagende, model 1</exhaust_behind01>
+      <exhaust_behind02>Bagende, model 2</exhaust_behind02>
+      <exhaust_side>Side udstødning</exhaust_side>
+    </exhaust>
+    <interior>
+      <interior_standard>Standard</interior_standard>
+      <interior_zebra>Zebra</interior_zebra>
+      <interior_tiger>Tiger</interior_tiger>
+      <interior_jaguar>Jaguar</interior_jaguar>
+    </interior>
+    <hoodornament>
+      <hoodornament_standard>Standard</hoodornament_standard>
+      <hoodornament_8ball>8-ball</hoodornament_8ball>
+      <hoodornament_skull>Kranie</hoodornament_skull>
+      <hoodornament_horn>Horn</hoodornament_horn>
+    </hoodornament>
+    <lights>
+      <lights_313>313 Standard</lights_313>
+      <lights_grandmaduck>Bedstemorstil</lights_grandmaduck>
+      <lights_eyes>Øjne</lights_eyes>
+    </lights>
+    <window>
+      <window_01>Type 1</window_01>
+      <window_02>Type 2</window_02>
+      <window_dome>Boble</window_dome>
+    </window>
+    <vip>
+      <vip1name>Gyldent kølergitter</vip1name>
+      <vip2name>Guld elefant</vip2name>
+      <vip3name>Guld fælge</vip3name>
+      <vip4name>VIP-lampe</vip4name>
+      <vip5name>Luftindtag</vip5name>
+    </vip>
+  </parts>
+  <menus>
+    <ekstra_heading>EKSTRAUDSTYR</ekstra_heading>
+    <content>INDHOLD</content>
+    <paint>MALING</paint>
+    <paint_body>Krop</paint_body>
+    <paint_mudguards>Skærme</paint_mudguards>
+    <paint_headlights>Lygter</paint_headlights>
+    <my_cars>MINE BILER</my_cars>
+    <create_new_car>NY BIL</create_new_car>
+    <donald_313>313 Anders</donald_313>
+    <grandma_duck>Bedstemor And</grandma_duck>
+    <gyro_gearloose>Georg Gearløs</gyro_gearloose>
+    <choose_modell>VÆLG MODEL</choose_modell>
+    <member>LOG IND / BLIV MEDLEM</member>
+    <membertxt>For at gemme din bil skal du være registreret og logget ind på Andeby.dk. Medlemskabet er gratis, og det tager kun et par minutter at registrere sig. Klik på knappen nedenfor. Her kan du også logge ind, hvis du allerede er medlem.</membertxt>
+    <viptext>Du har ikke Andebykroner nok til at få adgang til VIP-pynt.</viptext>
+<hotrod>313-KAPLØB</hotrod>
+  </menus>
+  <buttons>
+    <save>GEM</save>
+    <open>Åbn</open>
+    <delete>Slet</delete>
+    <ok>OKAY!</ok>
+    <name_your_car>NAVN PÅ BIL</name_your_car>
+    <cancle>AFBRYD</cancle>
+    <member>BLIV MEDLEM</member>
+  </buttons>
+  <errormsg>
+    <error1>Hvis du gemmer nu mister du stemmerne på denne bil.</error1>
+    <error2>Du kan maks have 10 biler, slet en bil først.</error2>
+	<error3>Du skal vælge en bil før du kan køre 313 kapløp.</error3></errormsg><hotrodwin><heading>KØREEGENSKABER</heading><title>DINE AKR</title><desc>Du kan købe op til 12 stjerner for dine Andebykroner. Hver ekstra stjerne koster 60 AKR!</desc><motor>MOTOR</motor><gir>GEARKASSE</gir><turbo>TURBO</turbo></hotrodwin></pimp313>
+</pimp313>
