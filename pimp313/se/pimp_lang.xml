@@ -135,7 +135,7 @@
     <membertxt>För att kunna spara dina bilar måste du spela spelet på KalleAnka.se och vara inloggad på KalleAnka.se.</membertxt>
 	 <viptext>Du har inte tillräckligt med Ankeborgskronor för att få tillgång till VIP-pynt.</viptext>
 
-	<hotrod>313 Rally</hotrod>
+	<hotrod>313 RALLY</hotrod>
   </menus>
   <buttons>
     <save>SPARA</save>
@@ -146,7 +146,7 @@
 
     <name_your_car>BILENS NAMN</name_your_car>
     <cancle>AVBRYT</cancle>
-	<member/>
+    <member>BLI MEDLEM</member>
   </buttons>
   <errormsg>
     <error1>Om du sparar nu förlorar du den här bilens poäng.</error1>
