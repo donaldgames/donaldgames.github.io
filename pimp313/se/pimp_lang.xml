@@ -1,128 +1,124 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<pimp313>
-  <parts>
-    <content>
-      <content_antenna>Antenn/Pynt</content_antenna>
-      <content_decor>Dekor</content_decor>
-      <content_grill>Grill</content_grill>
-      <content_hubcap>FÃ¤lgar</content_hubcap>
-      <content_spoiler>Spoilers</content_spoiler>
-      <content_exhaust>LjuddÃ¤mpare</content_exhaust>
-      <content_interior>InteriÃ¶r</content_interior>
-      <content_bonnetornament>KylarmÃ¤rke</content_bonnetornament>
-      <content_lights>Lyktor</content_lights>
-      <content_window>FÃ¶nster</content_window>
-      <content_vip>VIP</content_vip>
-    </content>
-    <antenna>
-      <antenna_antenna>Antenn</antenna_antenna>
-      <antenna_foxtail>RÃ¤vsvans</antenna_foxtail>
-      <antenna_dice>TÃ¤rning</antenna_dice>
-      <antenna_flag>Vimpel</antenna_flag>
-    </antenna>
-    <decor>
-      <decor_neon>Neonljus</decor_neon>
-      <decor_racingstripes>FartrÃ¤nder</decor_racingstripes>
-      <decor_flames>Flammor</decor_flames>
-      <decor_bulletholes>KulhÃ¥l</decor_bulletholes>
-      <decor_cracks>Sprickor</decor_cracks>
-      <decor_fins>Fenor</decor_fins>
-    </decor>
-    <grill>
-      <grill_01>Typ 1</grill_01>
-      <grill_02>Typ 2</grill_02>
-      <grill_03>Typ 3 med hÃ¥l</grill_03>
-      <grill_04>Typ 4 med rÃ¤fflor</grill_04>
-      <grill_tongue>Tunga</grill_tongue>
-    </grill>
-    <hubcap>
-      <hubcap_01>Modell 1</hubcap_01>
-      <hubcap_02>Modell 2</hubcap_02>
-      <hubcap_03>Modell 3 med spinn</hubcap_03>
-      <hubcap_04>Modell 4 med spinn</hubcap_04>
-      <hubcap_duckfeet>AnkfÃ¶tter</hubcap_duckfeet>
-      <hubcap_shoes>Skor</hubcap_shoes>
-      <hubcap_ski>Skidor</hubcap_ski>
-    </hubcap>
-    <spoiler>
-      <spoiler_01>Modell 1</spoiler_01>
-      <spoiler_02>Modell 2</spoiler_02>
-      <spoiler_03>Modell 3</spoiler_03>
-      <spoiler_04>Modell 4</spoiler_04>
-    </spoiler>
-    <exhaust>
-      <exhaust_behind01>Bakvagn, modell 1</exhaust_behind01>
-      <exhaust_behind02>Bakvagn, modell 2</exhaust_behind02>
-      <exhaust_side>Sidor</exhaust_side>
-    </exhaust>
-    <interior>
-      <interior_standard>Standard</interior_standard>
-      <interior_zebra>Zebra</interior_zebra>
-      <interior_tiger>Tiger</interior_tiger>
-      <interior_jaguar>Jaguar</interior_jaguar>
-    </interior>
-    <hoodornament>
-      <hoodornament_standard>Standard</hoodornament_standard>
-      <hoodornament_8ball>8-boll</hoodornament_8ball>
-      <hoodornament_skull>Skalle</hoodornament_skull>
-      <hoodornament_horn>Horn</hoodornament_horn>
-    </hoodornament>
-    <lights>
-      <lights_313>313 Standard</lights_313>
-      <lights_grandmaduck>Farmorstil</lights_grandmaduck>
-      <lights_eyes>Ã–gon</lights_eyes>
-    </lights>
-    <window>
-      <window_01>Typ 1</window_01>
-      <window_02>Typ 2</window_02>
-      <window_dome>Kupa</window_dome>
-    </window>
-    <vip>
-      <vip1name>Guldgrill</vip1name>
-      <vip2name>Guldelefant</vip2name>
-      <vip3name>GuldfÃ¤lgar</vip3name>
-      <vip4name>VIP-lampa</vip4name>
-      <vip5name>Luftskopa</vip5name>
-    </vip>
-  </parts>
-  <menus>
-    <ekstra_heading>UTRUSTNING</ekstra_heading>
-    <content>MENY</content>
-    <paint>FÃ„RG</paint>
-    <paint_body>Kaross</paint_body>
-    <paint_mudguards>SkÃ¤rmar</paint_mudguards>
-    <paint_headlights>Lyktor</paint_headlights>
-    <my_cars>MINA BILAR</my_cars>
-    <create_new_car>NY BIL</create_new_car>
-    <donald_313>Kalle Anka</donald_313>
-    <grandma_duck>Farmor Anka</grandma_duck>
-    <gyro_gearloose>Oppfinnar-Jocke</gyro_gearloose>
-    <choose_modell>VÃ„LJ MODELL</choose_modell>
-    <member>LOGGA IN / BLI MEDLEM</member>
-    <membertxt>FÃ¶r att kunna spara dina bilar mÃ¥ste du spela spelet pÃ¥ Andeby.dk och vara inloggad pÃ¥ Andeby.dk.</membertxt>
-    <viptext>Du har inte tillrÃ¤ckligt med Ankeborgskronor fÃ¶r att fÃ¥ tillgÃ¥ng till VIP-utrustning.</viptext>
-    <hotrod>313 RALLY</hotrod>
-  </menus>
-  <buttons>
-    <save>SPARA</save>
-    <open>Ã–PPNA</open>
-    <delete>RADERA</delete>
-    <ok>OK</ok>
-    <name_your_car>BILENS NAMN</name_your_car>
-    <cancle>AVBRYT</cancle>
-    <member>BLI MEDLEM</member>
-  </buttons>
-  <errormsg>
-    <error1>Om du sparar nu fÃ¶rlorar du den hÃ¤r bilens poÃ¤ng.</error1>
-    <error2>Du kan som mest ha 10 bilar, ta bort en bil fÃ¶rst.</error2>
-    <error3>Du skall vÃ¤lja en bil fÃ¶r att kunna kÃ¶ra 313 Rally!</error3>
-  </errormsg>
-  <hotrodwin>
-    <heading>KÃ–REGENSKAPER</heading>
-    <title>DINA AKR</title>
-    <desc>Du kan kÃ¶pa upp till 12 stjÃ¤rnor fÃ¶r dina Ankeborgskronor. Varje extra stjÃ¤rna kostar 60 AKR!</desc>
-    <motor>MOTOR</motor>
-    <gir>VÃ„XEL</gir>
-    <turbo>TURBO</turbo>
-  </hotrodwin>
+<?xml version="1.0"?>
+<pimp313><parts>
+<content>
+<content_antenna>Antenn/Pynt</content_antenna>
+<content_decor>Dekor</content_decor>
+<content_grill>Grill</content_grill>
+<content_hubcap>Fälgar</content_hubcap>
+<content_spoiler>Spoilers</content_spoiler>
+<content_exhaust>Avgasrör</content_exhaust>
+<content_interior>Interiör</content_interior>
+<content_bonnetornament>Kylarprydnad</content_bonnetornament>
+<content_lights>Lyktor</content_lights>
+<content_window>Fönster</content_window>
+<content_vip>Skattkista</content_vip>
+</content>
+<antenna>
+<antenna_antenna>Antenn</antenna_antenna>
+<antenna_foxtail>Rävsvans</antenna_foxtail>
+<antenna_dice>Tärning</antenna_dice>
+<antenna_flag>Vimpel</antenna_flag>
+</antenna>
+<decor>
+<decor_neon>Neonljus</decor_neon>
+<decor_racingstripes>Fartränder</decor_racingstripes>
+<decor_flames>Flammor</decor_flames>
+<decor_bulletholes>Kulhål</decor_bulletholes>
+<decor_cracks>Sprickor</decor_cracks>
+<decor_fins>Fenor</decor_fins></decor>
+<grill><grill_01>Typ 1</grill_01>
+<grill_02>Typ 2</grill_02>
+<grill_03>Typ 3 m hål</grill_03>
+<grill_04>Typ 4 m räfflor</grill_04>
+<grill_05>Gyllene grill</grill_05>
+<grill_tounge>Tunga</grill_tounge>
+</grill>
+<hubcap>
+<hubcap_01>Modell 1</hubcap_01>
+<hubcap_02>Modell 2</hubcap_02>
+<hubcap_03>Modell 3 m spinn</hubcap_03>
+<hubcap_04>Modell 4 m spinn</hubcap_04>
+<hubcap_duckfeet>Ankfötter</hubcap_duckfeet>
+<hubcap_shoes>Skor</hubcap_shoes>
+<hubcap_ski>Skidor</hubcap_ski>
+</hubcap>
+<spoiler>
+<spoiler_01>Modell 1</spoiler_01>
+<spoiler_02>Modell 2</spoiler_02>
+<spoiler_03>Modell 3</spoiler_03>
+<spoiler_04>Modell 4</spoiler_04>
+</spoiler>
+<exhaust>
+<exhaust_behind01>Bak, modell 1</exhaust_behind01>
+<exhaust_behind02>Bak, modell 2</exhaust_behind02>
+<exhaust_side>På sidan</exhaust_side>
+</exhaust>
+<interior>
+<interior_standard>Standard</interior_standard>
+<interior_zebra>Zebra</interior_zebra>
+<interior_tiger>Tiger</interior_tiger>
+<interior_jaguar>Jaguar</interior_jaguar>
+</interior>
+<hoodornament>
+<hoodornament_standard>Standard</hoodornament_standard>
+<hoodornament_8ball>8-ball</hoodornament_8ball>
+<hoodornament_skull>Skalle</hoodornament_skull>
+<hoodornament_horn>Horn</hoodornament_horn>
+</hoodornament>
+<lights>
+<lights_313>313 Standard</lights_313>
+<lights_grandmaduck>Farmorstil</lights_grandmaduck>
+<lights_eyes>Ögon</lights_eyes>
+</lights>
+<window>
+<window_01>Typ 1</window_01>
+<window_02>Typ 2</window_02>
+<window_dome>Kupol</window_dome>
+</window>
+<vip><vip1name>Gyllene grill</vip1name>
+<vip2name>Gyllene elefant</vip2name>
+<vip3name>Gyllene fälgar</vip3name>
+<vip4name>Vip-lyktor</vip4name>
+<vip5name>Luftskopa</vip5name></vip>
+</parts>
+<menus>
+<ekstra_heading>EXTRAUTRUSTNING</ekstra_heading>
+<content>INNEHÅLL</content>
+<paint>LACK</paint>
+<paint_body>Kropp</paint_body>
+<paint_mudguards>Skärmar</paint_mudguards>
+<paint_headlights>Lyktor</paint_headlights>
+<my_cars>MINA BILAR</my_cars>
+<create_new_car>NY BIL</create_new_car>
+<donald_313>Kalles 313</donald_313>
+<grandma_duck>Farmor Anka</grandma_duck>
+<gyro_gearloose>Oppfinnar-Jocke</gyro_gearloose>
+<choose_modell>VÄLJ MODELL</choose_modell>
+<member>LOGGA IN / BLI MEDLEM</member>
+<membertxt>För att göra din egen bil måste du vara registrerad och inloggad som medlem på Andeby.dk. Medlemskapet är helt gratis, och tar bara ett par minuter att genomföra, genom att klicka på knappen här nedanför. Här kan du också logga in om du redan är medlem!</membertxt>
+<viptext>Du har inte tillräckligt med Ankeborgskronor för att låsa upp skattkistan som innehåller det coolaste av det coola till din bil.</viptext>
+<hotrod>313 RALLY</hotrod>
+</menus>
+<buttons>
+<save>SPARA</save>
+<open>öppna</open>
+<delete>radera</delete>
+<ok>OKEJ!</ok>
+<name_your_car>BILENS NAMN</name_your_car>
+<cancle>AVBRYT</cancle>
+<member>BLI MEDLEM</member>
+</buttons>
+<errormsg>
+<error1>Om du sparar nu förlorar du den här bilens röster.</error1>
+<error2>Du kan ha max. tio bilar, var snäll och ta bort en bil först.</error2>
+<error3>Du måste välja en bil innan du kan köra 313 Rally.</error3>
+</errormsg>
+<hotrodwin>
+<heading>KÖREGENSKAPER</heading>
+<title>TILLGÄNGLIGA STJÄRNOR</title>
+<desc>Du kan köpa upp till tolv extra stjärnor här för dina Ankeborgskronor! Varje extra stjärna kostar 60 Ankeborgskronor.</desc>
+<motor>MOTOR</motor>
+<gir>VÄXELLÅDA</gir>
+<turbo>TURBO</turbo>
+</hotrodwin>
 </pimp313>
