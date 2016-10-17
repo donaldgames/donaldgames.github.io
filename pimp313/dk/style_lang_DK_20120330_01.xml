@@ -33,7 +33,7 @@
       <grill_02>Type 2</grill_02>
       <grill_03>Type 3 m huller</grill_03>
       <grill_04>Type 4 m riller</grill_04>
-	<grill_05>Guld køler</grill_05>
+      <grill_05>Guld køler</grill_05>
       <grill_tounge>Tunge</grill_tounge>
     </grill>
     <hubcap>
@@ -102,7 +102,7 @@
     <member>LOG IND / BLIV MEDLEM</member>
     <membertxt>For at gemme din bil skal du være registreret og logget ind på Andeby.dk. Medlemskabet er gratis, og det tager kun et par minutter at registrere sig. Klik på knappen nedenfor. Her kan du også logge ind, hvis du allerede er medlem.</membertxt>
     <viptext>Du har ikke Andebykroner nok til at få adgang til VIP-pynt.</viptext>
-<hotrod>313-KAPLØB</hotrod>
+    <hotrod>313-KAPLØB</hotrod>
   </menus>
   <buttons>
     <save>GEM</save>
@@ -116,5 +116,14 @@
   <errormsg>
     <error1>Hvis du gemmer nu mister du stemmerne på denne bil.</error1>
     <error2>Du kan maks have 10 biler, slet en bil først.</error2>
-	<error3>Du skal vælge en bil før du kan køre 313 kapløp.</error3></errormsg><hotrodwin><heading>KØREEGENSKABER</heading><title>DINE AKR</title><desc>Du kan købe op til 12 stjerner for dine Andebykroner. Hver ekstra stjerne koster 60 AKR!</desc><motor>MOTOR</motor><gir>GEARKASSE</gir><turbo>TURBO</turbo></hotrodwin></pimp313>
+    <error3>Du skal vælge en bil før du kan køre 313 kapløp.</error3>
+  </errormsg>
+  <hotrodwin>
+    <heading>KØREEGENSKABER</heading>
+    <title>DINE AKR</title>
+    <desc>Du kan købe op til 12 stjerner for dine Andebykroner. Hver ekstra stjerne koster 60 AKR!</desc>
+    <motor>MOTOR</motor>
+    <gir>GEARKASSE</gir>
+    <turbo>TURBO</turbo>
+  </hotrodwin>
 </pimp313>
