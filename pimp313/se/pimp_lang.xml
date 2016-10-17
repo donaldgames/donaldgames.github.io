@@ -132,8 +132,8 @@
     <choose_modell>VÄLJ MODELL</choose_modell>
     <member>LOGGA IN / BLI MEDLEM</member>
 
-    <membertxt>För att kunna spara dina bilar måste du spela spelet på KalleAnka.se och vara inloggad på KalleAnka.se.</membertxt>
-	 <viptext>Du har inte tillräckligt med Ankeborgskronor för att få tillgång till VIP-pynt.</viptext>
+    <membertxt>För att kunna spara dina bilar måste du spela spelet på Andeby.dk och vara inloggad på Andeby.dk.</membertxt>
+	 <viptext>Du har inte tillräckligt med Ankeborgskronor för att få tillgång till VIP-utrustning.</viptext>
 
 	<hotrod>313 RALLY</hotrod>
   </menus>
@@ -151,7 +151,7 @@
   <errormsg>
     <error1>Om du sparar nu förlorar du den här bilens poäng.</error1>
 
-    <error2>För att kunna spara dina bilar måste du spela spelet på Andeby.dk och vara inloggad på Andeby.dk.</error2>
+    <error2>Du kan som mest ha 10 bilar, ta bort en bil först.</error2>
 
     <error3>Du skall välja en bil för att kunna köra 313 Rally!</error3>
 </errormsg>
