@@ -155,5 +155,5 @@
 
     <error3>Du skall välja en bil för att kunna köra 313 Rally!</error3>
 </errormsg>
-<hotrodwin><heading>KÖREGENSKAPER</heading><title>DINA AKR</title><desc>Du kan köpa upp till 12 stjärnor för dina Ankeborgskronor. Varje extra stjärna kostar 60 AKR!<motor>MOTOR</motor><gir>VÄXEL</gir><turbo>TURBO</turbo></hotrodwin>
+<hotrodwin><heading>KÖREGENSKAPER</heading><title>DINA AKR</title><desc>Du kan köpa upp till 12 stjärnor för dina Ankeborgskronor. Varje extra stjärna kostar 60 AKR!</desc><motor>MOTOR</motor><gir>VÄXEL</gir><turbo>TURBO</turbo></hotrodwin>
 </pimp313>
