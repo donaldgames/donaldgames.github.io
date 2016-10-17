@@ -8,7 +8,7 @@
       <content_hubcap>Felger</content_hubcap>
       <content_spoiler>Spoilere</content_spoiler>
       <content_exhaust>Eksospotter</content_exhaust>
-      <content_interior>InteriÃ¸r</content_interior>
+      <content_interior>Interiør</content_interior>
       <content_bonnetornament>Panserpynt</content_bonnetornament>
       <content_lights>Lykter</content_lights>
       <content_window>Vinduer</content_window>
@@ -41,7 +41,7 @@
       <hubcap_02>Modell 2</hubcap_02>
       <hubcap_03>Modell 3 m spinn</hubcap_03>
       <hubcap_04>Modell 4 m spinn</hubcap_04>
-      <hubcap_duckfeet>AndefÃ¸tter</hubcap_duckfeet>
+      <hubcap_duckfeet>Andeføtter</hubcap_duckfeet>
       <hubcap_shoes>Sko</hubcap_shoes>
       <hubcap_ski>Ski</hubcap_ski>
     </hubcap>
@@ -71,7 +71,7 @@
     <lights>
       <lights_313>313 Standard</lights_313>
       <lights_grandmaduck>Bestemorstyle</lights_grandmaduck>
-      <lights_eyes>Ã˜yne</lights_eyes>
+      <lights_eyes>Øyne</lights_eyes>
     </lights>
     <window>
       <window_01>Type 1</window_01>
@@ -83,7 +83,7 @@
       <vip2name>Golden elephant</vip2name>
       <vip3name>Golden felger</vip3name>
       <vip4name>Vip lamp</vip4name>
-      <vip5name>FartshÃ¸l</vip5name>
+      <vip5name>Fartshøl</vip5name>
     </vip>
   </parts>
   <menus>
@@ -100,26 +100,26 @@
     <gyro_gearloose>Petter Smart</gyro_gearloose>
     <choose_modell>VELG MODELL</choose_modell>
     <member>LOGG INN / BLI MEDLEM</member>
-    <membertxt>For Ã¥ lage din egen bil mÃ¥ du vÃ¦re registrert og logget inn som medlem av Andeby. Medlemskap er helt gratis, og tar bare et par minutter Ã¥ gjennomfÃ¸re ved Ã¥ klikke pÃ¥ knappen under. Her kan du ogsÃ¥ logge inn hvis du allerede er medlem!</membertxt>
-    <viptext>Du har ikke nok Andebykroner til Ã¥ lÃ¥se opp skattekisten som inneholder det fjongeste av det fjonge til bilen din.</viptext>
-    <hotrod>313-KAPPLÃ˜P</hotrod>
+    <membertxt>For å lage din egen bil må du være registrert og logget inn som medlem av Andeby. Medlemskap er helt gratis, og tar bare et par minutter å gjennomføre ved å klikke på knappen under. Her kan du også logge inn hvis du allerede er medlem!</membertxt>
+    <viptext>Du har ikke nok Andebykroner til å låse opp skattekisten som inneholder det fjongeste av det fjonge til bilen din.</viptext>
+    <hotrod>313-KAPPLØP</hotrod>
   </menus>
   <buttons>
     <save>LAGRE</save>
-    <open>Ã¥pne</open>
+    <open>åpne</open>
     <delete>slett</delete>
     <ok>OKAY!</ok>
-    <name_your_car>NAVN PÃ… BIL</name_your_car>
+    <name_your_car>NAVN PÅ BIL</name_your_car>
     <cancle>AVBRYTT</cancle>
     <member>BLI MEDLEM</member>
   </buttons>
   <errormsg>
-    <error1>Hvis du lagrer nÃ¥ mister du stemmene pÃ¥ denne bilen.</error1>
-    <error2>Du kan ha maks 10 biler, vennligst slett en bil fÃ¸rst.</error2>
-    <error3>Du mÃ¥ velge en bil fÃ¸r du kan kjÃ¸re 313 kapplÃ¸p.</error3>
+    <error1>Hvis du lagrer nå mister du stemmene på denne bilen.</error1>
+    <error2>Du kan ha maks 10 biler, vennligst slett en bil først.</error2>
+    <error3>Du må velge en bil før du kan kjøre 313 kappløp.</error3>
   </errormsg>
   <hotrodwin>
-    <heading>KJÃ˜REEGENSKAPER</heading>
+    <heading>KJØREEGENSKAPER</heading>
     <title>TILGJENGELIGE POENG</title>
     <desc>
       Du kan bytte inn Donaldpoeng for
