@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<showroom>
+  <buttons>
+    <top10>TOP 10</top10>
+    <fresh_cars>DE NYESTE</fresh_cars>
+    <mixed>RANDOM</mixed>
+    <my_car>MIN BIL</my_car>
+    <back>FORRIGE</back>
+    <next>NÆSTE</next>
+
+    <brag_about_your_car>VIS DIN BIL</brag_about_your_car>
+    <show_it_too_a_friend>Vis til en ven</show_it_too_a_friend>
+    <your_friends_e-mail_adress>Din vens e-mail</your_friends_e-mail_adress>	
+    <send>SEND!</send>
+    <vote>STEM!</vote>
+    <garage>TIL GARAGEN</garage>
+    <member>BLIV MEDLEM</member>
+
+  </buttons>
+
+  <text>
+    <owner>EJER:</owner>
+    <clan>Klan</clan>
+    <average>Snit</average>
+    <votes>Stemmer</votes>
+    <made>Gem</made>
+    <your_opinion>DIN VURDERING</your_opinion>
+    <thank_you_for_voting>Tak for din stemme</thank_you_for_voting>
+    <ranked>plads</ranked>
+    <ranked_nr>nr.</ranked_nr>
+    <error>Vælg point før du stemmer</error>
+	<error2>Kunne ikke registrere stemme. Prøv igen</error2>
+	<error3>Du skal være logget ind for at stemme!</error3>
+  </text>
+
+
+</showroom>
